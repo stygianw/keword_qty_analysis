@@ -1,0 +1,14 @@
+914146: code: 914146
+914146: extprdid: 302849001
+914146: title: "Storybook Princess Babies" Miniature Baby Doll Collection
+914146: SHORT_NAME: Storybook Princess Babies Baby Doll Collection
+Product not found in props of code 914146
+914146: shortdesc: Storybook Princess Babies Miniature Baby Doll Collection
+914146: FEATURE_VALUES: Sleeping
+914146: keywords: Miniature Dolls
+914146: MANUFACTURER: The Ashton-Drake Galleries
+artist not found in props of code 914146
+914146: OTHER_COUNTRY_PROD_ID: None
+914146: EMAIL_SUBJECT_TITLE: Miniature Fairy Tale Princess Baby Doll Collection
+Product Types: ['Baby Dolls']
+Themes not found in dimensions of code 914146
