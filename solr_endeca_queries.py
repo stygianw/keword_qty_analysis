@@ -26,7 +26,8 @@ def find_endeca_props(search_word):
 
 
 def find_solr_props(search_word):
-    doc = provide_xml_response(search_word)
+    r = request.urlopen(_create_solr_url(search_word))
+    doc = r.read()
     root = ET.fromstring(doc)
     solr_docs = root.findall('.//result/doc')
     solr_properties = {x.find('./str[@name=\'code\']').text: { y.attrib['name']: y.text if y.tag != 'arr' else [z.text for z in y.findall('./str') ] for y in x.findall('./*[@name]') }  for x in solr_docs}
@@ -34,10 +35,7 @@ def find_solr_props(search_word):
 
 
 def _create_solr_search_string(solr_query):
-    if re.match(r'\S+\s+\S+', solr_query):
-        return  re.sub(r'(\s|^)', r'\1+', solr_query) + " \"{}\"".format(solr_query)
-    else:
-        return str(solr_query)
+    return str(solr_query)
 
 
 def test_create_solr_query():
@@ -46,7 +44,7 @@ def test_create_solr_query():
 
 
 def _create_solr_q_param(search_string):
-    return parse.urlencode( {'q': "+({})".format(_create_solr_search_string(search_string))}, safe="()\"")
+    return parse.urlencode( {'q': "+({})".format(_create_solr_search_string(search_string)), 'mm': '100%'}, safe="()\"")
 
 
 def test_create_solr_q_param():

@@ -1,0 +1,99 @@
+Keyword: HARRY POTTER, Endeca qty: 9, Solr qty: 9
+Keyword: CHECKS, Endeca qty: 0, Solr qty: 0
+Keyword: DISNEY, Endeca qty: 315, Solr qty: 315
+Keyword: WOMENS RINGS, Endeca qty: 402, Solr qty: 398
+Keyword: STAR WARS, Endeca qty: 28, Solr qty: 28
+Keyword: PEANUTS, Endeca qty: 50, Solr qty: 50
+Keyword: RINGS, Endeca qty: 532, Solr qty: 531
+Keyword: NEW ENGLAND PATRIOTS, Endeca qty: 60, Solr qty: 0
+Keyword: DALLAS COWBOYS, Endeca qty: 47, Solr qty: 47
+Keyword: NIGHTMARE BEFORE CHRISTMAS, Endeca qty: 61, Solr qty: 61
+Keyword: WIZARD OF OZ, Endeca qty: 32, Solr qty: 32
+Keyword: SNOOPY, Endeca qty: 28, Solr qty: 27
+Keyword: KISS, Endeca qty: 41, Solr qty: 43
+Keyword: ARMY, Endeca qty: 62, Solr qty: 62
+Keyword: MICKEY MOUSE, Endeca qty: 99, Solr qty: 92
+Keyword: BATMAN, Endeca qty: 10, Solr qty: 10
+Keyword: MENS RINGS, Endeca qty: 137, Solr qty: 137
+Keyword: MARVEL, Endeca qty: 15, Solr qty: 15
+Keyword: PRECIOUS MOMENTS, Endeca qty: 246, Solr qty: 246
+Keyword: BETTY BOOP, Endeca qty: 18, Solr qty: 18
+Keyword: PHILADELPHIA EAGLES, Endeca qty: 33, Solr qty: 33
+Keyword: BEAUTY AND THE BEAST, Endeca qty: 16, Solr qty: 95
+Keyword: NAVY, Endeca qty: 64, Solr qty: 0
+Keyword: WOMENS BRACELETS, Endeca qty: 317, Solr qty: 316
+Keyword: JOHN WAYNE, Endeca qty: 59, Solr qty: 59
+Keyword: WOMENS NECKLACES AND PENDANTS, Endeca qty: 360, Solr qty: 436
+Keyword: MARINES, Endeca qty: 109, Solr qty: 105
+Keyword: DAUGHTER, Endeca qty: 159, Solr qty: 158
+Keyword: WEDDING RINGS, Endeca qty: 89, Solr qty: 60
+Keyword: STAR TREK, Endeca qty: 22, Solr qty: 22
+Keyword: MOTHERS RING, Endeca qty: 38, Solr qty: 32
+Keyword: USMC, Endeca qty: 109, Solr qty: 105
+Keyword: WINNIE THE POOH, Endeca qty: 16, Solr qty: 16
+Keyword: PITTSBURGH STEELERS, Endeca qty: 53, Solr qty: 53
+Keyword: AIR FORCE, Endeca qty: 47, Solr qty: 47
+Keyword: CATS, Endeca qty: 158, Solr qty: 159
+Keyword: WOLF, Endeca qty: 120, Solr qty: 120
+Keyword: ELVIS, Endeca qty: 72, Solr qty: 72
+Keyword: SNOWGLOBES WATER GLOBES, Endeca qty: 117, Solr qty: 116
+Keyword: EAGLES, Endeca qty: 232, Solr qty: 232
+Keyword: NEW ORLEANS SAINTS, Endeca qty: 30, Solr qty: 30
+Keyword: ANGELS, Endeca qty: 169, Solr qty: 169
+Keyword: CLOCKS, Endeca qty: 176, Solr qty: 176
+Keyword: CARDINALS, Endeca qty: 110, Solr qty: 109
+Keyword: GRANDDAUGHTER, Endeca qty: 175, Solr qty: 174
+Keyword: RING, Endeca qty: 532, Solr qty: 531
+Keyword: HELLO KITTY, Endeca qty: 4, Solr qty: 4
+Keyword: A MOTHERS EMBRACE PERSONALIZED BIRTHSTONE RING, Endeca qty: 2, Solr qty: 2
+Keyword: CHRISTMAS, Endeca qty: 540, Solr qty: 540
+Keyword: ALICE IN WONDERLAND, Endeca qty: 6, Solr qty: 6
+Keyword: ELEPHANTS, Endeca qty: 40, Solr qty: 40
+Keyword: MILITARY, Endeca qty: 289, Solr qty: 289
+Keyword: MOTHERS RINGS, Endeca qty: 38, Solr qty: 32
+Keyword: WOLVES, Endeca qty: 120, Solr qty: 120
+Keyword: CHICAGO BEARS, Endeca qty: 27, Solr qty: 27
+Keyword: COINS, Endeca qty: 298, Solr qty: 297
+Keyword: WEDDING SETS, Endeca qty: 38, Solr qty: 35
+Keyword: MICKEY, Endeca qty: 114, Solr qty: 114
+Keyword: MARILYN MONROE, Endeca qty: 7, Solr qty: 7
+Keyword: DISNEY PRINCESS, Endeca qty: 57, Solr qty: 52
+Keyword: HARLEY DAVIDSON, Endeca qty: 4, Solr qty: 4
+Keyword: CHICAGO CUBS, Endeca qty: 43, Solr qty: 43
+Keyword: COCA COLA, Endeca qty: 40, Solr qty: 40
+Keyword: WOMENS EARRINGS, Endeca qty: 50, Solr qty: 49
+Keyword: TINKER BELL, Endeca qty: 22, Solr qty: 22
+Keyword: GREEN BAY PACKERS, Endeca qty: 55, Solr qty: 55
+Keyword: CAT, Endeca qty: 158, Solr qty: 159
+Keyword: PATRIOTS, Endeca qty: 86, Solr qty: 86
+Keyword: THOMAS KINKADE, Endeca qty: 279, Solr qty: 278
+Keyword: CLEMSON, Endeca qty: 13, Solr qty: 13
+Keyword: CLOCK, Endeca qty: 176, Solr qty: 176
+Keyword: OAKLAND RAIDERS, Endeca qty: 17, Solr qty: 17
+Keyword: DRAGONS, Endeca qty: 22, Solr qty: 22
+Keyword: TINKERBELL, Endeca qty: 22, Solr qty: 22
+Keyword: CLEMSON TIGERS, Endeca qty: 13, Solr qty: 13
+Keyword: CUCKOO CLOCKS, Endeca qty: 108, Solr qty: 107
+Keyword: MENS BRACELETS, Endeca qty: 62, Solr qty: 62
+Keyword: GONE WITH THE WIND, Endeca qty: 7, Solr qty: 6
+Keyword: MUNSTERS, Endeca qty: 8, Solr qty: 8
+Keyword: PURSES, Endeca qty: 125, Solr qty: 125
+Keyword: WEDDING BANDS, Endeca qty: 43, Solr qty: 41
+Keyword: KANSAS CITY CHIEFS, Endeca qty: 17, Solr qty: 17
+Keyword: CALENDARS, Endeca qty: 13, Solr qty: 13
+Keyword: CALENDAR, Endeca qty: 13, Solr qty: 13
+Keyword: MUSIC BOX, Endeca qty: 178, Solr qty: 176
+Keyword: DENVER BRONCOS, Endeca qty: 42, Solr qty: 42
+Keyword: COLLECTOR PLATES, Endeca qty: 131, Solr qty: 131
+Keyword: GRANDSON, Endeca qty: 50, Solr qty: 50
+Keyword: CINDERELLA, Endeca qty: 25, Solr qty: 25
+Keyword: NATIVE AMERICAN STYLE, Endeca qty: 173, Solr qty: 173
+Keyword: CROSS, Endeca qty: 132, Solr qty: 131
+Keyword: FAIRIES, Endeca qty: 79, Solr qty: 78
+Keyword: BUTTERFLY, Endeca qty: 48, Solr qty: 48
+Keyword: EEYORE, Endeca qty: 5, Solr qty: 5
+Keyword: MUSIC BOXES, Endeca qty: 178, Solr qty: 176
+Keyword: MENS WATCHES, Endeca qty: 69, Solr qty: 69
+Keyword: NEW YORK YANKEES, Endeca qty: 34, Solr qty: 34
+Keyword: LAMPS, Endeca qty: 118, Solr qty: 118
+Keyword: ANGEL, Endeca qty: 169, Solr qty: 169
