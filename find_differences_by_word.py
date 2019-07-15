@@ -1,7 +1,7 @@
 import solr_endeca_queries as se
 
 
-SEARCH_WORD = 'BEAUTY AND THE BEAST'
+SEARCH_WORD = 'WOMENS BRACELETS'
 
 
 ENDECA_PRIMARY_SEARCH_FIELDS = [
