@@ -8,7 +8,7 @@ CURRENT_KEYWORDS_IDX = 1
 
 def read_keywords(file_idx):
     result = []
-    with open ('data/keywords_{}.txt'.format(file_idx), 'r') as f:
+    with open('data/keywords_{}.txt'.format(file_idx), 'r') as f:
         for line in f:
             result.append(line.strip())
     return result

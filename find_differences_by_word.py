@@ -93,7 +93,7 @@ def print_solr_only_props(codes, solr_records) -> list:
 
 
 def write_to_file(results):
-    with open('output/result_{}_{}.txt'.format(SEARCH_WORD, datetime.now().isoformat), 'w') as f:
+    with open('output/result_{}_{}.txt'.format(SEARCH_WORD, datetime.now().isoformat()), 'w') as f:
         for line in results:
             f.write(line + '\n')
 
