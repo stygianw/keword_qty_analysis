@@ -1,7 +1,7 @@
 import solr_endeca_queries as se
 
 
-SEARCH_WORD = 'WOMENS BRACELETS'
+SEARCH_WORD = 'WOMENS JEWELRY'
 
 
 ENDECA_PRIMARY_SEARCH_FIELDS = [
@@ -114,8 +114,10 @@ def main():
     result = []
 
     if(endeca_only):
+        result.append('---Endeca Only---')
         result.extend(print_endeca_only_props(endeca_only, erec_properties, erec_dimension_matches))
     if solr_only:
+        result.append('---Solr Only---')
         result.extend(print_solr_only_props(solr_only, solr_properties))
     
     write_to_file(result)

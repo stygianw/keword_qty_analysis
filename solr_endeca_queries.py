@@ -44,7 +44,7 @@ def test_create_solr_query():
 
 
 def _create_solr_q_param(search_string):
-    return parse.urlencode( {'q': "+({})".format(_create_solr_search_string(search_string)), 'mm': '100%'}, safe="()\"")
+    return parse.urlencode( {'q': "+(\"{}\")".format(_create_solr_search_string(search_string)), 'qs': '50'}, safe="()\"")
 
 
 def test_create_solr_q_param():
