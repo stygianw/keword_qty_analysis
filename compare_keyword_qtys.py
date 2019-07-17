@@ -1,8 +1,9 @@
 import solr_endeca_queries as se
+from datetime import datetime
+import logging
 
 
 CURRENT_KEYWORDS_IDX = 1
-CURRENT_RESULT_IDX = 3
 
 
 def read_keywords(file_idx):
@@ -21,7 +22,7 @@ def test_read_keywords():
 
 
 def write_to_file(file_idx, data):
-    with open('output/qty_compare_{}.txt'.format(file_idx), 'w') as f:
+    with open('output/qty_compare_{}_{}.txt'.format(file_idx, datetime.now().isoformat()), 'w') as f:
         f.write('Keyword,Endeca Qty, Solr Qty\n')
         for entry in data:
             f.write("{},{},{}\n".format(entry['keyword'], entry['endeca_qty'], entry['solr_qty']))
@@ -37,10 +38,11 @@ def main():
             result_dict = {'keyword': keyword, 'endeca_qty': len(endeca_props), 'solr_qty': len(solr_props)}
             report_results.append(result_dict)
             print("Keyword: {}, Endeca qty: {}, Solr qty: {}".format(result_dict['keyword'], result_dict['endeca_qty'], result_dict['solr_qty']))
-        except Exception as e :
+        except Exception as e:
             print("Error processing keyword: {}".format(keyword))
             print(e)
-    write_to_file(CURRENT_RESULT_IDX, report_results)
+            logging.exception(e)
+    write_to_file(CURRENT_KEYWORDS_IDX, report_results)
 
 
 
