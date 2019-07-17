@@ -3,7 +3,7 @@ from xml.etree import ElementTree as ET
 import re
 
 
-SOLR_QUERY = "http://nrhctnsolr05.bgeltd.com:8983/solr/US_items_core/select?f.Themes_TREE_2_facet.facet.mincount=1&df=_text_&f.Product_Types_TREE_1_facet.facet.mincount=1&bf=field(popularityBoost)&f.More_Ways_To_Shop_TREE_0_facet.facet.mincount=1&fq=DISPLAY:Y&fq=STORE_AVAILABLE:Y&fq=MARKET_CLASS:P&fq=MARKET_CLASS:P&fq=DISPLAY:Y&fq=STORE_AVAILABLE:Y&autocorrection.spellmode=ALL&bq=(KEYWORDS:train)^100.0&bq=(KEYWORDS:bag)^1000.0&f.Themes_TREE_0_facet.facet.mincount=1&defType=edismax&spellcheck.q=FAIRIES&qf=EXTERNAL_PRODUCT_IDS_search^1.0+title_search^1.0+SHORT_NAME_search^1.0+shortdesc_search^1.0+FEATURE_VALUES_search^1.0+KEYWORDS_search^1.0+MANUFACTURER^1.0+ARTIST_search^1.0+OTHER_COUNTRY_PROD_ID^1.0+code_search^1.0+Product_Types_TREE_fsearch^1.0+Themes_TREE_fsearch^1.0&wt=xml&facet.field=Themes_TREE_0_facet&facet.field=Themes_TREE_1_facet&facet.field=Themes_TREE_2_facet&facet.field=Themes_TREE_3_facet&facet.field=Product_Types_TREE_0_facet&facet.field=Product_Types_TREE_1_facet&facet.field=Product_Types_TREE_2_facet&facet.field=More_Ways_To_Shop_TREE_0_facet&facet.field=More_Ways_To_Shop_TREE_1_facet&facet.field=More_Ways_To_Shop_TREE_2_facet&f.Product_Types_TREE_2_facet.facet.mincount=1&f.More_Ways_To_Shop_TREE_1_facet.facet.mincount=1&start=0&f.Themes_TREE_1_facet.facet.mincount=1&sort=&10006&f.Product_Types_TREE_0_facet.facet.mincount=1&spellcheck=true&pf=EXTERNAL_PRODUCT_IDS_search^1.0+title_search^1.0+SHORT_NAME_search^1.0+shortdesc_search^1.0+FEATURE_VALUES_search^1.0+KEYWORDS_search^1.0+MANUFACTURER^1.0+ARTIST_search^1.0+OTHER_COUNTRY_PROD_ID^1.0+code_search^1.0&f.Themes_TREE_3_facet.facet.mincount=1&f.More_Ways_To_Shop_TREE_2_facet.facet.mincount=1&facet=on&rows=1000"
+SOLR_QUERY = "http://nrhctnsolr05.bgeltd.com:8983/solr/US_items_core/select?f.Themes_TREE_2_facet.facet.mincount=1&df=_text_&f.Product_Types_TREE_1_facet.facet.mincount=1&bf=field(popularityBoost)&f.More_Ways_To_Shop_TREE_0_facet.facet.mincount=1&fq=DISPLAY:Y&fq=STORE_AVAILABLE:Y&fq=MARKET_CLASS:P&fq=MARKET_CLASS:P&fq=DISPLAY:Y&fq=STORE_AVAILABLE:Y&autocorrection.spellmode=ALL&bq=(KEYWORDS:train)^100.0&bq=(KEYWORDS:bag)^1000.0&f.Themes_TREE_0_facet.facet.mincount=1&defType=edismax&spellcheck.q=FAIRIES&qf=EXTERNAL_PRODUCT_IDS_search^1.0+title_search^1.0+SHORT_NAME_search^1.0+shortdesc_search^1.0+FEATURE_VALUES_search^1.0+KEYWORDS_search^1.0+MANUFACTURER^1.0+ARTIST_search^1.0+OTHER_COUNTRY_PROD_ID^1.0+code_search^1.0+PRODUCT_TYPE^1.0+PRODUCT_TYPE_2^1.0+THEMES^1.0&wt=xml&facet.field=Themes_TREE_0_facet&facet.field=Themes_TREE_1_facet&facet.field=Themes_TREE_2_facet&facet.field=Themes_TREE_3_facet&facet.field=Product_Types_TREE_0_facet&facet.field=Product_Types_TREE_1_facet&facet.field=Product_Types_TREE_2_facet&facet.field=More_Ways_To_Shop_TREE_0_facet&facet.field=More_Ways_To_Shop_TREE_1_facet&facet.field=More_Ways_To_Shop_TREE_2_facet&f.Product_Types_TREE_2_facet.facet.mincount=1&f.More_Ways_To_Shop_TREE_1_facet.facet.mincount=1&start=0&f.Themes_TREE_1_facet.facet.mincount=1&sort=&10006&f.Product_Types_TREE_0_facet.facet.mincount=1&spellcheck=true&pf=EXTERNAL_PRODUCT_IDS_search^1.0+title_search^1.0+SHORT_NAME_search^1.0+shortdesc_search^1.0+FEATURE_VALUES_search^1.0+KEYWORDS_search^1.0+MANUFACTURER^1.0+ARTIST_search^1.0+OTHER_COUNTRY_PROD_ID^1.0+code_search^1.0&f.Themes_TREE_3_facet.facet.mincount=1&f.More_Ways_To_Shop_TREE_2_facet.facet.mincount=1&facet=on&rows=1000"
 
 
 def _create_solr_url(search_word):
@@ -34,7 +34,10 @@ def find_solr_props(search_word):
 
 
 def _create_solr_search_string(solr_query):
-    return str(solr_query)
+    if re.match(r'\w+\s+\w+', solr_query):
+        return re.sub(r'(\w+)', r'+\1', solr_query) + " \"{}\"".format(solr_query)
+    else:
+        return solr_query
 
 
 def test_create_solr_query():
@@ -43,7 +46,7 @@ def test_create_solr_query():
 
 
 def _create_solr_q_param(search_string):
-    return parse.urlencode( {'q': "+(\"{}\")".format(_create_solr_search_string(search_string)), 'qs': '50'}, safe="()\"")
+    return parse.urlencode( {'q': "+({})".format(_create_solr_search_string(search_string))}, safe="()\"")
 
 
 def test_create_solr_q_param():
