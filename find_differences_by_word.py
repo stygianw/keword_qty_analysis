@@ -2,7 +2,7 @@ import solr_endeca_queries as se
 from datetime import datetime
 
 
-SEARCH_WORD = 'WOMENS JEWELRY'
+SEARCH_WORDS = ['DOGS']
 
 
 ENDECA_PRIMARY_SEARCH_FIELDS = [

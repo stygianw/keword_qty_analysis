@@ -3,7 +3,7 @@ from datetime import datetime
 import logging
 
 
-CURRENT_KEYWORDS_IDX = 1
+CURRENT_KEYWORDS_IDX = 2
 
 
 def read_keywords(file_idx):
