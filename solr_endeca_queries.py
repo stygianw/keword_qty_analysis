@@ -1,5 +1,6 @@
 from urllib import request, parse
 from xml.etree import ElementTree as ET
+import alternate_solr_query
 import re
 
 
@@ -25,7 +26,16 @@ def find_endeca_props(search_word):
 
 
 def find_solr_props(search_word):
-    r = request.urlopen(_create_solr_url(search_word))
+    return extract_solr_props(_create_solr_url(search_word))
+
+
+def find_alternate_solr_props(search_word):
+    return extract_solr_props(alternate_solr_query.make_alternate_solr_query(search_word))
+
+
+
+def extract_solr_props(url):
+    r = request.urlopen(url)
     doc = r.read()
     root = ET.fromstring(doc)
     solr_docs = root.findall('.//result/doc')
