@@ -18,7 +18,7 @@ def test_read_keywords():
 
 def write_to_file(file_idx, data, headers):
     with open('output/qty_compare_{}_{}.txt'.format(file_idx, datetime.now().isoformat()), 'w') as f:
-        f.write('Keyword,{}, {}\n').format(headers[0], headers[1])
+        f.write('Keyword,{}, {}\n'.format(headers[0], headers[1]))
         for entry in data:
             keyword, first_qty, second_qty = entry
             f.write("{},{},{}\n".format(keyword, first_qty, second_qty))
