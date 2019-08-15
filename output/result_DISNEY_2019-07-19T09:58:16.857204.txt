@@ -1,0 +1,346 @@
+---Endeca Only---
+--------- item: 127649001 ------------
+127649001: code: 127649001
+extprdid not found in props of code 127649001
+127649001: title: STAR WARS Jedi Master Yoda Musical Glitter Globe With Lights
+127649001: SHORT_NAME: STAR WARS Jedi Master Yoda Glitter Globe
+Product not found in props of code 127649001
+127649001: shortdesc: STAR WARS Jedi Master Yoda Illuminated Musical Glitter Globe
+127649001: FEATURE_VALUES: Men's
+127649001: keywords: Yoda
+127649001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127649001
+127649001: OTHER_COUNTRY_PROD_ID: None
+127649001: EMAIL_SUBJECT_TITLE: STAR WARS Yoda Jedi Master Musical Glitter Globe
+Product Types: ['Snowglobes/Water Globes']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 917301 ------------
+917301: code: 917301
+917301: extprdid: 1400731001
+917301: title: Illuminated STAR WARS Galactic Village Collection
+917301: SHORT_NAME: Star Wars Galactic Village Collection
+Product not found in props of code 917301
+917301: shortdesc: Star Wars Galactic Village Collection
+917301: FEATURE_VALUES: Collections
+917301: keywords: Villages
+917301: MANUFACTURER: Hawthorne Village
+artist not found in props of code 917301
+917301: OTHER_COUNTRY_PROD_ID: None
+917301: EMAIL_SUBJECT_TITLE: Star Wars Village
+Product Types: ['Villages']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 130946001 ------------
+130946001: code: 130946001
+130946001: extprdid: 130946011, 130946012, 130946013, 130946014, 130946015
+130946001: title: STAR WARS Men's Leather Jacket
+130946001: SHORT_NAME: STAR WARS Men's Jacket
+Product not found in props of code 130946001
+130946001: shortdesc: STAR WARS Men's Jacket
+130946001: FEATURE_VALUES: Test
+130946001: keywords: Star Wars
+130946001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130946001
+130946001: OTHER_COUNTRY_PROD_ID: None
+130946001: EMAIL_SUBJECT_TITLE: STAR WARS Men's Jacket
+Product Types: ["Men's Jackets"]
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 126643001 ------------
+126643001: code: 126643001
+extprdid not found in props of code 126643001
+126643001: title: "STAR WARS A New Hope" Masterpiece Collector Plate
+126643001: SHORT_NAME: STAR WARS Masterpiece Collector Plate
+Product not found in props of code 126643001
+126643001: shortdesc: STAR WARS A New Hope Masterpiece Collector Plate
+126643001: FEATURE_VALUES: Men's
+126643001: keywords: Yoda
+126643001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126643001
+126643001: OTHER_COUNTRY_PROD_ID: None
+126643001: EMAIL_SUBJECT_TITLE: STAR WARS A New Hope Collector Plate
+Product Types: ['Collector Plates']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 907520001 ------------
+907520001: code: 907520001
+extprdid not found in props of code 907520001
+907520001: title: STAR WARS Rebel Alliance Laser-Etched Glass Tribute
+907520001: SHORT_NAME: STAR WARS Rebel Alliance Laser-Etched Glass Sculpture
+Product not found in props of code 907520001
+907520001: shortdesc: STAR WARS Rebel Alliance Laser-Etched Glass Tribute Sculpture
+FEATURE_VALUES not found in props of code 907520001
+907520001: keywords: Star Wars
+907520001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 907520001
+907520001: OTHER_COUNTRY_PROD_ID: None
+907520001: EMAIL_SUBJECT_TITLE: STAR WARS Laser-Etched Glass Sculpture
+Product Types: ['Sculptures']
+Themes: ['Fantasy', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 126720001 ------------
+126720001: code: 126720001
+126720001: extprdid: 126720011, 126720012, 126720013, 126720014, 126720015
+126720001: title: MARVEL "The Punisher" Men's Cotton-Blend Knit Hoodie
+126720001: SHORT_NAME: The Punisher Men's Hoodie
+Product not found in props of code 126720001
+126720001: shortdesc: MARVEL The Punisher Men's Cotton Blend Knit Hoodie
+126720001: FEATURE_VALUES: Men's
+126720001: keywords: pocket hoodie
+126720001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126720001
+126720001: OTHER_COUNTRY_PROD_ID: None
+126720001: EMAIL_SUBJECT_TITLE: MARVEL The Punisher Fleece Lined Men's Hoodie
+Product Types: ["Men's Jackets"]
+Themes: ['Marvel', 'Marvel', 'Marvel', 'Marvel']
+--------- item: 904831 ------------
+904831: code: 904831
+904831: extprdid: 127196001
+904831: title: STAR WARS Trilogy Collection With Display
+904831: SHORT_NAME: STAR WARS Trilogy Toothpick Holder Collection
+Product not found in props of code 904831
+904831: shortdesc: STAR WARS Trilogy Toothpick Holder Collection
+904831: FEATURE_VALUES: Collections
+904831: keywords: Toothbrush Holder
+904831: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 904831
+904831: OTHER_COUNTRY_PROD_ID: None
+904831: EMAIL_SUBJECT_TITLE: STAR WARS Toothpick Holders and Custom Display
+Product Types: ['Glassware']
+Themes: ['Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 130922001 ------------
+130922001: code: 130922001
+130922001: extprdid: 130922011, 130922012, 130922013, 130922014, 130922015
+130922001: title: STAR WARS Han Solo Men's Jacket
+130922001: SHORT_NAME: STAR WARS Han Solo Men's Jacket
+Product not found in props of code 130922001
+130922001: shortdesc: STAR WARS Han Solo Men's Jacket
+130922001: FEATURE_VALUES: Test
+130922001: keywords: Men's Jackets
+130922001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130922001
+130922001: OTHER_COUNTRY_PROD_ID: None
+130922001: EMAIL_SUBJECT_TITLE: STAR WARS Han Solo Men's Jacket
+Product Types: ["Men's Jackets"]
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 917940 ------------
+917940: code: 917940
+917940: extprdid: 1401782001
+917940: title: STAR WARS "Epic Moments" Masterpiece Collection
+917940: SHORT_NAME: STAR WARS Epic Moments Sculpture Collection
+Product not found in props of code 917940
+917940: shortdesc: STAR WARS Epic Moments Masterpiece Sculpture Collection
+917940: FEATURE_VALUES: Collections
+917940: keywords: figurines
+917940: MANUFACTURER: Hawthorne Village
+artist not found in props of code 917940
+917940: OTHER_COUNTRY_PROD_ID: None
+917940: EMAIL_SUBJECT_TITLE: STAR WARS Greatest Scenes Sculpture Collection
+Product Types: ['Sculptures']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 127336001 ------------
+127336001: code: 127336001
+extprdid not found in props of code 127336001
+127336001: title: STAR WARS "Forces Of Light & Dark" Lit Musical Glitter Globe
+127336001: SHORT_NAME: STAR WARS Forces Of Light & Dark Glitter Globe
+Product not found in props of code 127336001
+127336001: shortdesc: STAR WARS Forces Of Light & Dark Illuminated Glitter Globe
+127336001: FEATURE_VALUES: Men's
+127336001: keywords: Waterglobes
+127336001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127336001
+127336001: OTHER_COUNTRY_PROD_ID: None
+127336001: EMAIL_SUBJECT_TITLE: STAR WARS Illuminated Musical Glitter Globe
+Product Types: ['Snowglobes/Water Globes']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 127640001 ------------
+127640001: code: 127640001
+extprdid not found in props of code 127640001
+127640001: title: STAR WARS Illuminated Darth Vader Levitating Helmet
+127640001: SHORT_NAME: Power Of The Dark Side Sculpture
+Product not found in props of code 127640001
+127640001: shortdesc: STAR WARS Power Of The Dark Side Levitating Darth Vader Helmet Sculpture
+127640001: FEATURE_VALUES: Men's
+127640001: keywords: Star Wars
+127640001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127640001
+127640001: OTHER_COUNTRY_PROD_ID: None
+127640001: EMAIL_SUBJECT_TITLE: Darth Vader Lighted Levitating Helmet Sculpture
+Product Types: ['Sculptures']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 126933001 ------------
+126933001: code: 126933001
+extprdid not found in props of code 126933001
+126933001: title: MARVEL SPIDER-MAN Illuminated Sculpture
+126933001: SHORT_NAME: Battle Atop Brooklyn Sculpture
+Product not found in props of code 126933001
+126933001: shortdesc: MARVEL SPIDER-MAN Battle Atop Brooklyn Illuminated Sculpture
+126933001: FEATURE_VALUES: Men's
+126933001: keywords: marvel comics
+126933001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126933001
+126933001: OTHER_COUNTRY_PROD_ID: None
+126933001: EMAIL_SUBJECT_TITLE: SPIDER-MAN VS GREEN GOBLIN Illuminated Sculpture
+Product Types: ['Sculptures']
+Themes: ['Marvel', 'Marvel', 'Marvel', 'Marvel']
+--------- item: 1602884001 ------------
+1602884001: code: 1602884001
+1602884001: extprdid: 1602884002,1602884003
+1602884001: title: STAR WARS Darth Vader Plush Slippers For Adults
+1602884001: SHORT_NAME: Darth Vader Slippers
+Product not found in props of code 1602884001
+1602884001: shortdesc: STAR WARS: Darth Vader Plush Slippers For Adults
+FEATURE_VALUES not found in props of code 1602884001
+1602884001: keywords: Star Wars
+1602884001: MANUFACTURER: Collectibles Today
+artist not found in props of code 1602884001
+1602884001: OTHER_COUNTRY_PROD_ID: None
+1602884001: EMAIL_SUBJECT_TITLE: STAR WARS Darth Vader Slippers
+Product Types: ["Men's Shoes"]
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 123138001 ------------
+123138001: code: 123138001
+extprdid not found in props of code 123138001
+123138001: title: STAR WARS "Masters Of The Force" Framed Collectible Edition
+123138001: SHORT_NAME: STAR WARS Masters Of The Force Wall Decor
+Product not found in props of code 123138001
+123138001: shortdesc: STAR WARS Light VS Dark Masters Of The Force Wall Decor
+123138001: FEATURE_VALUES: Men's
+123138001: keywords: Wall Decor
+123138001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123138001
+123138001: OTHER_COUNTRY_PROD_ID: None
+123138001: EMAIL_SUBJECT_TITLE: STAR WARS Commemorative Framed Wall Decor
+Product Types: ['Collector Plates']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 123603001 ------------
+123603001: code: 123603001
+extprdid not found in props of code 123603001
+123603001: title: STAR WARS Wooden Welcome Sign Personalized With Family Name
+123603001: SHORT_NAME: May The Force Be With You Personalized Welcome Sign
+Product not found in props of code 123603001
+123603001: shortdesc: STAR WARS May The Force Be With You Personalized Welcome Sign
+123603001: FEATURE_VALUES: Personalized
+123603001: keywords: Star Wars
+123603001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123603001
+123603001: OTHER_COUNTRY_PROD_ID: None
+123603001: EMAIL_SUBJECT_TITLE: Star Wars Personalized Welcome Sign
+Product Types: ['Welcome Signs']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 122591003 ------------
+122591003: code: 122591003
+extprdid not found in props of code 122591003
+122591003: title: STAR WARS Princess Leia Heirloom Porcelain Stein
+122591003: SHORT_NAME: STAR WARS Princess Leia Stein
+Product not found in props of code 122591003
+122591003: shortdesc: STAR WARS Princess Leia Triple-Fired Heirloom Porcelain Stein
+FEATURE_VALUES not found in props of code 122591003
+122591003: keywords: Steins
+122591003: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122591003
+122591003: OTHER_COUNTRY_PROD_ID: None
+122591003: EMAIL_SUBJECT_TITLE: STAR WARS Princess Leia Collector Stein
+Product Types: ['Steins', 'Steins']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 917872 ------------
+917872: code: 917872
+917872: extprdid: 1401608001
+917872: title: The Nightmare Before Christmas Tabletop Tree Collection
+917872: SHORT_NAME: This Is Halloween Tabletop Tree Collection
+Product not found in props of code 917872
+917872: shortdesc: The Nightmare Before Christmas This Is Halloween Tabletop Tree Collection
+917872: FEATURE_VALUES: For Wife
+917872: keywords: tim burton
+917872: MANUFACTURER: Hawthorne Village
+artist not found in props of code 917872
+917872: OTHER_COUNTRY_PROD_ID: None
+917872: EMAIL_SUBJECT_TITLE: Nightmare Before Christmas Tree Collection
+Product Types: ['Christmas Trees']
+Themes: ['Christmas', 'Nightmare Before Christmas', 'Nightmare Before Christmas', 'Nightmare Before Christmas']
+--------- item: 1602883001 ------------
+1602883001: code: 1602883001
+1602883001: extprdid: 1602883002, 1602883003
+1602883001: title: STAR WARS Yoda Plush Slippers For Adults
+1602883001: SHORT_NAME: Yoda Slippers
+Product not found in props of code 1602883001
+1602883001: shortdesc: STAR WARS: Yoda Plush Slippers For Adults
+FEATURE_VALUES not found in props of code 1602883001
+1602883001: keywords: Yoda
+1602883001: MANUFACTURER: Collectibles Today
+artist not found in props of code 1602883001
+1602883001: OTHER_COUNTRY_PROD_ID: None
+1602883001: EMAIL_SUBJECT_TITLE: STAR WARS Yoda Slippers
+Product Types: ["Men's Shoes"]
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 904854 ------------
+904854: code: 904854
+904854: extprdid: 126640001
+904854: title: MARVEL Avengers Assemble Illuminated Sculpture Collection
+904854: SHORT_NAME: Avengers Assemble Sculpture Collection
+Product not found in props of code 904854
+904854: shortdesc: MARVEL Avengers Assemble Illuminated Sculpture Collection
+904854: FEATURE_VALUES: Men's
+904854: keywords: marvel comics
+904854: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 904854
+904854: OTHER_COUNTRY_PROD_ID: None
+904854: EMAIL_SUBJECT_TITLE: MARVEL Avengers Illuminated Sculpture Collection
+Product Types: ['Sculptures']
+Themes: ['Marvel', 'Marvel', 'Marvel', 'Marvel', 'Sci-Fi']
+--------- item: 123820001 ------------
+123820001: code: 123820001
+extprdid not found in props of code 123820001
+123820001: title: STAR WARS: The Force Awakens Framed Collectible Edition
+123820001: SHORT_NAME: STAR WARS: The Force Awakens Wall Decor
+Product not found in props of code 123820001
+123820001: shortdesc: STAR WARS: The Force Awakens Character Montage Wall Decor
+123820001: FEATURE_VALUES: Men's
+123820001: keywords: Wood Frame
+123820001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123820001
+123820001: OTHER_COUNTRY_PROD_ID: None
+123820001: EMAIL_SUBJECT_TITLE: STAR WARS Commemorative Framed Wall Decor
+Product Types: ['Wall Décor']
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 1602885001 ------------
+1602885001: code: 1602885001
+1602885001: extprdid: 1602885002,1602885003
+1602885001: title: STAR WARS Chewbacca Plush Slippers For Adults
+1602885001: SHORT_NAME: Chewbacca Slippers
+Product not found in props of code 1602885001
+1602885001: shortdesc: STAR WARS: Chewbacca Plush Slippers For Adults
+FEATURE_VALUES not found in props of code 1602885001
+1602885001: keywords: Star Wars
+1602885001: MANUFACTURER: Collectibles Today
+artist not found in props of code 1602885001
+1602885001: OTHER_COUNTRY_PROD_ID: None
+1602885001: EMAIL_SUBJECT_TITLE: STAR WARS Chewbacca Slippers
+Product Types: ["Men's Shoes"]
+Themes: ['Sci-Fi', 'Star Wars', 'Star Wars', 'Star Wars']
+--------- item: 126954001 ------------
+126954001: code: 126954001
+extprdid not found in props of code 126954001
+126954001: title: MARVEL SPIDER-MAN Daily Bugle Illuminated Wall Clock
+126954001: SHORT_NAME: SPIDER-MAN Daily Bugle Wall Clock
+Product not found in props of code 126954001
+126954001: shortdesc: MARVEL SPIDER-MAN Daily Bugle Illuminated Wall Clock
+126954001: FEATURE_VALUES: Catalogue
+126954001: keywords: marvel comics
+126954001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126954001
+126954001: OTHER_COUNTRY_PROD_ID: None
+126954001: EMAIL_SUBJECT_TITLE: SPIDER-MAN Daily Bugle Illuminated Wall Clock
+Product Types: ['Wall Clocks']
+Themes: ['Marvel', 'Marvel', 'Marvel', 'Marvel']
+--------- item: 120663001 ------------
+120663001: code: 120663001
+extprdid not found in props of code 120663001
+120663001: title: Star Wars Wooden Welcome Sign Personalized With Name
+120663001: SHORT_NAME: Star Wars Personalized Welcome Sign
+Product not found in props of code 120663001
+120663001: shortdesc: Welcome Sign: Star Wars Personalized Welcome Sign
+FEATURE_VALUES not found in props of code 120663001
+120663001: keywords: wooden
+120663001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120663001
+120663001: OTHER_COUNTRY_PROD_ID: None
+120663001: EMAIL_SUBJECT_TITLE: Star Wars Personalized Welcome Sign
+Product Types: ['Welcome Signs']
+Themes: ['Fantasy', 'Star Wars', 'Star Wars', 'Star Wars']

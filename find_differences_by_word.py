@@ -2,7 +2,7 @@ import solr_endeca_queries as se
 from datetime import datetime
 
 
-SEARCH_WORDS = ['DOGS']
+SEARCH_WORDS = ['JOHN WAYNE']
 
 
 ENDECA_PRIMARY_SEARCH_FIELDS = [
@@ -92,36 +92,45 @@ def print_solr_only_props(codes, solr_records) -> list:
     return result
 
 
-def write_to_file(results):
-    with open('output/result_{}_{}.txt'.format(SEARCH_WORD, datetime.now().isoformat()), 'w') as f:
-        for line in results:
-            f.write(line + '\n')
+def write_to_file(all_keywords_result):
+    file_designator = all_keywords_result[0][0] if len(all_keywords_result) == 1 else 'MULTIKWD'
+    with open('output/result_{}_{}.txt'.format(file_designator, datetime.now().isoformat()), 'w') as f:
+        for keyword, result_strings in all_keywords_result:
+            f.write("KEYWORD: {}".format(keyword) + '\n')
+            for line in result_strings:
+                f.write(line + '\n')
+
+            
 
 
 
 def main():
-    erec_properties, erec_dimension_matches = se.find_endeca_props(SEARCH_WORD)
-    solr_properties = se.find_solr_props(SEARCH_WORD)
-    
-    endeca_codes = set(erec_properties.keys())
-    solr_codes = set(solr_properties.keys())
-    
-    endeca_only = endeca_codes.difference(solr_codes)
-    solr_only = solr_codes.difference(endeca_codes)
+    all_keywords_result = []
+    for search_word in SEARCH_WORDS:
+        erec_properties, erec_dimension_matches = se.find_endeca_props(search_word)
+        solr_properties = se.find_solr_props(search_word)
+        
+        endeca_codes = set(erec_properties.keys())
+        solr_codes = set(solr_properties.keys())
+        
+        endeca_only = endeca_codes.difference(solr_codes)
+        solr_only = solr_codes.difference(endeca_codes)
 
-    print("Endeca unique codes: {}; qty: {}".format(endeca_only, len(erec_properties)))
-    print("Solr unique codes: {}; qty: {}".format(solr_only, len(solr_properties)))
+        print("Endeca unique codes: {}; qty: {}".format(endeca_only, len(erec_properties)))
+        print("Solr unique codes: {}; qty: {}".format(solr_only, len(solr_properties)))
 
-    result = []
+        result = []
 
-    if(endeca_only):
-        result.append('---Endeca Only---')
-        result.extend(print_endeca_only_props(endeca_only, erec_properties, erec_dimension_matches))
-    if solr_only:
-        result.append('---Solr Only---')
-        result.extend(print_solr_only_props(solr_only, solr_properties))
-    
-    write_to_file(result)
+        if(endeca_only):
+            result.append('---Endeca Only---')
+            result.extend(print_endeca_only_props(endeca_only, erec_properties, erec_dimension_matches))
+        if solr_only:
+            result.append('---Solr Only---')
+            result.extend(print_solr_only_props(solr_only, solr_properties))
+        
+        all_keywords_result.append((search_word, result))
+
+    write_to_file(all_keywords_result)
 
     print('Done.')
 

@@ -1,0 +1,34 @@
+KEYWORD: MARINE
+---Solr Only---
+--------- item: 115516007 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 115516007
+115516007: title: Mariners Wooden Welcome Sign Personalized With Name
+115516007: SHORT_NAME: Seattle Mariners Personalized Welcome Sign
+115516007: shortdesc: MLB-Licensed Seattle Mariners Personalized Wooden Welcome Sign Featuring T-Mobile Park
+115516007: FEATURE_VALUES: ['Personalized']
+115516007: KEYWORDS: ['Baseball', 'Home Decor', 'Major League Baseball', 'MLB', 'Personalizable', 'Personalized', 'Personalized Gifts', 'Pro-Sports', 'Seattle Mariners', 'Sports', 'Sports Gifts', 'Welcome sign', 'Seattle', 'Mariners']
+115516007: MANUFACTURER: 1
+115516007: THEMES: ['Sports', 'MLB Baseball', 'Seattle Mariners']
+115516007: PRODUCT_TYPE: Welcome Signs
+PRODUCT_TYPE_2 not found in props of code 115516007
+ARTIST not found in props of code 115516007
+OTHER_COUNTRY_PROD_ID not found in props of code 115516007
+scode not found in props of code 115516007
+115516007: Product_Types_TREE_fsearch: ['Welcome Signs']
+115516007: Themes_TREE_fsearch: ['Sports', 'Sports', 'MLB Baseball', 'MLB Baseball', 'Sports', 'MLB Baseball', 'Seattle Mariners', 'MLB Baseball', 'Seattle Mariners']
+--------- item: 126596001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 126596001
+126596001: title: Seattle Mariners Patchwork Tote Bag With Team Logos
+126596001: SHORT_NAME: Seattle Mariners Tote Bag
+126596001: shortdesc: Seattle Mariners MLB Women's Patchwork Tote Bag
+126596001: FEATURE_VALUES: ['For Her', "Women's", 'For Her - General', 'For Wife']
+126596001: KEYWORDS: ['Major League Baseball', 'Seattle Mariners', 'Sports', 'Seattle', 'Promotion 10184', 'totes']
+126596001: MANUFACTURER: 1
+126596001: THEMES: ['Sports', 'MLB Baseball', 'Seattle Mariners']
+126596001: PRODUCT_TYPE: Handbags & Accessories
+PRODUCT_TYPE_2 not found in props of code 126596001
+ARTIST not found in props of code 126596001
+OTHER_COUNTRY_PROD_ID not found in props of code 126596001
+scode not found in props of code 126596001
+126596001: Product_Types_TREE_fsearch: ['Handbags & Accessories']
+126596001: Themes_TREE_fsearch: ['Sports', 'Sports', 'MLB Baseball', 'MLB Baseball', 'Sports', 'MLB Baseball', 'Seattle Mariners', 'MLB Baseball', 'Seattle Mariners']

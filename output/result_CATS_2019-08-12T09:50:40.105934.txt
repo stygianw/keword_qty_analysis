@@ -1,0 +1,109 @@
+KEYWORD: CATS
+---Endeca Only---
+--------- item: 302617002 ------------
+302617002: code: 302617002
+extprdid not found in props of code 302617002
+302617002: title: P. Lau "Cuddly Kitty" Lifelike Baby Girl Doll
+302617002: SHORT_NAME: Cuddly Kitty Baby Doll
+Product not found in props of code 302617002
+302617002: shortdesc: P. Lau So Truly Real Cuddly Kitty Vinyl Baby Doll
+302617002: FEATURE_VALUES: Weighted
+302617002: keywords: Weighted
+302617002: MANUFACTURER: The Ashton-Drake Galleries
+artist not found in props of code 302617002
+302617002: OTHER_COUNTRY_PROD_ID: None
+302617002: EMAIL_SUBJECT_TITLE: Lifelike Baby Girl Doll by P. Lau
+Product Types: ['Baby Dolls']
+Themes not found in dimensions of code 302617002
+--------- item: 922479 ------------
+922479: code: 922479
+922479: extprdid: 132015001
+922479: title: Just Kitten Around Glitter Globe Collection
+922479: SHORT_NAME: Just Kitten Around Glitter Globe Collection
+Product not found in props of code 922479
+922479: shortdesc: Just Kitten Around Glitter Globe Collection
+FEATURE_VALUES not found in props of code 922479
+keywords not found in props of code 922479
+922479: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922479
+922479: OTHER_COUNTRY_PROD_ID: None
+922479: EMAIL_SUBJECT_TITLE: Just Kitten Around Glitter Globe Collection
+Product Types: ['Snowglobes/Water Globes']
+Themes not found in dimensions of code 922479
+--------- item: 302837001 ------------
+302837001: code: 302837001
+extprdid not found in props of code 302837001
+302837001: title: Baby Doll Robe and Fuzzy Slipper Set For 17” To 19” Dolls
+302837001: SHORT_NAME: Pretty Kitty Baby Doll Accessory Set
+Product not found in props of code 302837001
+302837001: shortdesc: Pretty Kitty Baby Doll Apparel Accessory Set
+FEATURE_VALUES not found in props of code 302837001
+keywords not found in props of code 302837001
+302837001: MANUFACTURER: The Ashton-Drake Galleries
+artist not found in props of code 302837001
+302837001: OTHER_COUNTRY_PROD_ID: None
+302837001: EMAIL_SUBJECT_TITLE: None
+Product Types: ['Doll Accessories']
+Themes not found in dimensions of code 302837001
+--------- item: 922353 ------------
+922353: code: 922353
+922353: extprdid: 130143001
+922353: title: Hello Kitty Wine Glass Collection
+922353: SHORT_NAME: Hello Kitty Wine Glass Collection
+Product not found in props of code 922353
+922353: shortdesc: Hello Kitty Triple-Fired Wine Glass Collection
+922353: FEATURE_VALUES: Collections
+922353: keywords: Wine Glasses
+922353: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922353
+922353: OTHER_COUNTRY_PROD_ID: None
+922353: EMAIL_SUBJECT_TITLE: Hello Kitty Wine Glass Collection
+Product Types: ['Wine Glasses']
+Themes: ['Movies & Entertainment']
+--------- item: 302959001 ------------
+302959001: code: 302959001
+extprdid not found in props of code 302959001
+302959001: title: Linda Murray "Kacey And Kitty" Baby Doll With Plush Kitty
+302959001: SHORT_NAME: Kacey Baby Doll And Plush Kitty Set
+Product not found in props of code 302959001
+302959001: shortdesc: Linda Murray So Truly Real Kacey Vinyl Baby Doll And Plush Kitty Set
+302959001: FEATURE_VALUES: Weighted
+302959001: keywords: real touch vinyl
+302959001: MANUFACTURER: The Ashton-Drake Galleries
+artist not found in props of code 302959001
+302959001: OTHER_COUNTRY_PROD_ID: None
+302959001: EMAIL_SUBJECT_TITLE: Linda Murray Baby Girl Doll with Plush Kitten
+Product Types: ['Baby Dolls']
+Themes not found in dimensions of code 302959001
+--------- item: 1000412 ------------
+1000412: code: 1000412
+1000412: extprdid: 302837001, 302837002
+1000412: title: Baby Doll Robe and Fuzzy Slipper Set: Choose Your Size
+1000412: SHORT_NAME: Pretty Kitty Baby Doll Accessory Set
+Product not found in props of code 1000412
+1000412: shortdesc: Pretty Kitty Baby Doll Apparel Accessory Set
+1000412: FEATURE_VALUES: Doll Disclaimer - 6 & up
+1000412: keywords: Baby Doll Accessories
+1000412: MANUFACTURER: The Ashton-Drake Galleries
+artist not found in props of code 1000412
+1000412: OTHER_COUNTRY_PROD_ID: None
+1000412: EMAIL_SUBJECT_TITLE: Baby Doll Kitty Robe and Slipper Set
+Product Types not found in dimensions of code 1000412
+Themes not found in dimensions of code 1000412
+---Solr Only---
+--------- item: 907546001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 907546001
+907546001: title: BATMAN and CATWOMAN "Forever Yours" Sculpture
+907546001: SHORT_NAME: Forever Yours: BATMAN and CATWOMAN Sculpture
+907546001: shortdesc: WARNER BROS. Forever Yours: BATMAN and CATWOMAN Hand-Painted Sculpture
+907546001: FEATURE_VALUES: ['New Arrivals Hamilton']
+907546001: KEYWORDS: ['Batman', 'Classic TV', 'Couples', 'Gotham City', 'CatWoman']
+907546001: MANUFACTURER: 9
+907546001: THEMES: ['Movies & Entertainment', 'Pop Culture Icons', 'Batman', 'Cracked Earth']
+907546001: PRODUCT_TYPE: Sculptures
+PRODUCT_TYPE_2 not found in props of code 907546001
+ARTIST not found in props of code 907546001
+OTHER_COUNTRY_PROD_ID not found in props of code 907546001
+scode not found in props of code 907546001
+907546001: Product_Types_TREE_fsearch: ['Sculptures']
+907546001: Themes_TREE_fsearch: ['Movies & Entertainment', 'Movies & Entertainment', 'Batman', 'Cracked Earth', 'Batman', 'Cracked Earth']

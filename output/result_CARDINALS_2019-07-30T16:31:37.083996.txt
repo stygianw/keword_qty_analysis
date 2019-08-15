@@ -1,0 +1,16 @@
+---Endeca Only---
+--------- item: 302962001 ------------
+302962001: code: 302962001
+extprdid not found in props of code 302962001
+302962001: title: Karen Vander Logt "Winter Blessings" Musical Santa Doll
+302962001: SHORT_NAME: Winter Blessings Santa Doll
+Product not found in props of code 302962001
+302962001: shortdesc: Karen Vander Logt Winter Blessings Hand-Painted Musical Santa Doll
+302962001: FEATURE_VALUES: Test
+302962001: keywords: Santa Claus
+302962001: MANUFACTURER: The Ashton-Drake Galleries
+artist not found in props of code 302962001
+302962001: OTHER_COUNTRY_PROD_ID: None
+302962001: EMAIL_SUBJECT_TITLE: Musical Santa Doll With Cardinal and Velvet Robe
+Product Types: ['Portrait Dolls']
+Themes: ['Christmas', 'Santa Claus']

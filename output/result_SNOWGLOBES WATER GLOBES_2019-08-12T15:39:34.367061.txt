@@ -1,0 +1,92 @@
+KEYWORD: SNOWGLOBES WATER GLOBES
+---Endeca Only---
+--------- item: 129704001 ------------
+129704001: code: 129704001
+extprdid not found in props of code 129704001
+129704001: title: Illuminated Musical Snowglobe Tabletop Tree
+129704001: SHORT_NAME: Thomas Kinkade The Magic Of The Season Tabletop Tree
+Product not found in props of code 129704001
+129704001: shortdesc: Thomas Kinkade The Magic Of The Season Tabletop Tree
+129704001: FEATURE_VALUES: Test
+129704001: keywords: Thomas Kinkade
+129704001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129704001
+129704001: OTHER_COUNTRY_PROD_ID: None
+129704001: EMAIL_SUBJECT_TITLE: Thomas Kinkade Tabletop Tree
+Product Types: ['Christmas Trees']
+Themes: ['Christmas', 'Snowmen', 'Thomas Kinkade']
+--------- item: 909558 ------------
+909558: code: 909558
+extprdid not found in props of code 909558
+909558: title: Kayomi Harai Cats With Glitter Globes Figurine Collection
+909558: SHORT_NAME: Kayomi Harai Cat-tivating Purr-sonality Figurine Collection
+Product not found in props of code 909558
+909558: shortdesc: Kayomi Harai Cat-tivating Purr-sonality Glitter Globe Figurine Collection
+909558: FEATURE_VALUES: New Arrivals Hamilton
+909558: keywords: Waterglobes
+909558: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 909558
+909558: OTHER_COUNTRY_PROD_ID: None
+909558: EMAIL_SUBJECT_TITLE: Kayomi Harai Glitter Globe Cat Figurine Collection
+Product Types: ['Figurines']
+Themes: ['Cats', 'Cats', 'Cats']
+--------- item: 129066001 ------------
+129066001: code: 129066001
+extprdid not found in props of code 129066001
+129066001: title: James Hautman Sculpted Songbird Lighted Snowglobe Candle Set
+129066001: SHORT_NAME: Merry Messengers Candle Set
+Product not found in props of code 129066001
+129066001: shortdesc: James Hautman Merry Messengers Sculpted Songbird Candle Set
+FEATURE_VALUES not found in props of code 129066001
+129066001: keywords: Snowglobes
+129066001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129066001
+129066001: OTHER_COUNTRY_PROD_ID: None
+129066001: EMAIL_SUBJECT_TITLE: James Hautman Snowglobe Candleholder Set
+Product Types: ['Candles & Candle Holders']
+Themes: ['Bereavement', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 908309001 ------------
+908309001: code: 908309001
+extprdid not found in props of code 908309001
+908309001: title: Kayomi Harai An Unexpected Friend Glitter Globe Cat Figurine
+908309001: SHORT_NAME: An Unexpected Friend Figurine
+Product not found in props of code 908309001
+908309001: shortdesc: Kayomi Harai An Unexpected Friend Cat-Themed Glitter Globe Figurine
+908309001: FEATURE_VALUES: New Arrivals Hamilton
+908309001: keywords: Waterglobes
+908309001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 908309001
+908309001: OTHER_COUNTRY_PROD_ID: None
+908309001: EMAIL_SUBJECT_TITLE: Kayomi Harai Glitter Globe Cat Figurine
+Product Types: ['Figurines']
+Themes: ['Cats', 'Cats', 'Cats']
+--------- item: 907439001 ------------
+907439001: code: 907439001
+extprdid not found in props of code 907439001
+907439001: title: Precious Moments Your Spirit Lives Forever Angel Figurine
+907439001: SHORT_NAME: Your Spirit Lives Forever In My Heart Figurine
+Product not found in props of code 907439001
+907439001: shortdesc: Precious Moments Even Though We Are Apart, Your Spirit Lives Forever In My Heart Angel Figurine
+FEATURE_VALUES not found in props of code 907439001
+907439001: keywords: angel figurine
+907439001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 907439001
+907439001: OTHER_COUNTRY_PROD_ID: None
+907439001: EMAIL_SUBJECT_TITLE: Remembrance Angel and Snow Globe Figurine
+Product Types: ['Figurines']
+Themes: ['Angels', 'Bereavement', 'Precious Moments']
+--------- item: 129817001 ------------
+129817001: code: 129817001
+extprdid not found in props of code 129817001
+129817001: title: Thomas Kinkade Nativity Snowglobe Flameless Candles
+129817001: SHORT_NAME: Thomas Kinkade Lights Of The Season Candle Set
+Product not found in props of code 129817001
+129817001: shortdesc: Thomas Kinkade Lights Of The Season Illuminated Nativity Snowglobe Flameless Candle Set
+FEATURE_VALUES not found in props of code 129817001
+129817001: keywords: Thomas Kinkade
+129817001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129817001
+129817001: OTHER_COUNTRY_PROD_ID: None
+129817001: EMAIL_SUBJECT_TITLE: Nativity Snowglobe Flameless Christmas Candles
+Product Types: ['Candles & Candle Holders', 'Nativity Sets']
+Themes: ['Christmas', 'Thomas Kinkade']

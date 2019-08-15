@@ -1,0 +1,32 @@
+KEYWORD: DOG
+---Endeca Only---
+--------- item: 922124 ------------
+922124: code: 922124
+922124: extprdid: 128553001
+922124: title: "USMC Pride" Heirloom Porcelain Musical Globe Collection
+922124: SHORT_NAME: USMC Pride Glitter Globe Collection
+Product not found in props of code 922124
+922124: shortdesc: USMC Pride Heirloom Porcelain Musical Glitter Globe Collection
+922124: FEATURE_VALUES: Men's
+922124: keywords: Waterglobes
+922124: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922124
+922124: OTHER_COUNTRY_PROD_ID: None
+922124: EMAIL_SUBJECT_TITLE: USMC Musical Porcelain Glitter Globe Collection
+Product Types: ['Snowglobes/Water Globes']
+Themes: ['Marines', 'Marines', 'Patriotic']
+--------- item: 127910001 ------------
+127910001: code: 127910001
+extprdid not found in props of code 127910001
+127910001: title: "Pride Of USMC" Charm Bracelet With Classic USMC Symbols
+127910001: SHORT_NAME: Pride Of USMC Charm Bracelet
+Product not found in props of code 127910001
+127910001: shortdesc: Pride Of USMC Women's Sterling Silver-Plated Charm Bracelet
+127910001: FEATURE_VALUES: Women's
+127910001: keywords: Women's Bracelet
+127910001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127910001
+127910001: OTHER_COUNTRY_PROD_ID: None
+127910001: EMAIL_SUBJECT_TITLE: USMC Pride Charm Bracelet
+Product Types: ["Women's Bracelets"]
+Themes: ['Marines', 'Marines', 'Patriotic']

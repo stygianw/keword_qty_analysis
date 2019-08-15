@@ -1,0 +1,322 @@
+KEYWORD: DREAMCATCHERS
+---Solr Only---
+--------- item: 907825001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 907825001
+907825001: title: Jody Bergsma "May All Your Dreams Come" True Owl Figurine
+907825001: SHORT_NAME: May All Your Dreams Come True Figurine
+907825001: shortdesc: Jody Bergsma May All Your Dreams Come True Hand-Painted Owl and Dreamcatcher Figurine
+907825001: FEATURE_VALUES: ['New Arrivals Hamilton']
+907825001: KEYWORDS: ['Dreamcatcher', 'Native American', 'Owls']
+907825001: MANUFACTURER: 9
+907825001: THEMES: ['Animals', 'Native American Style', 'Wildlife', 'Birds', 'Owls']
+907825001: PRODUCT_TYPE: Figurines
+PRODUCT_TYPE_2 not found in props of code 907825001
+ARTIST not found in props of code 907825001
+OTHER_COUNTRY_PROD_ID not found in props of code 907825001
+scode not found in props of code 907825001
+907825001: Product_Types_TREE_fsearch: ['Figurines']
+907825001: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Wildlife', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds', 'Animals', 'Birds', 'Owls', 'Wildlife', 'Birds', 'Owls', 'Birds', 'Owls']
+--------- item: 127400001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 127400001
+127400001: title: "Wings Of Wonder" Hummingbird Dreamcatcher Wall Decor
+127400001: SHORT_NAME: Wings Of Wonder Wall Decor
+127400001: shortdesc: Wings Of Wonder Hummingbird Wall Decor
+FEATURE_VALUES not found in props of code 127400001
+127400001: KEYWORDS: ['Birds', 'Dreamcatcher', 'Feathers', 'Floral', 'Hummingbirds', 'Wall Decor', 'Dream Catcher', 'Promotion 10301']
+127400001: MANUFACTURER: 1
+127400001: THEMES: ['Animals', 'Floral', 'Hummingbirds', 'Wildlife', 'Birds']
+127400001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 127400001
+ARTIST not found in props of code 127400001
+OTHER_COUNTRY_PROD_ID not found in props of code 127400001
+scode not found in props of code 127400001
+127400001: Product_Types_TREE_fsearch: ['Wall Décor']
+127400001: Themes_TREE_fsearch: ['Animals', 'Floral', 'Animals', 'Birds', 'Hummingbirds', 'Wildlife', 'Birds', 'Hummingbirds', 'Birds', 'Hummingbirds', 'Wildlife', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds']
+--------- item: 904690 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 904690
+904690: title: Robin Koni Native American-Inspired Glitter Globe Collection
+904690: SHORT_NAME: Native American-Inspired Glitter Globe Collection
+904690: shortdesc: Native American-Inspired Handcrafted Glitter Globe Collection
+904690: FEATURE_VALUES: ['Collections']
+904690: KEYWORDS: ['Dreamcatcher', 'Illuminated', 'Lights up', 'Music', 'Musical', 'Native American', 'Snow Globes', 'Snowglobes', 'Water Globes', 'Waterglobes', 'Wolf', 'Wolves', 'Robin Koni', 'Dream Catcher', 'Lights', 'Glitter Globe', 'Dream A Little Dream Of Me', 'Glitterglobe']
+904690: MANUFACTURER: 1
+904690: THEMES: ['Native American Style', 'Wildlife', 'Wolves']
+904690: PRODUCT_TYPE: Snowglobes/Water Globes
+904690: PRODUCT_TYPE_2: 0
+ARTIST not found in props of code 904690
+OTHER_COUNTRY_PROD_ID not found in props of code 904690
+scode not found in props of code 904690
+904690: Product_Types_TREE_fsearch: ['Snowglobes/Water Globes']
+904690: Themes_TREE_fsearch: ['Native American Style', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 904986 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 904986
+904986: title: Thomas Kinkade "Nature's Peace" Wall Decor Collection
+904986: SHORT_NAME: Thomas Kinkade Nature's Peace Wall Decor Collection
+904986: shortdesc: Thomas Kinkade Nature's Peace Dreamcatcher Wall Decor Collection
+904986: FEATURE_VALUES: ['Collections']
+904986: KEYWORDS: ['Native American', 'Thomas Kinkade', 'Collections']
+904986: MANUFACTURER: 1
+904986: THEMES: ['Native American Style', 'Thomas Kinkade']
+904986: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 904986
+ARTIST not found in props of code 904986
+OTHER_COUNTRY_PROD_ID not found in props of code 904986
+scode not found in props of code 904986
+904986: Product_Types_TREE_fsearch: ['Wall Décor']
+904986: Themes_TREE_fsearch: ['Native American Style', 'Thomas Kinkade']
+--------- item: 904682 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 904682
+904682: title: Frank McCarthy "Guiding Spirits" Dreamcatcher Wall Decor
+904682: SHORT_NAME: Guiding Spirits Wall Decor Collection
+904682: shortdesc: Frank McCarthy Guiding Spirits Glow-In-The-Dark Dreamcatcher Wall Decor Collection
+904682: FEATURE_VALUES: ['For Him', "Men's", 'Collections', 'For Him - General']
+904682: KEYWORDS: ['Dreamcatcher', 'Native American', 'Wall Decor', 'Wildlife', 'Wolf', 'Wolves', 'glow in the dark', 'Frank McCarthy', 'Bow and Arrow', 'Dream Catcher', 'feather', 'Wall Art', 'Arrow', 'Promotion 10300']
+904682: MANUFACTURER: 1
+904682: THEMES: ['Animals', 'Native American Style', 'Wildlife', 'Wolves']
+904682: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 904682
+ARTIST not found in props of code 904682
+OTHER_COUNTRY_PROD_ID not found in props of code 904682
+scode not found in props of code 904682
+904682: Product_Types_TREE_fsearch: ['Wall Décor']
+904682: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 124105001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 124105001
+124105001: title: Robin Koni Native American-Inspired Lighted Glitter Globe
+124105001: SHORT_NAME: Mystical Dreams Glitter Globe
+124105001: shortdesc: Mystical Dreams Handcrafted Native American Style Glitter Globe
+FEATURE_VALUES not found in props of code 124105001
+124105001: KEYWORDS: ['Dreamcatcher', 'Illuminated', 'Music', 'Music Box', 'Musical', 'Snow Globes', 'Snowglobes', 'Water Globes', 'Waterglobes', 'Wolf', 'Wolves', 'Robin Koni', 'Dream', 'Glitter', 'Dream Catcher', 'Glitter Globe', 'Dream A Little Dream Of Me']
+124105001: MANUFACTURER: 1
+124105001: THEMES: ['Animals', 'Native American Style', 'Wildlife', 'Wolves']
+124105001: PRODUCT_TYPE: Snowglobes/Water Globes
+124105001: PRODUCT_TYPE_2: 0
+ARTIST not found in props of code 124105001
+OTHER_COUNTRY_PROD_ID not found in props of code 124105001
+scode not found in props of code 124105001
+124105001: Product_Types_TREE_fsearch: ['Snowglobes/Water Globes']
+124105001: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 126179001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 126179001
+126179001: title: "I Love You To The Moon And Back" Illuminated Dreamcatcher
+126179001: SHORT_NAME: I Love You To The Moon And Back Wall Decor
+126179001: shortdesc: I Love You To The Moon And Back Dreamcatcher With Fiber Optic And LED Illumination Wall Decor
+FEATURE_VALUES not found in props of code 126179001
+126179001: KEYWORDS: ['Dreamcatcher', 'Wall Decor', 'Moon and Back', 'I love you to the moon and back', 'Dream Catcher', 'Wall Art']
+126179001: MANUFACTURER: 1
+THEMES not found in props of code 126179001
+126179001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 126179001
+ARTIST not found in props of code 126179001
+OTHER_COUNTRY_PROD_ID not found in props of code 126179001
+scode not found in props of code 126179001
+126179001: Product_Types_TREE_fsearch: ['Wall Décor']
+Themes_TREE_fsearch not found in props of code 126179001
+--------- item: 127401001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 127401001
+127401001: title: Thomas Kinkade Native Beauty Sculptural Dreamcatcher Decor
+127401001: SHORT_NAME: Thomas Kinkade Native Beauty Wall Decor
+127401001: shortdesc: Thomas Kinkade Native Beauty Sculptural Dreamcatcher Wall Decor
+FEATURE_VALUES not found in props of code 127401001
+127401001: KEYWORDS: ['Bald Eagles', 'Feathers', 'Native American', 'Thomas Kinkade', 'Wall Decor', 'Wall Decor Art']
+127401001: MANUFACTURER: 1
+127401001: THEMES: ['Eagles', 'Native American Style']
+127401001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 127401001
+ARTIST not found in props of code 127401001
+OTHER_COUNTRY_PROD_ID not found in props of code 127401001
+scode not found in props of code 127401001
+127401001: Product_Types_TREE_fsearch: ['Wall Décor']
+127401001: Themes_TREE_fsearch: ['Animals', 'Eagles', 'Animals', 'Birds', 'Eagles', 'Wildlife', 'Eagles', 'Wildlife', 'Birds', 'Eagles', 'Eagles', 'Birds', 'Eagles', 'Native American Style']
+--------- item: 120955001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 120955001
+120955001: title: Native American-Style Dreamcatcher With Carol Cavalaris Art
+120955001: SHORT_NAME: Kindred Spirits Wall Decor
+120955001: shortdesc: Native American-Style Wolves Kindred Spirits Wall Decor Dreamcatcher
+FEATURE_VALUES not found in props of code 120955001
+120955001: KEYWORDS: ['Animals', 'Feathers', 'heart', 'Native American', 'Wall Decor', 'Wall Decor Art', 'Wolf', 'Wolves']
+120955001: MANUFACTURER: 1
+120955001: THEMES: ['Animals', 'Native American Style', 'Wolves', 'First Nations Inspired']
+120955001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 120955001
+ARTIST not found in props of code 120955001
+OTHER_COUNTRY_PROD_ID not found in props of code 120955001
+scode not found in props of code 120955001
+120955001: Product_Types_TREE_fsearch: ['Wall Décor']
+120955001: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 120577001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 120577001
+120577001: title: Al Agnew "Summoning The Pack" Glow-In-The-Dark Dreamcatcher
+120577001: SHORT_NAME: Summoning The Pack Wall Decor
+120577001: shortdesc: Summoning The Pack Native American-Inspired Wall Decor Dreamcatcher
+FEATURE_VALUES not found in props of code 120577001
+120577001: KEYWORDS: ['Al Agnew', 'Dreamcatcher', 'Feathers', 'Home Decor', 'Native American', 'Northern Lights', 'Wildlife', 'Wolf', 'Wolves', 'Dream Catcher']
+120577001: MANUFACTURER: 1
+120577001: THEMES: ['Animals', 'Native American Style', 'Wildlife', 'Wolves', 'First Nations Inspired']
+120577001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 120577001
+ARTIST not found in props of code 120577001
+OTHER_COUNTRY_PROD_ID not found in props of code 120577001
+scode not found in props of code 120577001
+120577001: Product_Types_TREE_fsearch: ['Wall Décor']
+120577001: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 904076 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 904076
+904076: title: Cynthie Fisher Glow-In-The-Dark Wolf Art Collection
+904076: SHORT_NAME: Sentinels Of The Sky Wall Decor Collection
+904076: shortdesc: Sentinels Of The Sky Native American-Inspired Wall Decor Dreamcatcher Collection
+904076: FEATURE_VALUES: ['Collections']
+904076: KEYWORDS: ['Animals', 'Fiber Optic', 'Illuminated', 'Leather', 'Native American', 'Wall Decor', 'Wildlife', 'Wolf', 'Wolves', 'glow in the dark', 'Cynthie Fisher']
+904076: MANUFACTURER: 1
+904076: THEMES: ['Animals', 'Native American Style', 'Wildlife', 'Wolves', 'First Nations Inspired']
+904076: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 904076
+ARTIST not found in props of code 904076
+OTHER_COUNTRY_PROD_ID not found in props of code 904076
+scode not found in props of code 904076
+904076: Product_Types_TREE_fsearch: ['Wall Décor']
+904076: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 115459001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 115459001
+115459001: title: Eddie LePage Dreamcatcher With Wolf Art On Real Leather
+115459001: SHORT_NAME: Dream Guardians Wall Decor
+115459001: shortdesc: Dreamcatcher Wall Decor: Dream Guardians
+FEATURE_VALUES not found in props of code 115459001
+115459001: KEYWORDS: ['Animals', 'Home', 'Home Decor', 'Native American', 'Unique Home Decor', 'Wall Decor', 'Wall Decor Art', 'Wildlife', 'Wolf', 'Wolves', 'Spring Catalog', 'Promotion 9946', 'Promotion 8244', 'Promotion 9951', 'Promotion 8245', 'Promotion 9957', 'Promotion 9962']
+115459001: MANUFACTURER: 1
+115459001: THEMES: ['Animals', 'Native American Style', 'Wildlife', 'Wolves', 'First Nations Inspired']
+115459001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 115459001
+ARTIST not found in props of code 115459001
+OTHER_COUNTRY_PROD_ID not found in props of code 115459001
+scode not found in props of code 115459001
+115459001: Product_Types_TREE_fsearch: ['Wall Décor']
+115459001: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 120501001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 120501001
+120501001: title: Cynthie Fisher Starlight Serenade Glow-In-The-Dark Wolf Art
+120501001: SHORT_NAME: Starlight Serenade Wall Decor
+120501001: shortdesc: Glow In The Dark Starlight Serenade Native American Style Wall Decor
+120501001: FEATURE_VALUES: ['Catalogue']
+120501001: KEYWORDS: ['Animals', 'Fiber Optic', 'Illuminated', 'Leather', 'Native American', 'Native American Indian', 'Wall Decor', 'Wildlife', 'Wolf', 'Wolves', 'glow in the dark', 'Cynthie Fisher']
+120501001: MANUFACTURER: 1
+120501001: THEMES: ['Animals', 'Native American Style', 'Wildlife', 'Wolves', 'First Nations Inspired']
+120501001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 120501001
+ARTIST not found in props of code 120501001
+OTHER_COUNTRY_PROD_ID not found in props of code 120501001
+scode not found in props of code 120501001
+120501001: Product_Types_TREE_fsearch: ['Wall Décor']
+120501001: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 922484 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 922484
+922484: title: Sacred Spirits Dreamcatcher Collection
+922484: SHORT_NAME: Sacred Spirits Wall Decor Collection
+922484: shortdesc: Sacred Spirits Wall Decor Collection
+922484: FEATURE_VALUES: ['Test', 'Collections']
+922484: KEYWORDS: ['Dreamcatcher', 'Native American', 'Wolves', 'Collections']
+922484: MANUFACTURER: 1
+922484: THEMES: ['Animals', 'Native American Style', 'Wildlife', 'Wolves']
+922484: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 922484
+ARTIST not found in props of code 922484
+OTHER_COUNTRY_PROD_ID not found in props of code 922484
+scode not found in props of code 922484
+922484: Product_Types_TREE_fsearch: ['Wall Décor']
+922484: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 922125 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 922125
+922125: title: Al Agnew "Spirits Of The Pack" Wall Decor
+922125: SHORT_NAME: Spirits Of The Pack Wall Decor Collection
+922125: shortdesc: Native American-Inspired Wall Decor Collection: Spirits Of The Pack
+922125: FEATURE_VALUES: ['Collections']
+922125: KEYWORDS: ['Dreamcatcher', 'Feathers', 'Native American', 'Nature', 'Wall Decor', 'Wolves', 'Collections']
+922125: MANUFACTURER: 1
+922125: THEMES: ['Native American Style']
+922125: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 922125
+ARTIST not found in props of code 922125
+OTHER_COUNTRY_PROD_ID not found in props of code 922125
+scode not found in props of code 922125
+922125: Product_Types_TREE_fsearch: ['Wall Décor']
+922125: Themes_TREE_fsearch: ['Native American Style']
+--------- item: 904928 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 904928
+904928: title: "Enchanted Moments" Hummingbird Dreamcatcher Collection
+904928: SHORT_NAME: Enchanted Moments Hummingbird Wall Decor Collection
+904928: shortdesc: Enchanted Moments Hummingbird Dreamcatcher Wall Decor Collection
+904928: FEATURE_VALUES: ['Collections']
+904928: KEYWORDS: ['Birds', 'Dreamcatcher', 'Feathers', 'Floral', 'Hummingbirds', 'Wall Decor', 'Dream Catcher', 'Collections', 'Promotion 10301']
+904928: MANUFACTURER: 1
+904928: THEMES: ['Animals', 'Floral', 'Hummingbirds', 'Birds']
+904928: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 904928
+ARTIST not found in props of code 904928
+OTHER_COUNTRY_PROD_ID not found in props of code 904928
+scode not found in props of code 904928
+904928: Product_Types_TREE_fsearch: ['Wall Décor']
+904928: Themes_TREE_fsearch: ['Animals', 'Floral', 'Animals', 'Birds', 'Hummingbirds', 'Wildlife', 'Birds', 'Hummingbirds', 'Birds', 'Hummingbirds', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds']
+--------- item: 904642 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 904642
+904642: title: Ted Blaylock "Journey Of The Spirit" Wall Decor Collection
+904642: SHORT_NAME: Journey Of The Spirit Wall Decor Collection
+904642: shortdesc: Ted Blaylock Journey Of The Spirit Eagle Wall Decor Collection
+904642: FEATURE_VALUES: ['Collections']
+904642: KEYWORDS: ['Arrow Head', 'Dreamcatcher', 'Indian', 'Native American', 'Ted Blaylock', 'Tomahawk', 'Wall Decor', 'Arrowhead', 'eagle', 'Dream Catcher', 'Tomahawk Pipe', 'Wall Art', 'Promotion 10301']
+904642: MANUFACTURER: 1
+904642: THEMES: ['Animals', 'Eagles', 'Native American Style', 'Wildlife', 'Birds']
+904642: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 904642
+ARTIST not found in props of code 904642
+OTHER_COUNTRY_PROD_ID not found in props of code 904642
+scode not found in props of code 904642
+904642: Product_Types_TREE_fsearch: ['Wall Décor']
+904642: Themes_TREE_fsearch: ['Animals', 'Animals', 'Eagles', 'Animals', 'Birds', 'Eagles', 'Wildlife', 'Eagles', 'Wildlife', 'Birds', 'Eagles', 'Eagles', 'Birds', 'Eagles', 'Native American Style', 'Wildlife', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds']
+--------- item: 127428001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 127428001
+127428001: title: Forging The Path Wall Decor
+127428001: SHORT_NAME: Forging The Path Wall Decor
+127428001: shortdesc: Forging The Path Wall Decor
+127428001: FEATURE_VALUES: ['Test']
+127428001: KEYWORDS: ['Dreamcatcher', 'Feathers', 'Native American', 'Wolves']
+127428001: MANUFACTURER: 1
+127428001: THEMES: ['Animals', 'Native American Style', 'Wildlife', 'Wolves']
+127428001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 127428001
+ARTIST not found in props of code 127428001
+OTHER_COUNTRY_PROD_ID not found in props of code 127428001
+scode not found in props of code 127428001
+127428001: Product_Types_TREE_fsearch: ['Wall Décor']
+127428001: Themes_TREE_fsearch: ['Animals', 'Native American Style', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 922252 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 922252
+922252: title: Ted Blaylock "Majestic Wings" Wall Decor Collection
+922252: SHORT_NAME: Majestic Wings Wall Decor Collection
+922252: shortdesc: Ted Blaylock Majestic Wings Native American-Inspired Dreamcatcher Wall Decor Collection
+922252: FEATURE_VALUES: ['Collections']
+922252: KEYWORDS: ['Ted Blaylock']
+922252: MANUFACTURER: 1
+922252: THEMES: ['Animals', 'Eagles', 'Native American Style']
+922252: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 922252
+ARTIST not found in props of code 922252
+OTHER_COUNTRY_PROD_ID not found in props of code 922252
+scode not found in props of code 922252
+922252: Product_Types_TREE_fsearch: ['Wall Décor']
+922252: Themes_TREE_fsearch: ['Animals', 'Animals', 'Eagles', 'Animals', 'Birds', 'Eagles', 'Wildlife', 'Eagles', 'Wildlife', 'Birds', 'Eagles', 'Eagles', 'Birds', 'Eagles', 'Native American Style']
+--------- item: 909559 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 909559
+909559: title: Jody Bergsma's "Let Your Spirit Soar" Figurine Collection
+909559: SHORT_NAME: Jody Bergsma's Let Your Spirit Soar Figurine Collection
+909559: shortdesc: Jody Bergsma's Let Your Spirit Soar Hand-Painted Dreamcatcher Figurine Collection
+909559: FEATURE_VALUES: ['Collections', 'New Arrivals Hamilton']
+909559: KEYWORDS: ['Dreamcatcher', 'Native American', 'Wildlife', 'Owl', 'Collections']
+909559: MANUFACTURER: 9
+909559: THEMES: ['Native American Style', 'Wildlife', 'Owls']
+909559: PRODUCT_TYPE: Figurines
+PRODUCT_TYPE_2 not found in props of code 909559
+ARTIST not found in props of code 909559
+OTHER_COUNTRY_PROD_ID not found in props of code 909559
+scode not found in props of code 909559
+909559: Product_Types_TREE_fsearch: ['Figurines']
+909559: Themes_TREE_fsearch: ['Native American Style', 'Wildlife', 'Animals', 'Birds', 'Owls', 'Wildlife', 'Birds', 'Owls', 'Birds', 'Owls']

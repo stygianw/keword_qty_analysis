@@ -1,0 +1,578 @@
+KEYWORD: FIGURINES
+---Solr Only---
+--------- item: 129416001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 129416001
+129416001: title: "LOVE In Bloom" Sculptural Songbird Wall Decor
+129416001: SHORT_NAME: LOVE In Bloom Wall Decor
+129416001: shortdesc: LOVE In Bloom Sculptural Songbird Wall Decor
+129416001: FEATURE_VALUES: ['For Her', 'Romantic', 'Her - Romantic', 'For Her - General', 'For Her - Romantic']
+129416001: KEYWORDS: ['Birds', 'Cardinals', 'Love', 'Songbirds']
+129416001: MANUFACTURER: 1
+129416001: THEMES: ['Animals', 'Cardinals', 'Birds', 'Songbirds']
+129416001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 129416001
+ARTIST not found in props of code 129416001
+OTHER_COUNTRY_PROD_ID not found in props of code 129416001
+scode not found in props of code 129416001
+129416001: Product_Types_TREE_fsearch: ['Wall Décor']
+129416001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Birds', 'Cardinals', 'Wildlife', 'Birds', 'Cardinals', 'Birds', 'Cardinals', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds', 'Birds', 'Songbirds']
+--------- item: 129994001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 129994001
+129994001: title: Ted Blaylock Patriotic Sculptural Eagle Wall Decor
+129994001: SHORT_NAME: Wings Of Freedom Wall Decor
+129994001: shortdesc: Wings Of Freedom Wall Decor
+129994001: FEATURE_VALUES: ['Test']
+KEYWORDS not found in props of code 129994001
+129994001: MANUFACTURER: 1
+129994001: THEMES: ['Animals', 'Eagles', 'Patriotic', 'Birds', 'Military and Patriotic']
+129994001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 129994001
+ARTIST not found in props of code 129994001
+OTHER_COUNTRY_PROD_ID not found in props of code 129994001
+scode not found in props of code 129994001
+129994001: Product_Types_TREE_fsearch: ['Wall Décor']
+129994001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Eagles', 'Animals', 'Birds', 'Eagles', 'Wildlife', 'Eagles', 'Wildlife', 'Birds', 'Eagles', 'Eagles', 'Birds', 'Eagles', 'Patriotic', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds']
+--------- item: 126740001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 126740001
+126740001: title: E.T. Talking Motion Clock With Glowing Heart And Fingertip
+126740001: SHORT_NAME: E.T. Motion Clock
+126740001: shortdesc: E.T. Illuminated Sculptural Motion Clock
+FEATURE_VALUES not found in props of code 126740001
+126740001: KEYWORDS: ['Clocks', 'Wall Clock', 'E. T.', 'ET', 'The Extra-Terrestrial', 'E.T. Phone Home', 'Glowing Finger', 'Motion Clock']
+126740001: MANUFACTURER: 1
+126740001: THEMES: ['Movies & Entertainment']
+126740001: PRODUCT_TYPE: Wall Clocks
+PRODUCT_TYPE_2 not found in props of code 126740001
+ARTIST not found in props of code 126740001
+OTHER_COUNTRY_PROD_ID not found in props of code 126740001
+scode not found in props of code 126740001
+126740001: Product_Types_TREE_fsearch: ['Wall Clocks']
+126740001: Themes_TREE_fsearch: ['Movies & Entertainment']
+--------- item: 104000001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 104000001
+104000001: title: Sculptural American Eagle Sterling Silver Men's Ring
+104000001: SHORT_NAME: The American Eagle Ring
+104000001: shortdesc: Patriotic American Eagle Men's Sterling Silver Ring
+104000001: FEATURE_VALUES: ['Sterling Silver', "Men's"]
+104000001: KEYWORDS: ['American', 'American Bald Eagle Art', 'Bald Eagles', 'Dads', 'E-mail Promotion 8114', 'Email Promotion 8002', 'Email Promotion 8009', 'Email Promotion 8031', 'Email Promotion 8032', 'Fashion Jewelry', 'Fathers', 'Fine Jewelry', 'Flags', 'Jewelry', 'Men', "Men's Rings", 'Mens Jewelry', 'Mens Rings', 'Patriot', 'Promotion 8095', 'Promotion 8098', 'Promotion 8103', 'Silver', 'Sterling Silver', 'United States', 'USA', 'Email Promotion 8136', 'Email Promotion 8137', 'Promotion 8161', 'Male Rings', "men's jewelry", 'Silver Ring', 'Rhodium plated', 'Rhodium', 'Promotion 10301', 'Rhodium Plating']
+104000001: MANUFACTURER: 1
+104000001: THEMES: ['Animals', 'Eagles', 'Patriotic', 'Wildlife', 'Birds']
+104000001: PRODUCT_TYPE: Men's Rings
+PRODUCT_TYPE_2 not found in props of code 104000001
+ARTIST not found in props of code 104000001
+OTHER_COUNTRY_PROD_ID not found in props of code 104000001
+scode not found in props of code 104000001
+104000001: Product_Types_TREE_fsearch: ["Men's Rings"]
+104000001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Eagles', 'Animals', 'Birds', 'Eagles', 'Wildlife', 'Eagles', 'Wildlife', 'Birds', 'Eagles', 'Eagles', 'Birds', 'Eagles', 'Patriotic', 'Wildlife', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds']
+--------- item: 130513001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 130513001
+130513001: title: "The Perfect Blend" Sculptural Wall Clock With Cup Pendulum
+130513001: SHORT_NAME: The Perfect Blend Wall Clock
+130513001: shortdesc: The Perfect Blend Coffee-Inspired Sculptural Wall Clock
+FEATURE_VALUES not found in props of code 130513001
+130513001: KEYWORDS: ['Coffee', 'Wall Clock', 'Cups']
+130513001: MANUFACTURER: 1
+THEMES not found in props of code 130513001
+130513001: PRODUCT_TYPE: Wall Clocks
+PRODUCT_TYPE_2 not found in props of code 130513001
+ARTIST not found in props of code 130513001
+OTHER_COUNTRY_PROD_ID not found in props of code 130513001
+scode not found in props of code 130513001
+130513001: Product_Types_TREE_fsearch: ['Wall Clocks']
+Themes_TREE_fsearch not found in props of code 130513001
+--------- item: 126092001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 126092001
+126092001: title: "Treetop Chorus" Songbird Sculptural Wall Clock
+126092001: SHORT_NAME: Treetop Chorus Wall Clock
+126092001: shortdesc: Treetop Chorus Songbird Sculptural Wall Clock
+126092001: FEATURE_VALUES: ['Catalogue', 'Customer Favourites']
+126092001: KEYWORDS: ['Birds', 'Cardinals', 'Clocks', 'Songbirds', 'Sound', 'Wall Clock', 'Wildlife', 'Chickadee', 'Goldfinches', 'Nest', 'Bluebirds', 'Robin', 'Clock with Sound', 'Bird Song', 'Promotion 10301', 'Promotion 10358']
+126092001: MANUFACTURER: 1
+126092001: THEMES: ['Animals', 'Cardinals', 'Wildlife', 'Birds']
+126092001: PRODUCT_TYPE: Wall Clocks
+PRODUCT_TYPE_2 not found in props of code 126092001
+ARTIST not found in props of code 126092001
+OTHER_COUNTRY_PROD_ID not found in props of code 126092001
+scode not found in props of code 126092001
+126092001: Product_Types_TREE_fsearch: ['Wall Clocks']
+126092001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Birds', 'Cardinals', 'Wildlife', 'Birds', 'Cardinals', 'Birds', 'Cardinals', 'Wildlife', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds']
+--------- item: 128820001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 128820001
+128820001: title: Howard David Johnson "St. Michael The Archangel" Stein
+128820001: SHORT_NAME: St. Michael The Archangel Stein
+128820001: shortdesc: Howard David Johnson St. Michael The Archangel Heirloom Porcelain Stein
+FEATURE_VALUES not found in props of code 128820001
+128820001: KEYWORDS: ['Angels', 'Christian', 'Christianity', 'Religion', 'Steins', 'Archangel', 'St. Michael', 'Saint Michael']
+128820001: MANUFACTURER: 1
+128820001: THEMES: ['Angels', 'Religious']
+128820001: PRODUCT_TYPE: Steins
+PRODUCT_TYPE_2 not found in props of code 128820001
+ARTIST not found in props of code 128820001
+OTHER_COUNTRY_PROD_ID not found in props of code 128820001
+scode not found in props of code 128820001
+128820001: Product_Types_TREE_fsearch: ['Steins', 'Steins']
+128820001: Themes_TREE_fsearch: ['Angels', 'Religious']
+--------- item: 904463 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 904463
+904463: title: Eagle Art Zippo&reg; Collection With Sculptural Display
+904463: SHORT_NAME: Soaring Spirits Light The Way Zippo&reg; Lighter Collection
+904463: shortdesc: Soaring Spirits Light The Way Eagle Zippo&reg; Lighter Collection
+904463: FEATURE_VALUES: ['For Him', "Men's", 'Collections', 'For Him - General']
+904463: KEYWORDS: ['Birds', 'Eagles', 'lighter', 'zippo', 'Windproof', 'Dan Smith', 'Promotion 10301']
+904463: MANUFACTURER: 1
+904463: THEMES: ['Animals', 'Eagles', 'Wildlife', 'Birds']
+904463: PRODUCT_TYPE: Lighters
+PRODUCT_TYPE_2 not found in props of code 904463
+ARTIST not found in props of code 904463
+OTHER_COUNTRY_PROD_ID not found in props of code 904463
+scode not found in props of code 904463
+904463: Product_Types_TREE_fsearch: ['Lighters']
+904463: Themes_TREE_fsearch: ['Animals', 'Animals', 'Eagles', 'Animals', 'Birds', 'Eagles', 'Wildlife', 'Eagles', 'Wildlife', 'Birds', 'Eagles', 'Eagles', 'Birds', 'Eagles', 'Wildlife', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds']
+--------- item: 126397001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 126397001
+126397001: title: Disney "Mickey Mouse Through The Years" Table Lamp
+126397001: SHORT_NAME: Disney Mickey Mouse Through The Years Lamp
+126397001: shortdesc: Disney Mickey Mouse Through The Years Sculptural Table Lamp
+FEATURE_VALUES not found in props of code 126397001
+126397001: KEYWORDS: ['Disney', 'Mickey Mouse', 'Table Lamp', 'Promotion 10314']
+126397001: MANUFACTURER: 1
+126397001: THEMES: ['Disney', 'Mickey Mouse & Minnie Mouse']
+126397001: PRODUCT_TYPE: Lamps
+PRODUCT_TYPE_2 not found in props of code 126397001
+ARTIST not found in props of code 126397001
+OTHER_COUNTRY_PROD_ID not found in props of code 126397001
+scode not found in props of code 126397001
+126397001: Product_Types_TREE_fsearch: ['Lamps']
+126397001: Themes_TREE_fsearch: ['Disney']
+--------- item: 917748 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 917748
+917748: title: "The Spirit Of The West" Indian Head Nickel Train Collection
+917748: SHORT_NAME: Spirit Of The West Express - Silver Edition Train Collection
+917748: shortdesc: Silver Edition Train Collection: The Spirit Of The West Express
+917748: FEATURE_VALUES: ['Collections']
+917748: KEYWORDS: ['HO Scale Trains', 'sculptural trains', 'Southwestern', 'Trains', 'Western', 'Wild Wild West', 'Promotion 9982', 'Promotion 10300']
+917748: MANUFACTURER: 14
+917748: THEMES: ['Native American Style']
+917748: PRODUCT_TYPE: Trains
+PRODUCT_TYPE_2 not found in props of code 917748
+ARTIST not found in props of code 917748
+OTHER_COUNTRY_PROD_ID not found in props of code 917748
+scode not found in props of code 917748
+917748: Product_Types_TREE_fsearch: ['Trains']
+917748: Themes_TREE_fsearch: ['Native American Style']
+--------- item: 121900001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 121900001
+121900001: title: Timeless Legend Sculptural Clock Of John Wayne On Horseback
+121900001: SHORT_NAME: Timeless Legend John Wayne Clock
+121900001: shortdesc: John Wayne Timeless Legend Handcrafted Western-Inspired Clock
+FEATURE_VALUES not found in props of code 121900001
+121900001: KEYWORDS: ['bronze', 'Celebrities', 'Horses', 'John Wayne', 'Movies', 'Old West', 'Western', 'Bruce Emmett', 'Movie Stars', 'Tabletop Clock', 'Westerns', 'Cowboy', 'Bronzetone', 'Promotion 10300']
+121900001: MANUFACTURER: 1
+121900001: THEMES: ['Celebrities', 'Horses', 'John Wayne', 'Icons', 'Movies & Entertainment']
+121900001: PRODUCT_TYPE: Tabletop Clocks
+PRODUCT_TYPE_2 not found in props of code 121900001
+ARTIST not found in props of code 121900001
+OTHER_COUNTRY_PROD_ID not found in props of code 121900001
+scode not found in props of code 121900001
+121900001: Product_Types_TREE_fsearch: ['Tabletop Clocks']
+121900001: Themes_TREE_fsearch: ['Celebrities', 'Animals', 'Horses', 'Celebrities', 'John Wayne', 'John Wayne', 'Movies & Entertainment', 'John Wayne', 'Icons', 'Movies & Entertainment']
+--------- item: 129537001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 129537001
+129537001: title: "Purr-Fect Love" Sculptural Cat Wall Decor Spells LOVE
+129537001: SHORT_NAME: Purr-fect Love Wall Decor
+129537001: shortdesc: Purr-fect Love Hand-Painted Cat-Themed Wall Decor That Spells The Word LOVE
+FEATURE_VALUES not found in props of code 129537001
+129537001: KEYWORDS: ['Cats']
+129537001: MANUFACTURER: 1
+129537001: THEMES: ['Animals', 'Cats', 'Pets']
+129537001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 129537001
+ARTIST not found in props of code 129537001
+OTHER_COUNTRY_PROD_ID not found in props of code 129537001
+scode not found in props of code 129537001
+129537001: Product_Types_TREE_fsearch: ['Wall Décor']
+129537001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Cats', 'Pets', 'Cats', 'Cats', 'Pets']
+--------- item: 129983001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 129983001
+129983001: title: "Life Is Good At The Beach" Wall Clock With Wave Sounds
+129983001: SHORT_NAME: Life Is Good At The Beach Cuckoo Clock
+129983001: shortdesc: Life Is Good At The Beach Sculptural Cuckoo Clock
+FEATURE_VALUES not found in props of code 129983001
+129983001: KEYWORDS: ['Beach', 'Cuckoo Clocks', 'Sea Shell', 'coastal']
+129983001: MANUFACTURER: 1
+THEMES not found in props of code 129983001
+129983001: PRODUCT_TYPE: Cuckoo Clocks
+PRODUCT_TYPE_2 not found in props of code 129983001
+ARTIST not found in props of code 129983001
+OTHER_COUNTRY_PROD_ID not found in props of code 129983001
+scode not found in props of code 129983001
+129983001: Product_Types_TREE_fsearch: ['Cuckoo Clocks']
+Themes_TREE_fsearch not found in props of code 129983001
+--------- item: 123139001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 123139001
+123139001: title: PEANUTS A Charlie Brown Christmas Sculptural Music Box
+123139001: SHORT_NAME: A Charlie Brown Christmas Music Box
+123139001: shortdesc: A Charlie Brown Christmas Sculptural Music Box
+FEATURE_VALUES not found in props of code 123139001
+123139001: KEYWORDS: ['Charlie Brown', 'Charlie Brown Christmas', 'Heirloom', 'Music', 'Music Box', 'Musical', 'Peanuts', 'Heirloom Porcelain', 'Hark the Herald Angels Sing', 'Promotion 10162']
+123139001: MANUFACTURER: 1
+123139001: THEMES: ['Christmas', 'Peanuts', 'Movies & Entertainment']
+123139001: PRODUCT_TYPE: Music Boxes
+PRODUCT_TYPE_2 not found in props of code 123139001
+ARTIST not found in props of code 123139001
+OTHER_COUNTRY_PROD_ID not found in props of code 123139001
+scode not found in props of code 123139001
+123139001: Product_Types_TREE_fsearch: ['Music Boxes']
+123139001: Themes_TREE_fsearch: ['Christmas', 'Movies & Entertainment', 'Peanuts', 'Movies & Entertainment']
+--------- item: 123794001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 123794001
+123794001: title: Sculptural "Cheshire Cat" Motion Clock Glows In The Dark
+123794001: SHORT_NAME: Disney Alice In Wonderland Cheshire Cat Wall Clock
+123794001: shortdesc: Disney Alice In Wonderland Cheshire Cat Motion Wall Clock
+123794001: FEATURE_VALUES: ['Catalogue']
+123794001: KEYWORDS: ['Alice In Wonderland', 'Big Cats', 'Cats', 'Clocks', 'Disney', 'Wall Clock', 'Walt Disney', 'Disney Characters', 'Movie Clock', 'Clock with Motion', 'Alice', 'Alice And Wonderland', 'Alice Clock', 'Disney Wall Clock', 'Cheshire Cat']
+123794001: MANUFACTURER: 1
+123794001: THEMES: ['Cats', 'Disney', 'Movies & Entertainment', 'Alice in Wonderland']
+123794001: PRODUCT_TYPE: Wall Clocks
+PRODUCT_TYPE_2 not found in props of code 123794001
+ARTIST not found in props of code 123794001
+OTHER_COUNTRY_PROD_ID not found in props of code 123794001
+scode not found in props of code 123794001
+123794001: Product_Types_TREE_fsearch: ['Wall Clocks']
+123794001: Themes_TREE_fsearch: ['Animals', 'Cats', 'Pets', 'Cats', 'Cats', 'Disney', 'Movies & Entertainment', 'Disney', 'Alice in Wonderland', 'Movies & Entertainment', 'Alice in Wonderland']
+--------- item: 129003001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 129003001
+129003001: title: Al Agnew "Reflections Of Nature" Sculpted Wall Mirror
+129003001: SHORT_NAME: Reflections Of Nature Mirror
+129003001: shortdesc: Al Agnew Reflections Of Nature Fully Sculpted Wolf Mirror
+FEATURE_VALUES not found in props of code 129003001
+129003001: KEYWORDS: ['Mirror', 'Nature', 'Wildlife', 'Wolves']
+129003001: MANUFACTURER: 1
+129003001: THEMES: ['Animals', 'Wildlife', 'Wolves']
+129003001: PRODUCT_TYPE: Mirrors
+PRODUCT_TYPE_2 not found in props of code 129003001
+ARTIST not found in props of code 129003001
+OTHER_COUNTRY_PROD_ID not found in props of code 129003001
+scode not found in props of code 129003001
+129003001: Product_Types_TREE_fsearch: ['Mirrors']
+129003001: Themes_TREE_fsearch: ['Animals', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 121115001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 121115001
+121115001: title: "Spirit Of The Road" Sculptural Motorcycle Lamp
+121115001: SHORT_NAME: Spirit Of The Road Lamp
+121115001: shortdesc: Handcrafted Spirit Of The Road Lamp With Twin Engine Lamp Base
+FEATURE_VALUES not found in props of code 121115001
+121115001: KEYWORDS: ['American', 'American Flag', 'Bald Eagles', 'Lamps', 'Motorcycles', 'Ride Hard, Live Free', 'Marc Lacourciere', 'Larry Martin', 'Table Lamp', 'V-Twin Engine', 'American Eagle', 'eagle', 'Promotion 10301']
+121115001: MANUFACTURER: 1
+121115001: THEMES: ['Eagles', 'Motorcycles', 'Patriotic']
+121115001: PRODUCT_TYPE: Tabletop Lamps
+PRODUCT_TYPE_2 not found in props of code 121115001
+ARTIST not found in props of code 121115001
+OTHER_COUNTRY_PROD_ID not found in props of code 121115001
+scode not found in props of code 121115001
+121115001: Product_Types_TREE_fsearch: ['Tabletop Lamps']
+121115001: Themes_TREE_fsearch: ['Animals', 'Eagles', 'Animals', 'Birds', 'Eagles', 'Wildlife', 'Eagles', 'Wildlife', 'Birds', 'Eagles', 'Eagles', 'Birds', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 903336 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 903336
+903336: title: Wall Hanging Sculptural Horseshoes With John Wayne Portraits
+903336: SHORT_NAME: John Wayne: Thundering Justice Wall Decor Collection 
+903336: shortdesc: John Wayne Horseshoe Wall Decor Collection: Thundering Justice
+903336: FEATURE_VALUES: ['Collections']
+903336: KEYWORDS: ['Celebrities', 'Horses', 'Horseshoe', 'John Wayne', 'Old West', 'Southwestern', 'the duke', 'Wall Decor', 'Wall Decor Art', 'Western', 'Wild Wild West', 'John Wayne Memorabilia', 'Promotion 9982', 'Promotion 10300']
+903336: MANUFACTURER: 1
+903336: THEMES: ['Celebrities', 'Horses', 'John Wayne', 'Movies & Entertainment']
+903336: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 903336
+ARTIST not found in props of code 903336
+OTHER_COUNTRY_PROD_ID not found in props of code 903336
+scode not found in props of code 903336
+903336: Product_Types_TREE_fsearch: ['Wall Décor']
+903336: Themes_TREE_fsearch: ['Celebrities', 'Animals', 'Horses', 'Celebrities', 'John Wayne', 'John Wayne', 'Movies & Entertainment', 'John Wayne', 'Movies & Entertainment']
+--------- item: 129753001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 129753001
+129753001: title: "Cat-Tastrophe" Sculpted Table Lamp
+129753001: SHORT_NAME: Cat-Tastrophe Lamp
+129753001: shortdesc: Cat-Tastrophe Fully Sculpted Table Lamp
+FEATURE_VALUES not found in props of code 129753001
+129753001: KEYWORDS: ['Animals', 'Cats', 'Kittens']
+129753001: MANUFACTURER: 1
+129753001: THEMES: ['Animals', 'Cats', 'Pets']
+129753001: PRODUCT_TYPE: Tabletop Lamps
+PRODUCT_TYPE_2 not found in props of code 129753001
+ARTIST not found in props of code 129753001
+OTHER_COUNTRY_PROD_ID not found in props of code 129753001
+scode not found in props of code 129753001
+129753001: Product_Types_TREE_fsearch: ['Tabletop Lamps']
+129753001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Cats', 'Pets', 'Cats', 'Cats', 'Pets']
+--------- item: 113223001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 113223001
+113223001: title: Lena Liu Radiant Gardens Sculptural Porcelain Accent Lamp
+113223001: SHORT_NAME: Radiant Gardens Lamp
+113223001: shortdesc: Lena Liu Porcelain Hummingbird Accent Lamp: Radiant Gardens
+113223001: FEATURE_VALUES: ['Bradford Exchange Canada Featured Selections', 'Porcelain']
+113223001: KEYWORDS: ['Animals', 'Birds', 'Floral', 'Flowers', 'Hummingbirds', 'Lamps', 'Lena Liu', 'Porcelain', 'Heirloom Porcelain', 'Table Lamp', 'Platinum', 'Promotion 8244', 'Promotion 9951', 'Promotion 8245', 'Promotion 8246', 'Promotion 8248', 'Summer Catalogue', 'Promotion 9957', 'Promotion 9962', 'Promotion 10301']
+113223001: MANUFACTURER: 1
+113223001: THEMES: ['Animals', 'Floral', 'Hummingbirds', 'Lena Liu', 'Wildlife', 'Birds']
+113223001: PRODUCT_TYPE: Tabletop Lamps
+PRODUCT_TYPE_2 not found in props of code 113223001
+ARTIST not found in props of code 113223001
+OTHER_COUNTRY_PROD_ID not found in props of code 113223001
+scode not found in props of code 113223001
+113223001: Product_Types_TREE_fsearch: ['Tabletop Lamps']
+113223001: Themes_TREE_fsearch: ['Animals', 'Floral', 'Animals', 'Birds', 'Hummingbirds', 'Wildlife', 'Birds', 'Hummingbirds', 'Birds', 'Hummingbirds', 'Lena Liu', 'Wildlife', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds']
+--------- item: 114493001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 114493001
+114493001: title: Men's Stainless Steel Wolf Ring With Black Sapphire Eyes
+114493001: SHORT_NAME: Leader Of The Pack Ring
+114493001: shortdesc: Leader Of The Pack Men's Stainless Steel Wolf Ring With Black Sapphires
+114493001: FEATURE_VALUES: ['Sapphires', "Men's", 'Stainless Steel', 'Statement']
+114493001: KEYWORDS: ['Animals', 'Fashion Jewelry', 'Fine Jewelry', 'Jewelry', "Men's Rings", 'Mens Jewelry', 'Mens Rings', 'Ring', 'Sapphire', 'Sculptural', 'Stainless Steel', 'Wildlife', 'Wolf', 'Wolves', 'Black Sapphires', "men's", "men's jewelry", 'silver jewelry', 'Silver Ring', "Men's Accessories"]
+114493001: MANUFACTURER: 1
+114493001: THEMES: ['Animals', 'Wildlife', 'Wolves']
+114493001: PRODUCT_TYPE: Men's Rings
+PRODUCT_TYPE_2 not found in props of code 114493001
+ARTIST not found in props of code 114493001
+OTHER_COUNTRY_PROD_ID not found in props of code 114493001
+scode not found in props of code 114493001
+114493001: Product_Types_TREE_fsearch: ["Men's Rings"]
+114493001: Themes_TREE_fsearch: ['Animals', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 128062001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 128062001
+128062001: title: "Rise And Shine" Sculptural Rooster Accent Lamp
+128062001: SHORT_NAME: Rise And Shine Lamp
+128062001: shortdesc: Rise And Shine Sculptural Rooster Accent Lamp
+FEATURE_VALUES not found in props of code 128062001
+128062001: KEYWORDS: ['Farms', 'Lamps', 'Roosters', 'Farm Animals', 'Rooster', 'Promotion 10301']
+128062001: MANUFACTURER: 1
+128062001: THEMES: ['Animals', 'Birds', 'Roosters']
+128062001: PRODUCT_TYPE: Tabletop Lamps
+PRODUCT_TYPE_2 not found in props of code 128062001
+ARTIST not found in props of code 128062001
+OTHER_COUNTRY_PROD_ID not found in props of code 128062001
+scode not found in props of code 128062001
+128062001: Product_Types_TREE_fsearch: ['Tabletop Lamps']
+128062001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds', 'Birds', 'Roosters']
+--------- item: 120849001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 120849001
+120849001: title: John Wayne "One Tough Cookie" Cookie Jar With Images of Duke
+120849001: SHORT_NAME: John Wayne: One Tough Cookie Cookie Jar
+120849001: shortdesc: John Wayne: One Tough Cookie Sculptural Cookie Jar
+FEATURE_VALUES not found in props of code 120849001
+120849001: KEYWORDS: ['Celebrities', 'Cookie Jars', 'Cowboys', 'Duke', 'Entertainment', 'Home Decor', 'John Wayne', 'Movies', 'Old West', 'sheriff', 'the duke', 'Tabletop', 'Western', 'Movie Stars', 'Westerns', 'Cowboy', 'Promotion 10300']
+120849001: MANUFACTURER: 1
+120849001: THEMES: ['Celebrities', 'John Wayne', 'Movies & Entertainment']
+120849001: PRODUCT_TYPE: Cookie Jars
+PRODUCT_TYPE_2 not found in props of code 120849001
+ARTIST not found in props of code 120849001
+OTHER_COUNTRY_PROD_ID not found in props of code 120849001
+scode not found in props of code 120849001
+120849001: Product_Types_TREE_fsearch: ['Cookie Jars']
+120849001: Themes_TREE_fsearch: ['Celebrities', 'Celebrities', 'John Wayne', 'John Wayne', 'Movies & Entertainment', 'John Wayne', 'Movies & Entertainment']
+--------- item: 126090001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 126090001
+126090001: title: Disney Eeyore "Some Days Are Better Upside Down" Cookie Jar
+126090001: SHORT_NAME: Disney Eeyore Some Days Are Better Upside Down Cookie Jar
+126090001: shortdesc: Disney Eeyore Some Days Are Better Upside Down Fully Sculptural Cookie Jar
+FEATURE_VALUES not found in props of code 126090001
+126090001: KEYWORDS: ['Cookie Jars', 'Disney', 'Eeyore', 'Winnie the Pooh', 'Disney Characters']
+126090001: MANUFACTURER: 1
+126090001: THEMES: ['Disney', 'Winnie the Pooh']
+126090001: PRODUCT_TYPE: Cookie Jars
+PRODUCT_TYPE_2 not found in props of code 126090001
+ARTIST not found in props of code 126090001
+OTHER_COUNTRY_PROD_ID not found in props of code 126090001
+scode not found in props of code 126090001
+126090001: Product_Types_TREE_fsearch: ['Cookie Jars']
+126090001: Themes_TREE_fsearch: ['Disney', 'Disney', 'Winnie the Pooh']
+--------- item: 114955001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 114955001
+114955001: title: "How America Rolls" Sculptural Semi-Truck Wall Clock
+114955001: SHORT_NAME: How America Rolls Wall Clock
+114955001: shortdesc: Wall Clock: How America Rolls Wall Clock
+FEATURE_VALUES not found in props of code 114955001
+114955001: KEYWORDS: ['American', 'American Flag', 'Clocks', 'Illuminated', 'Lights up', 'Nostalgic', 'Patriotic', 'Semi-Truck', 'Trucks', 'Wall Clock', 'Wall Decor', 'Wall Decor Art', 'America', 'Waggy Clock']
+114955001: MANUFACTURER: 1
+114955001: THEMES: ['Patriotic', 'Professions']
+114955001: PRODUCT_TYPE: Wall Clocks
+PRODUCT_TYPE_2 not found in props of code 114955001
+ARTIST not found in props of code 114955001
+OTHER_COUNTRY_PROD_ID not found in props of code 114955001
+scode not found in props of code 114955001
+114955001: Product_Types_TREE_fsearch: ['Wall Clocks']
+114955001: Themes_TREE_fsearch: ['Patriotic', 'Professions']
+--------- item: 922140 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 922140
+922140: title: "A Year Of Enchantment" Perpetual Calendar Collection
+922140: SHORT_NAME: A Year Of Enchantment Perpetual Calendar Collection
+922140: shortdesc: Jasmine Becket-Griffith A Year Of Enchantment Perpetual Sculptural Fairy Calendar Collection
+FEATURE_VALUES not found in props of code 922140
+KEYWORDS not found in props of code 922140
+922140: MANUFACTURER: 1
+THEMES not found in props of code 922140
+922140: PRODUCT_TYPE: Calendars
+PRODUCT_TYPE_2 not found in props of code 922140
+ARTIST not found in props of code 922140
+OTHER_COUNTRY_PROD_ID not found in props of code 922140
+scode not found in props of code 922140
+922140: Product_Types_TREE_fsearch: ['Calendars']
+Themes_TREE_fsearch not found in props of code 922140
+--------- item: 126956001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 126956001
+126956001: title: "Reign Of Fire" Dragon Illuminated Wall Clock With Sound
+126956001: SHORT_NAME: Reign Of Fire Dragon Wall Clock
+126956001: shortdesc: Reign Of Fire Dragon Illuminated Wall Clock
+FEATURE_VALUES not found in props of code 126956001
+126956001: KEYWORDS: ['Clocks', 'Dragons', 'Fantasy', 'Fantasy Red Dragon', 'Wall Clock']
+126956001: MANUFACTURER: 1
+126956001: THEMES: ['Dragons', 'Fantasy', 'Fairies and Dragons', 'Cracked Earth']
+126956001: PRODUCT_TYPE: Wall Clocks
+PRODUCT_TYPE_2 not found in props of code 126956001
+ARTIST not found in props of code 126956001
+OTHER_COUNTRY_PROD_ID not found in props of code 126956001
+scode not found in props of code 126956001
+126956001: Product_Types_TREE_fsearch: ['Wall Clocks']
+126956001: Themes_TREE_fsearch: ['Dragons', 'Fantasy', 'Dragons', 'Cracked Earth', 'Dragons', 'Fantasy', 'Cracked Earth']
+--------- item: 123170002 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 123170002
+123170002: title: "A Charlie Brown Christmas" Illuminated Musical Wall Clock
+123170002: SHORT_NAME: A Charlie Brown Christmas Cuckoo Clock
+123170002: shortdesc: PEANUTS A Charlie Brown Christmas Illuminated Sculptural Cuckoo Clock
+FEATURE_VALUES not found in props of code 123170002
+123170002: KEYWORDS: ['Charlie Brown', 'Charlie Brown Christmas', 'Cuckoo Clocks', 'Illuminated', 'Linus', 'Peanuts', 'Snoopy', "Snoopy's Doghouse", 'Woodstock', 'LED']
+123170002: MANUFACTURER: 1
+123170002: THEMES: ['Christmas', 'Peanuts', 'Movies & Entertainment']
+123170002: PRODUCT_TYPE: Cuckoo Clocks
+PRODUCT_TYPE_2 not found in props of code 123170002
+ARTIST not found in props of code 123170002
+OTHER_COUNTRY_PROD_ID not found in props of code 123170002
+scode not found in props of code 123170002
+123170002: Product_Types_TREE_fsearch: ['Cuckoo Clocks']
+123170002: Themes_TREE_fsearch: ['Christmas', 'Movies & Entertainment', 'Peanuts', 'Movies & Entertainment']
+--------- item: 128086001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 128086001
+128086001: title: Disney&#183;Pixar Toy Story Musical Wall Clock
+128086001: SHORT_NAME: Disney&#183;Pixar Toy Story Cuckoo Clock
+128086001: shortdesc: Disney&#183;Pixar Toy Story Sculptural Cuckoo Clock
+FEATURE_VALUES not found in props of code 128086001
+128086001: KEYWORDS: ['Cuckoo Clocks', 'Disney', 'pixar', 'Toy Story', 'Disney Characters', 'Buzz Lightyear', 'Jessie', 'Rex', 'Sheriff Woody']
+128086001: MANUFACTURER: 1
+128086001: THEMES: ['Disney', 'Movies & Entertainment']
+128086001: PRODUCT_TYPE: Cuckoo Clocks
+PRODUCT_TYPE_2 not found in props of code 128086001
+ARTIST not found in props of code 128086001
+OTHER_COUNTRY_PROD_ID not found in props of code 128086001
+scode not found in props of code 128086001
+128086001: Product_Types_TREE_fsearch: ['Cuckoo Clocks']
+128086001: Themes_TREE_fsearch: ['Disney', 'Movies & Entertainment']
+--------- item: 922483 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 922483
+922483: title: Sculptural Arrowhead Collection With Al Agnew Art
+922483: SHORT_NAME: Moonlight Majesty Wall Decor Collection
+922483: shortdesc: Moonlight Majesty Wall Decor Collection
+922483: FEATURE_VALUES: ['Test', 'Collections']
+922483: KEYWORDS: ['Native American', 'Wolves', 'Collections']
+922483: MANUFACTURER: 1
+922483: THEMES: ['Animals', 'Wildlife', 'Wolves', 'First Nations Inspired']
+922483: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 922483
+ARTIST not found in props of code 922483
+OTHER_COUNTRY_PROD_ID not found in props of code 922483
+scode not found in props of code 922483
+922483: Product_Types_TREE_fsearch: ['Wall Décor']
+922483: Themes_TREE_fsearch: ['Animals', 'Wildlife', 'Animals', 'Wolves', 'Wildlife', 'Wolves', 'Wolves']
+--------- item: 113315001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 113315001
+113315001: title: Thomas Kinkade Snowman With Lights, Animated Train, Music
+113315001: SHORT_NAME: Thomas Kinkade Let It Snow Tabletop Centerpiece
+113315001: shortdesc: Thomas Kinkade Snowman Tabletop Centerpiece: Let It Snow
+113315001: FEATURE_VALUES: ['Swarovski Crystals', 'Artist Editions', 'Thomas Kinkade', 'As Advertised']
+113315001: KEYWORDS: ['Christmas', 'Christmas Villages', 'Holidays', 'Illuminated', 'Let It Snow', 'Music', 'Musical', 'sculptural trains', 'Snowman', 'Snowmen', 'Swarovski Crystals', 'Tabletop', 'Thomas Kinkade', 'Victorian', 'Winter', 'Thomas', 'Victorian Christmas', 'Holiday Decor', 'Promotion 10262']
+113315001: MANUFACTURER: 1
+113315001: THEMES: ['Christmas', 'Snowmen', 'Thomas Kinkade', 'Christmas Décor']
+113315001: PRODUCT_TYPE: Table Centerpieces
+PRODUCT_TYPE_2 not found in props of code 113315001
+ARTIST not found in props of code 113315001
+OTHER_COUNTRY_PROD_ID not found in props of code 113315001
+scode not found in props of code 113315001
+113315001: Product_Types_TREE_fsearch: ['Table Centerpieces']
+113315001: Themes_TREE_fsearch: ['Christmas', 'Snowmen', 'Thomas Kinkade']
+--------- item: 904178 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 904178
+904178: title: USMC Devil Dog Sculptural Porcelain Stein Collection
+904178: SHORT_NAME: USMC Devil Dog Stein Collection
+904178: shortdesc: USMC Devil Dog Sculpted Stein Collection
+904178: FEATURE_VALUES: ['Collections', 'For Husband']
+904178: KEYWORDS: ['22 karat gold', 'Bulldogs', 'Devil Dog', 'Gold', 'Marine Corps', 'Marines', 'Military', 'Porcelain', 'Semper Fi', 'Semper Fidelis', 'Steins', 'USMC', 'Dog', 'US Marines', 'Military Gifts']
+904178: MANUFACTURER: 1
+904178: THEMES: ['Animals', 'Bulldogs', 'Dogs', 'Marines', 'Military', 'Patriotic', 'Pets']
+904178: PRODUCT_TYPE: Steins
+PRODUCT_TYPE_2 not found in props of code 904178
+ARTIST not found in props of code 904178
+OTHER_COUNTRY_PROD_ID not found in props of code 904178
+scode not found in props of code 904178
+904178: Product_Types_TREE_fsearch: ['Steins', 'Steins']
+904178: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Bulldogs', 'Dogs', 'Bulldogs', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Military', 'Marines', 'Marines', 'Military', 'Patriotic', 'Pets']
+--------- item: 130519001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 130519001
+130519001: title: Ted Blaylock "Reflections Of Majesty" Sculpted Wall Mirror
+130519001: SHORT_NAME: Reflections Of Majesty Mirror
+130519001: shortdesc: Ted Blaylock Reflections Of Majesty Fully-Sculpted Oval Eagle Art Mirror
+FEATURE_VALUES not found in props of code 130519001
+KEYWORDS not found in props of code 130519001
+130519001: MANUFACTURER: 1
+130519001: THEMES: ['Animals', 'Eagles', 'Birds']
+130519001: PRODUCT_TYPE: Mirrors
+130519001: PRODUCT_TYPE_2: Wall Décor
+ARTIST not found in props of code 130519001
+OTHER_COUNTRY_PROD_ID not found in props of code 130519001
+scode not found in props of code 130519001
+130519001: Product_Types_TREE_fsearch: ['Mirrors', 'Wall Décor']
+130519001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Eagles', 'Animals', 'Birds', 'Eagles', 'Wildlife', 'Eagles', 'Wildlife', 'Birds', 'Eagles', 'Eagles', 'Birds', 'Eagles', 'Animals', 'Birds', 'Wildlife', 'Birds', 'Birds']
+--------- item: 128652001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 128652001
+128652001: title: PEANUTS "Peek-A-BOO!" Cookie Jar
+128652001: SHORT_NAME: PEANUTS Peek-A-BOO! Cookie Jar
+128652001: shortdesc: PEANUTS Peek-A-Boo! Sculptural Jack-O-Lantern Food-Safe Cookie Jar
+FEATURE_VALUES not found in props of code 128652001
+128652001: KEYWORDS: ['Cookie Jars', 'Halloween', 'Halloween Decor', 'Peanuts', 'Snoopy']
+128652001: MANUFACTURER: 1
+128652001: THEMES: ['Peanuts', 'Movies & Entertainment']
+128652001: PRODUCT_TYPE: Cookie Jars
+PRODUCT_TYPE_2 not found in props of code 128652001
+ARTIST not found in props of code 128652001
+OTHER_COUNTRY_PROD_ID not found in props of code 128652001
+scode not found in props of code 128652001
+128652001: Product_Types_TREE_fsearch: ['Cookie Jars']
+128652001: Themes_TREE_fsearch: ['Movies & Entertainment', 'Peanuts', 'Movies & Entertainment']
+--------- item: 127662001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 127662001
+127662001: title: Disney The Lion King "Hakuna Matata" Day-To-Night Wall Clock
+127662001: SHORT_NAME: Disney The Lion King Hakuna Matata Wall Clock
+127662001: shortdesc: Disney The Lion King Hakuna Matata Day-To-Night Sculptural Wall Clock
+FEATURE_VALUES not found in props of code 127662001
+127662001: KEYWORDS: ['Disney', 'Disney Movies', 'Lion King', 'Disney Characters', 'Disney Cuckoo Clock', 'Simba', 'Rafiki', 'Ed the Hyena', 'Scar', 'Mufasa']
+127662001: MANUFACTURER: 1
+127662001: THEMES: ['Disney', 'Movies & Entertainment']
+127662001: PRODUCT_TYPE: Cuckoo Clocks
+PRODUCT_TYPE_2 not found in props of code 127662001
+ARTIST not found in props of code 127662001
+OTHER_COUNTRY_PROD_ID not found in props of code 127662001
+scode not found in props of code 127662001
+127662001: Product_Types_TREE_fsearch: ['Cuckoo Clocks']
+127662001: Themes_TREE_fsearch: ['Disney', 'Movies & Entertainment']
+--------- item: 127401001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 127401001
+127401001: title: Thomas Kinkade Native Beauty Sculptural Dreamcatcher Decor
+127401001: SHORT_NAME: Thomas Kinkade Native Beauty Wall Decor
+127401001: shortdesc: Thomas Kinkade Native Beauty Sculptural Dreamcatcher Wall Decor
+FEATURE_VALUES not found in props of code 127401001
+127401001: KEYWORDS: ['Bald Eagles', 'Feathers', 'Native American', 'Thomas Kinkade', 'Wall Decor', 'Wall Decor Art']
+127401001: MANUFACTURER: 1
+127401001: THEMES: ['Eagles', 'Native American Style']
+127401001: PRODUCT_TYPE: Wall Décor
+PRODUCT_TYPE_2 not found in props of code 127401001
+ARTIST not found in props of code 127401001
+OTHER_COUNTRY_PROD_ID not found in props of code 127401001
+scode not found in props of code 127401001
+127401001: Product_Types_TREE_fsearch: ['Wall Décor']
+127401001: Themes_TREE_fsearch: ['Animals', 'Eagles', 'Animals', 'Birds', 'Eagles', 'Wildlife', 'Eagles', 'Wildlife', 'Birds', 'Eagles', 'Eagles', 'Birds', 'Eagles', 'Native American Style']

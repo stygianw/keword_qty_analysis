@@ -1,0 +1,178 @@
+KEYWORD: YORKIES
+---Solr Only---
+--------- item: 906564001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 906564001
+906564001: title: "Sher-ruff S. Paws" Cowboy Yorkie Figurine
+906564001: SHORT_NAME: Sher-ruff S. Paws Figurine
+906564001: shortdesc: Sher-ruff S. Paws Handcrafted Yorkie Figurine
+906564001: FEATURE_VALUES: ['Hamilton Best Sellers']
+906564001: KEYWORDS: ['Dogs', 'figurines', 'sheriff', 'Western', 'Yorkie', 'Yorkshire Terrier', 'Cowboy', 'Promotion 10286', 'Promotion 10300']
+906564001: MANUFACTURER: 9
+906564001: THEMES: ['Animals', 'Dogs', 'Pets', 'Yorkshire Terriers']
+906564001: PRODUCT_TYPE: Figurines
+PRODUCT_TYPE_2 not found in props of code 906564001
+ARTIST not found in props of code 906564001
+OTHER_COUNTRY_PROD_ID not found in props of code 906564001
+scode not found in props of code 906564001
+906564001: Product_Types_TREE_fsearch: ['Figurines']
+906564001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets', 'Animals', 'Dogs', 'Yorkshire Terriers', 'Dogs', 'Yorkshire Terriers']
+--------- item: 125396001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 125396001
+125396001: title: "Forever Faithful" Women's Watch: Choose Your Breed
+125396001: SHORT_NAME: Forever Faithful Women's Watch
+125396001: shortdesc: Forever Faithful Dog Precision Quartz Movement Women's Watch
+125396001: FEATURE_VALUES: ['Gold', "Women's"]
+125396001: KEYWORDS: ['Breed', 'Chihuahuas', 'Dachshunds', 'Dogs', 'Paw Prints', 'Pomeranian', 'Shih Tzu', "Women's Watches", 'Yorkie']
+125396001: MANUFACTURER: 1
+125396001: THEMES: ['Animals', 'Dogs', 'Pets']
+125396001: PRODUCT_TYPE: Women's Watches
+PRODUCT_TYPE_2 not found in props of code 125396001
+ARTIST not found in props of code 125396001
+OTHER_COUNTRY_PROD_ID not found in props of code 125396001
+scode not found in props of code 125396001
+125396001: Product_Types_TREE_fsearch: ["Women's Watches"]
+125396001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets']
+--------- item: 131194001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 131194001
+131194001: title: Dog And Crystal Moon Pendant Necklace: Choose Your Breed
+131194001: SHORT_NAME: I Love My Dog To The Moon And Back Pendant Necklace
+131194001: shortdesc: I Love My Dog To The Moon And Back Women's Crescent-Shaped Swarovski Crystal Dog Pendant Necklace
+131194001: FEATURE_VALUES: ['For Her', 'Sterling Silver', 'Swarovski Crystals', 'Test', "Women's", 'For Her - General']
+131194001: KEYWORDS: ['Animals', 'Chihuahuas', 'Dachshunds', 'Dogs', 'Pets', 'Pomeranian', 'Pug', 'Schnauzer', 'Shih Tzu', 'Yorkie', "Women's Necklace & Pendant", 'Promotion 10355']
+131194001: MANUFACTURER: 1
+131194001: THEMES: ['Animals', 'Chihuahuas', 'Dachshunds', 'Dogs', 'Pets', 'Pomeranians', 'Pugs', 'Schnauzers', 'Shih Tzus', 'Yorkshire Terriers']
+131194001: PRODUCT_TYPE: Women's Necklaces & Pendants
+PRODUCT_TYPE_2 not found in props of code 131194001
+ARTIST not found in props of code 131194001
+OTHER_COUNTRY_PROD_ID not found in props of code 131194001
+scode not found in props of code 131194001
+131194001: Product_Types_TREE_fsearch: ["Women's Necklaces & Pendants"]
+131194001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Chihuahuas', 'Dogs', 'Chihuahuas', 'Animals', 'Dogs', 'Dachshunds', 'Dogs', 'Dachshunds', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets', 'Animals', 'Dogs', 'Pomeranians', 'Dogs', 'Pomeranians', 'Animals', 'Dogs', 'Pugs', 'Dogs', 'Pugs', 'Animals', 'Dogs', 'Schnauzers', 'Dogs', 'Schnauzers', 'Animals', 'Dogs', 'Shih Tzus', 'Dogs', 'Shih Tzus', 'Animals', 'Dogs', 'Yorkshire Terriers', 'Dogs', 'Yorkshire Terriers']
+--------- item: 906615001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 906615001
+906615001: title: Thomas Kinkade Yorkie Memorial Keepsake Box
+906615001: SHORT_NAME: Thomas Kinkade My Forever Friend Yorkie Keepsake Box
+906615001: shortdesc: Thomas Kinkade My Forever Friend Handcrafted Yorkie Keepsake Box
+906615001: FEATURE_VALUES: ['Artist Editions', 'Thomas Kinkade']
+906615001: KEYWORDS: ['Dogs', 'Keepsake Box', 'Pets', 'Remembrance', 'Thomas Kinkade', 'Yorkie', 'Yorkshire Terrier', 'Box']
+906615001: MANUFACTURER: 9
+906615001: THEMES: ['Animals', 'Dogs', 'Pets', 'Thomas Kinkade', 'Yorkshire Terriers', 'Bereavement']
+906615001: PRODUCT_TYPE: Boxes
+PRODUCT_TYPE_2 not found in props of code 906615001
+ARTIST not found in props of code 906615001
+OTHER_COUNTRY_PROD_ID not found in props of code 906615001
+scode not found in props of code 906615001
+Product_Types_TREE_fsearch not found in props of code 906615001
+906615001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets', 'Thomas Kinkade', 'Animals', 'Dogs', 'Yorkshire Terriers', 'Dogs', 'Yorkshire Terriers', 'Bereavement']
+--------- item: 302282001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 302282001
+302282001: title: Angela Sutter "Kayla's Sunday Stroll" Doll With Her Yorkie
+302282001: SHORT_NAME: Kayla's Sunday Stroll Child Doll
+302282001: shortdesc: Kayla's Sunday Stroll Poseable Lifelike Child Girl Doll With Yorkie Plush
+302282001: FEATURE_VALUES: ['Girl Dolls', 'Lifelike Vinyl', 'Doll Disclaimer']
+302282001: KEYWORDS: ['African American', 'African-American', 'girl', 'Girls', 'Poseable', 'Vinyl Doll', 'Yorkie', 'Child Doll', 'Girl Dolls', 'Ashton Drake Dolls', 'Angela Sutter', 'Reborn Toddler', 'Black Dolls']
+302282001: MANUFACTURER: 3
+302282001: THEMES: ['African American', 'Girl Dolls', 'So Truly Real', 'Toddler & Child Dolls']
+302282001: PRODUCT_TYPE: Toddler & Child Dolls
+PRODUCT_TYPE_2 not found in props of code 302282001
+ARTIST not found in props of code 302282001
+OTHER_COUNTRY_PROD_ID not found in props of code 302282001
+scode not found in props of code 302282001
+Product_Types_TREE_fsearch not found in props of code 302282001
+302282001: Themes_TREE_fsearch: ['African American']
+--------- item: 123594001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 123594001
+123594001: title: Dog Art "Paw Prints On Our Hearts" Music Box: Choose A Breed
+123594001: SHORT_NAME: Dogs Leave Paw Prints On Our Hearts Music Box
+123594001: shortdesc: Dogs Leave Paw Prints On Our Hearts Music Box With Heart Charm
+FEATURE_VALUES not found in props of code 123594001
+123594001: KEYWORDS: ['Animals', 'Chihuahuas', 'Dachshunds', 'Dogs', 'Music', 'Music Box', 'Musical', 'Pets', 'Pomeranian', 'Pug', 'Schnauzer', 'Shih Tzu', 'Yorkie', 'Yorkshire Terrier', 'You Are My Sunshine', 'Box', 'Promotion 10249']
+123594001: MANUFACTURER: 1
+123594001: THEMES: ['Animals', 'Dogs', 'Pets']
+123594001: PRODUCT_TYPE: Music Boxes
+PRODUCT_TYPE_2 not found in props of code 123594001
+ARTIST not found in props of code 123594001
+OTHER_COUNTRY_PROD_ID not found in props of code 123594001
+scode not found in props of code 123594001
+123594001: Product_Types_TREE_fsearch: ['Music Boxes']
+123594001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets']
+--------- item: 906936001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 906936001
+906936001: title: "Chief Little Paws" Yorkie Figurine
+906936001: SHORT_NAME: Chief Little Paws Figurine
+906936001: shortdesc: Native American Inspired Chief Little Paws Yorkie Figurine
+FEATURE_VALUES not found in props of code 906936001
+906936001: KEYWORDS: ['Dogs', 'figurines', 'Headdress', 'Indian', 'Native American', 'Puppies', 'Puppy', 'Yorkie', 'Yorkshire Terrier']
+906936001: MANUFACTURER: 9
+906936001: THEMES: ['Animals', 'Dogs', 'Native American Style', 'Pets', 'Yorkshire Terriers']
+906936001: PRODUCT_TYPE: Figurines
+PRODUCT_TYPE_2 not found in props of code 906936001
+ARTIST not found in props of code 906936001
+OTHER_COUNTRY_PROD_ID not found in props of code 906936001
+scode not found in props of code 906936001
+906936001: Product_Types_TREE_fsearch: ['Figurines']
+906936001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Native American Style', 'Pets', 'Animals', 'Dogs', 'Yorkshire Terriers', 'Dogs', 'Yorkshire Terriers']
+--------- item: 125397001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 125397001
+125397001: title: "Forever Faithful" Yorkie Lover Women's Watch
+125397001: SHORT_NAME: Forever Faithful Women's Watch Yorkie
+125397001: shortdesc: Forever Faithful Women's Crystal Yorkie Stretch Watch
+125397001: FEATURE_VALUES: ['Gold', "Women's", 'Stainless Steel']
+125397001: KEYWORDS: ['Animals', 'Crystal', 'Dogs', 'Fashion Jewelry', 'Fine Jewelry', 'Gold', 'Jewelry', 'Mother of Pearl', 'Stainless Steel', "Women's Watches", 'Wrist Watch', 'Wristwatch', 'Yorkie', 'Yorkshire Terrier', "women's jewelry", 'Stretch Band', 'Watch', 'ladies watch']
+125397001: MANUFACTURER: 1
+125397001: THEMES: ['Animals', 'Dogs', 'Pets', 'Yorkshire Terriers']
+125397001: PRODUCT_TYPE: Women's Watches
+PRODUCT_TYPE_2 not found in props of code 125397001
+ARTIST not found in props of code 125397001
+OTHER_COUNTRY_PROD_ID not found in props of code 125397001
+scode not found in props of code 125397001
+125397001: Product_Types_TREE_fsearch: ["Women's Watches"]
+125397001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets', 'Animals', 'Dogs', 'Yorkshire Terriers', 'Dogs', 'Yorkshire Terriers']
+--------- item: 112666001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 112666001
+112666001: title: "Loyal Companion" Yorkie Reversible Jacket
+112666001: SHORT_NAME: Loyal Companion Yorkie Women's Jacket
+112666001: shortdesc: Loyal Companion Yorkie Women's Fleece & Microfiber Reversible Jacket
+112666001: FEATURE_VALUES: ["Women's"]
+112666001: KEYWORDS: ['Dogs', 'Pets', 'reversible', "Women's Jackets", 'Yorkie', 'Yorkshire Terrier', 'zippered']
+112666001: MANUFACTURER: 1
+112666001: THEMES: ['Animals', 'Dogs', 'Pets', 'Yorkshire Terriers']
+112666001: PRODUCT_TYPE: Women's Jackets
+PRODUCT_TYPE_2 not found in props of code 112666001
+ARTIST not found in props of code 112666001
+OTHER_COUNTRY_PROD_ID not found in props of code 112666001
+scode not found in props of code 112666001
+112666001: Product_Types_TREE_fsearch: ["Women's Jackets"]
+112666001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets', 'Animals', 'Dogs', 'Yorkshire Terriers', 'Dogs', 'Yorkshire Terriers']
+--------- item: 126038001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 126038001
+126038001: title: "Reflections Of Love" Dog Art Bracelet: Choose Your Breed
+126038001: SHORT_NAME: Reflections Of Love Bracelet
+126038001: shortdesc: Reflections Of Love Dog Porcelain And Glass Bracelet
+126038001: FEATURE_VALUES: ['For Her', 'Gold', "Women's", 'For Her - General']
+126038001: KEYWORDS: ['14 karat gold', 'Animals', 'beads', 'Bracelet', 'Chihuahuas', 'Dachshunds', 'Dogs', 'Fashion Jewelry', 'Fine Jewelry', 'Glass', 'Gold', 'Jewelry', 'Pomeranian', 'Porcelain', 'Pug', 'Schnauzer', 'Shih Tzu', 'Yorkie', 'Yorkshire Terrier', "Women's Bracelet", 'Pollyanna Pickering', 'Beaded Bracelet', 'Glass Beads', 'porcelain beads', "women's jewelry"]
+126038001: MANUFACTURER: 1
+126038001: THEMES: ['Animals', 'Dogs', 'Pets']
+126038001: PRODUCT_TYPE: Women's Bracelets
+PRODUCT_TYPE_2 not found in props of code 126038001
+ARTIST not found in props of code 126038001
+OTHER_COUNTRY_PROD_ID not found in props of code 126038001
+scode not found in props of code 126038001
+126038001: Product_Types_TREE_fsearch: ["Women's Bracelets"]
+126038001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets']
+--------- item: 909154 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 909154
+909154: title: "Feathers 'N Fur" Yorkie Wild West Figurine Collection
+909154: SHORT_NAME: Feathers 'N Fur Yorkie Figurine Collection
+909154: shortdesc: Feathers 'N Fur Native American Inspired Yorkie Figurine Collection
+909154: FEATURE_VALUES: ['Collections']
+909154: KEYWORDS: ['Animals', 'Dogs', 'figurines', 'Headdress', 'Indian', 'Native American', 'Pets', 'Yorkie', 'Yorkshire Terrier']
+909154: MANUFACTURER: 9
+909154: THEMES: ['Animals', 'Dogs', 'Native American Style', 'Pets', 'Yorkshire Terriers']
+909154: PRODUCT_TYPE: Figurines
+PRODUCT_TYPE_2 not found in props of code 909154
+ARTIST not found in props of code 909154
+OTHER_COUNTRY_PROD_ID not found in props of code 909154
+scode not found in props of code 909154
+909154: Product_Types_TREE_fsearch: ['Figurines']
+909154: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Native American Style', 'Pets', 'Animals', 'Dogs', 'Yorkshire Terriers', 'Dogs', 'Yorkshire Terriers']

@@ -1,0 +1,17 @@
+KEYWORD: JOHN WAYNE
+---Endeca Only---
+--------- item: 910952 ------------
+910952: code: 910952
+910952: extprdid: 1701975001
+910952: title: Prince William And Catherine Middleton Proof Coin Collection
+910952: SHORT_NAME: The Duke And Duchess Of Cambridge Proof Coin Collection
+Product not found in props of code 910952
+910952: shortdesc: The Duke And Duchess Of Cambridge 24K-Gold Plated Proof Coin Collection
+910952: FEATURE_VALUES: Collections
+910952: keywords: William And Kate
+910952: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 910952
+910952: OTHER_COUNTRY_PROD_ID: None
+910952: EMAIL_SUBJECT_TITLE: Price William Kate Middleton Proof Coin Collection
+Product Types: ['Coins']
+Themes: ['Prince William & Princess Kate']

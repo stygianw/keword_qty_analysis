@@ -1,0 +1,31 @@
+---Endeca Only---
+--------- item: 127992001 ------------
+127992001: code: 127992001
+extprdid not found in props of code 127992001
+127992001: title: God Is My Strength Men's Diamond Pendant Necklace
+127992001: SHORT_NAME: God Is My Strength Diamond Pendant Necklace
+Product not found in props of code 127992001
+127992001: shortdesc: God Is My Strength Men's Diamond Pendant Necklace
+127992001: FEATURE_VALUES: Men's
+127992001: keywords: Religious
+127992001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127992001
+127992001: OTHER_COUNTRY_PROD_ID: None
+127992001: EMAIL_SUBJECT_TITLE: Religious Men's Stainless Steel Dog Tag Pendant
+Product Types: ["Men's Necklaces & Pendants"]
+Themes: ['Inspirational', 'Religious']
+--------- item: 302944001 ------------
+302944001: code: 302944001
+extprdid not found in props of code 302944001
+302944001: title: "Playful Pup" Outfit For Baby Boy Dolls 17" - 19" Long
+302944001: SHORT_NAME: Playful Pup Baby Doll Accessory Set
+Product not found in props of code 302944001
+302944001: shortdesc: Playful Pup Baby Doll Accessory Set: Outfit For 17 To 19 Inch Long Dolls
+302944001: FEATURE_VALUES: New Arrivals Ashton-Drake
+302944001: keywords: Promotion 10071
+302944001: MANUFACTURER: The Ashton-Drake Galleries
+artist not found in props of code 302944001
+302944001: OTHER_COUNTRY_PROD_ID: None
+302944001: EMAIL_SUBJECT_TITLE: Dog-Themed Set of Baby Boy Doll Clothes
+Product Types not found in dimensions of code 302944001
+Themes not found in dimensions of code 302944001

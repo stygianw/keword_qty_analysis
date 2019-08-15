@@ -1,0 +1,50 @@
+KEYWORD: KISS
+---Solr Only---
+--------- item: 128154001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 128154001
+128154001: title: Dona Gelsinger Snow-Kissed Holiday Cheer Illuminated Wreath
+128154001: SHORT_NAME: Snow-Kissed Holiday Cheer Wreath
+128154001: shortdesc: Dona Gelsinger Snow-Kissed Holiday Cheer Illuminated Snowman Wreath
+FEATURE_VALUES not found in props of code 128154001
+128154001: KEYWORDS: ['Snowman', 'Wreaths', 'Holiday Decor', 'Always In Bloom', 'Holiday']
+128154001: MANUFACTURER: 1
+128154001: THEMES: ['Christmas', 'Snowmen', 'Always in Bloom', 'Christmas Décor']
+128154001: PRODUCT_TYPE: Wreaths
+PRODUCT_TYPE_2 not found in props of code 128154001
+ARTIST not found in props of code 128154001
+OTHER_COUNTRY_PROD_ID not found in props of code 128154001
+scode not found in props of code 128154001
+128154001: Product_Types_TREE_fsearch: ['Wreaths']
+128154001: Themes_TREE_fsearch: ['Christmas', 'Snowmen', 'Always in Bloom']
+--------- item: 122493001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 122493001
+122493001: title: Thomas Kinkade Illuminated Musical Snowglobe Tabletop Tree
+122493001: SHORT_NAME: Thomas Kinkade Snow-Kissed Holiday Memories Tabletop Tree
+122493001: shortdesc: Thomas Kinkade Snow-Kissed Holiday Memories Tabletop Tree
+122493001: FEATURE_VALUES: ['Best Sellers']
+122493001: KEYWORDS: ['Centerpiece', 'Christmas', 'Christmas Decorations', 'Christmas Trees', 'Holiday Illuminations', 'Holidays', 'Illuminated', 'Lights up', 'Music', 'Musical', 'Snow Globes', 'Snowglobes', 'Tabletop Trees', 'Thomas Kinkade', 'Water Globes', 'Waterglobes', 'LED', 'Christmas Centerpieces', 'Lights', 'Christmas Music', 'Promotion 10089', 'Promotion 10232']
+122493001: MANUFACTURER: 1
+122493001: THEMES: ['Christmas', 'Thomas Kinkade', 'Christmas Trees', 'Christmas Décor']
+122493001: PRODUCT_TYPE: Snowglobes/Water Globes
+PRODUCT_TYPE_2 not found in props of code 122493001
+ARTIST not found in props of code 122493001
+OTHER_COUNTRY_PROD_ID not found in props of code 122493001
+scode not found in props of code 122493001
+122493001: Product_Types_TREE_fsearch: ['Snowglobes/Water Globes']
+122493001: Themes_TREE_fsearch: ['Christmas', 'Thomas Kinkade']
+--------- item: 128353001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 128353001
+128353001: title: Snow-Kissed Wishes Personalized Ornament
+128353001: SHORT_NAME: Snow-Kissed Wishes Personalized Ornament
+128353001: shortdesc: Snow-Kissed Wishes Personalized Ornament
+128353001: FEATURE_VALUES: ['For Daughter', 'Personalized', 'Test']
+128353001: KEYWORDS: ['Christmas', 'Christmas Decorations', 'Gifts for Daughter', 'Ornament', 'Personalized', 'Snowman', 'Snowmen', 'Today Tomorrow Always', 'Daughter']
+128353001: MANUFACTURER: 1
+128353001: THEMES: ['Christmas', 'Snowmen', 'Christmas Décor']
+128353001: PRODUCT_TYPE: Ornaments
+PRODUCT_TYPE_2 not found in props of code 128353001
+ARTIST not found in props of code 128353001
+OTHER_COUNTRY_PROD_ID not found in props of code 128353001
+scode not found in props of code 128353001
+128353001: Product_Types_TREE_fsearch: ['Ornaments']
+128353001: Themes_TREE_fsearch: ['Christmas', 'Snowmen']

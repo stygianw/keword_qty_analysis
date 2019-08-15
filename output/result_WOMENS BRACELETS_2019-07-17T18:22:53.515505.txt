@@ -1,0 +1,16 @@
+---Endeca Only---
+--------- item: 111979002 ------------
+111979002: code: 111979002
+111979002: extprdid: 119792
+111979002: title: Thomas Kinkade "Colors Of Venice" Art-Glass Beaded Necklace
+111979002: SHORT_NAME: Thomas Kinkade Colors Of Venice Necklace
+Product not found in props of code 111979002
+111979002: shortdesc: Necklace: Thomas Kinkade Colors Of Venice Murano-Style Glass Necklace
+111979002: FEATURE_VALUES: Women's
+111979002: keywords: beads
+111979002: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 111979002
+111979002: OTHER_COUNTRY_PROD_ID: None
+111979002: EMAIL_SUBJECT_TITLE: Thomas Kinkade Art Glass Bracelet
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Thomas Kinkade']

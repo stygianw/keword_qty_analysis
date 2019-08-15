@@ -1,0 +1,321 @@
+---Endeca Only---
+--------- item: 922434 ------------
+922434: code: 922434
+922434: extprdid: 128466001
+922434: title: "Guiding Words Of Faith" Crystal Beaded Bracelet Collection
+922434: SHORT_NAME: Guiding Words Of Faith Bracelet Collection
+Product not found in props of code 922434
+922434: shortdesc: Guiding Words Of Faith Women's Religious Adjustable Bracelet Collection With Faceted Crystal Beads & Inspirational Bible Verses
+922434: FEATURE_VALUES: Women's
+922434: keywords: Women's Bracelet
+922434: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922434
+922434: OTHER_COUNTRY_PROD_ID: None
+922434: EMAIL_SUBJECT_TITLE: Religious Bracelet Collection and FREE Jewelry Box
+Product Types: ["Women's Bracelets"]
+Themes: ['Inspirational', 'Religious']
+--------- item: 122413001 ------------
+122413001: code: 122413001
+extprdid not found in props of code 122413001
+122413001: title: "Heartfelt Blessings" Faith, Hope And Love Diamond Necklace
+122413001: SHORT_NAME: Heartfelt Blessings Diamond Pendant Necklace
+Product not found in props of code 122413001
+122413001: shortdesc: Heartfelt Blessings Women's Faith, Hope And Love Diamond Pendant Necklace
+122413001: FEATURE_VALUES: Women's
+122413001: keywords: women's jewelry
+122413001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122413001
+122413001: OTHER_COUNTRY_PROD_ID: None
+122413001: EMAIL_SUBJECT_TITLE: Inspirational Diamond Pendant Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Inspirational', 'Religious']
+--------- item: 130919001 ------------
+130919001: code: 130919001
+extprdid not found in props of code 130919001
+130919001: title: Chocolate Hued Cultured Freshwater Pearl Necklace & Earrings
+130919001: SHORT_NAME: Sweetest Kiss Cultured Pearl Pendant Necklace & Earrings Set
+Product not found in props of code 130919001
+130919001: shortdesc: Sweetest Kiss Women's Genuine Freshwater Cultured Pearl And Diamond Pendant Necklace And Earrings Set In A Rich Chocolate Hue
+130919001: FEATURE_VALUES: Women's
+130919001: keywords: chocolate pearls
+130919001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130919001
+130919001: OTHER_COUNTRY_PROD_ID: None
+130919001: EMAIL_SUBJECT_TITLE: Chocolate-Hued Freshwater Cultured Pearl Jewelry
+Product Types: ["Women's Necklaces & Pendants"]
+Themes not found in dimensions of code 130919001
+--------- item: 128101005 ------------
+128101005: code: 128101005
+128101005: extprdid: 128101002, 128101003, 128101004
+128101005: title: "Twilight Luster" Blue Topaz Necklace And Earrings Set
+128101005: SHORT_NAME: Twilight Luster Pendant Necklace And Earrings Set
+Product not found in props of code 128101005
+128101005: shortdesc: Twilight Luster Genuine Blue Topaz Pendant Necklace And Earrings Set
+128101005: FEATURE_VALUES: Women's
+128101005: keywords: Women's Necklace & Pendant
+128101005: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128101005
+128101005: OTHER_COUNTRY_PROD_ID: None
+128101005: EMAIL_SUBJECT_TITLE: London Blue and White Topaz Women's Jewelry Set
+Product Types: ["Women's Necklaces & Pendants"]
+Themes not found in dimensions of code 128101005
+--------- item: 131646001 ------------
+131646001: code: 131646001
+extprdid not found in props of code 131646001
+131646001: title: Meghan Markle Royal Baby Debut-Inspired Turquoise Necklace
+131646001: SHORT_NAME: Royal Blessing Pendant Necklace
+Product not found in props of code 131646001
+131646001: shortdesc: Royal Blessing Meghan Markle Inspired Women's 18K-Gold Plated Necklace With Three Genuine Turquoise Stones
+131646001: FEATURE_VALUES: Women's
+131646001: keywords: Women's Necklace
+131646001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 131646001
+131646001: OTHER_COUNTRY_PROD_ID: None
+131646001: EMAIL_SUBJECT_TITLE: Meghan Markle Jewelry Inspired Turquoise Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Prince Harry & Princess Meghan']
+--------- item: 121066001 ------------
+121066001: code: 121066001
+extprdid not found in props of code 121066001
+121066001: title: "Nature's Offerings" Leather Bracelet With Copper Beads
+121066001: SHORT_NAME: Nature's Offerings Bracelet
+Product not found in props of code 121066001
+121066001: shortdesc: Nature's Offerings Braided Leather Bracelet
+121066001: FEATURE_VALUES: Women's
+121066001: keywords: women's jewelry
+121066001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121066001
+121066001: OTHER_COUNTRY_PROD_ID: None
+121066001: EMAIL_SUBJECT_TITLE: Copper Bead and Braided Leather Bracelet
+Product Types: ["Women's Bracelets"]
+Themes not found in dimensions of code 121066001
+--------- item: 121510001 ------------
+121510001: code: 121510001
+121510001: extprdid: 119987001, 120896001, 120923001, 120909001
+121510001: title: Downton Abbey-Inspired Ring: Choice Of 4 Designs
+121510001: SHORT_NAME: Downton Abbey Estate Ring
+Product not found in props of code 121510001
+121510001: shortdesc: Downton Abbey Women's Estate Ring
+121510001: FEATURE_VALUES: Women's
+121510001: keywords: women's jewelry
+121510001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121510001
+121510001: OTHER_COUNTRY_PROD_ID: None
+121510001: EMAIL_SUBJECT_TITLE: Downton Abbey Diamonesk Women's Ring
+Product Types: ["Women's Rings"]
+Themes: ['Movies & Entertainment']
+--------- item: 128471004 ------------
+128471004: code: 128471004
+extprdid not found in props of code 128471004
+128471004: title: Empress Burmese Jade Pendant Necklace And Earrings Set
+128471004: SHORT_NAME: Empress Pendant Necklace And Earrings Set
+Product not found in props of code 128471004
+128471004: shortdesc: Empress White Topaz & 5.9 Carat Burmese Jade Matching Pendant Necklace And Earrings Set
+128471004: FEATURE_VALUES: Women's
+128471004: keywords: Women's Necklace & Pendant
+128471004: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128471004
+128471004: OTHER_COUNTRY_PROD_ID: None
+128471004: EMAIL_SUBJECT_TITLE: Burmese Jade and White Topaz Jewelry Set
+Product Types: ["Women's Necklaces & Pendants"]
+Themes not found in dimensions of code 128471004
+--------- item: 127938001 ------------
+127938001: code: 127938001
+extprdid not found in props of code 127938001
+127938001: title: "Royal Treasure" Simulated Pearl Necklace And Earrings Set
+127938001: SHORT_NAME: Royal Treasure Necklace And Earrings Set
+Product not found in props of code 127938001
+127938001: shortdesc: Royal Treasure Simulated Pearl And Diamonesk Necklace And Earrings Set
+127938001: FEATURE_VALUES: Women's
+127938001: keywords: women's
+127938001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127938001
+127938001: OTHER_COUNTRY_PROD_ID: None
+127938001: EMAIL_SUBJECT_TITLE: Royal Treasure Simulated Pearl Jewelry Set
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Queen Elizabeth II']
+--------- item: 922366 ------------
+922366: code: 922366
+922366: extprdid: 127551004
+922366: title: Crystal Bracelet Collection With FREE Matching Earrings
+922366: SHORT_NAME: Shades Of Sparkle Bracelet Collection
+Product not found in props of code 922366
+922366: shortdesc: Shades Of Sparkle Crystal Stretch Bracelet Collection With Free Matching Pair Of Earrings & Deluxe Jewelry Case
+922366: FEATURE_VALUES: Women's
+922366: keywords: Women's Earrings
+922366: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922366
+922366: OTHER_COUNTRY_PROD_ID: None
+922366: EMAIL_SUBJECT_TITLE: Crystal Bracelet Collection with FREE Earrings
+Product Types: ["Women's Bracelets"]
+Themes not found in dimensions of code 922366
+--------- item: 127723002 ------------
+127723002: code: 127723002
+extprdid not found in props of code 127723002
+127723002: title: "Rarest Red" Diamonesk Earrings And Necklace Set
+127723002: SHORT_NAME: Rarest Red Pendant Necklace And Earrings Set
+Product not found in props of code 127723002
+127723002: shortdesc: Rarest Red Diamonsek Pendant Necklace And Earrings Set With Deluxe Presentation Case
+127723002: FEATURE_VALUES: Women's
+127723002: keywords: Women's Necklace & Pendant
+127723002: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127723002
+127723002: OTHER_COUNTRY_PROD_ID: None
+127723002: EMAIL_SUBJECT_TITLE: Diamonesk Simulated Red Diamond Jewelry Set
+Product Types: ["Women's Necklaces & Pendants"]
+Themes not found in dimensions of code 127723002
+--------- item: 125499001 ------------
+125499001: code: 125499001
+extprdid not found in props of code 125499001
+125499001: title: "For The Love Of The Game" South Carolina Gamecocks Pendant
+125499001: SHORT_NAME: For The Love Of The Game Gamecocks Pendant Necklace
+Product not found in props of code 125499001
+125499001: shortdesc: For The Love Of The Game South Carolina Gamecocks Pendant Necklace
+125499001: FEATURE_VALUES: Women's
+125499001: keywords: women's jewelry
+125499001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 125499001
+125499001: OTHER_COUNTRY_PROD_ID: None
+125499001: EMAIL_SUBJECT_TITLE: South Carolina Gamecocks Pendant Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['College Sports', 'College Sports']
+--------- item: 114603001 ------------
+114603001: code: 114603001
+114603001: extprdid: 14603
+114603001: title: Always My Daughter Diamond Sterling Silver Pendant Necklace
+114603001: SHORT_NAME: Always My Daughter Diamond Pendant Necklace 
+Product not found in props of code 114603001
+114603001: shortdesc: Women's Necklace: Always My Daughter Diamond Pendant Necklace
+114603001: FEATURE_VALUES: Women's
+114603001: keywords: women's jewelry
+114603001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 114603001
+114603001: OTHER_COUNTRY_PROD_ID: None
+114603001: EMAIL_SUBJECT_TITLE: Mother, Daughter Sterling Silver Diamond Pendant
+Product Types: ["Women's Necklaces & Pendants"]
+Themes not found in dimensions of code 114603001
+--------- item: 104653001 ------------
+104653001: code: 104653001
+extprdid not found in props of code 104653001
+104653001: title: Scarlett's Gone With The Wind Costumes Charm Bracelet
+104653001: SHORT_NAME: Gone With The Wind Charm Bracelet
+Product not found in props of code 104653001
+104653001: shortdesc: Gone With The Wind Swarovski Crystal Charm Bracelet
+104653001: FEATURE_VALUES: Women's
+104653001: keywords: Swarovski Crystals
+104653001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 104653001
+104653001: OTHER_COUNTRY_PROD_ID: None
+104653001: EMAIL_SUBJECT_TITLE: Gone With The Wind Bracelet
+Product Types: ["Women's Bracelets"]
+Themes: ['Gone With the Wind', 'Gone With the Wind']
+--------- item: 123418001 ------------
+123418001: code: 123418001
+extprdid not found in props of code 123418001
+123418001: title: "My Ducks" Team-Color Crystal Ultimate Fan Watch
+123418001: SHORT_NAME: My Ducks Women's Watch
+Product not found in props of code 123418001
+123418001: shortdesc: My University Of Oregon Ducks Women's Stretch Watch
+123418001: FEATURE_VALUES: Women's
+123418001: keywords: women's jewelry
+123418001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123418001
+123418001: OTHER_COUNTRY_PROD_ID: None
+123418001: EMAIL_SUBJECT_TITLE: University of Oregon Ducks Women's Watch
+Product Types: ["Women's Watches"]
+Themes: ['Graduation', 'Oregon Ducks', 'Oregon Ducks']
+--------- item: 128215001 ------------
+128215001: code: 128215001
+extprdid not found in props of code 128215001
+128215001: title: "Diana's Legacy Of Love" Created Sapphire Pendant Necklace
+128215001: SHORT_NAME: Diana's Legacy Of Love Pendant Necklace
+Product not found in props of code 128215001
+128215001: shortdesc: Princess Diana's Legacy Of Love Diamonesk Pendant Necklace
+128215001: FEATURE_VALUES: Women's
+128215001: keywords: Women's Pendants
+128215001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128215001
+128215001: OTHER_COUNTRY_PROD_ID: None
+128215001: EMAIL_SUBJECT_TITLE: Princess Diana Jewelry Inspired Pendant Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Lady Diana']
+--------- item: 128103005 ------------
+128103005: code: 128103005
+128103005: extprdid: 128103002, 128103003, 128103004
+128103005: title: Black Spinel And White Topaz Necklace And Earrings Set
+128103005: SHORT_NAME: Black Velvet Pendant Necklace And Earrings Set
+Product not found in props of code 128103005
+128103005: shortdesc: Black Velvet Women's Genuine Black Spinel  & White Topaz Pendant Necklace And Earrings Set
+128103005: FEATURE_VALUES: Test
+keywords not found in props of code 128103005
+128103005: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128103005
+128103005: OTHER_COUNTRY_PROD_ID: None
+128103005: EMAIL_SUBJECT_TITLE: Black Spinal and White Topaz Jewelry Set
+Product Types: ["Women's Necklaces & Pendants"]
+Themes not found in dimensions of code 128103005
+---Solr Only---
+--------- item: 125140001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 125140001
+125140001: title: "For The Love Of The Game" Oakland Raiders Pendant
+125140001: SHORT_NAME: For The Love Of The Game Raiders Pendant Necklace
+125140001: shortdesc: For The Love Of The Game Oakland Raiders Pendant Necklace
+125140001: FEATURE_VALUES: ['Gold', 'Heart Shaped', 'Swarovski Crystals', "Women's", 'For Wife']
+125140001: KEYWORDS: ['18K gold', 'Crystal', 'Fashion Jewelry', 'Fine Jewelry', 'Football', 'Gold', 'heart', 'Jewelry', 'National Football League', 'Necklace', 'NFL', 'Oakland Raiders', 'Pendants', 'Pro-Sports', 'Silver', 'Sports', 'Sports Gifts', 'Swarovski Crystals', "Women's Necklace", '18K gold-plated', "women's jewelry", "Women's Pendants", 'Football Fan Gifts', 'Raiders', 'Oakland', 'NFL Football', 'Promotion 10218']
+125140001: MANUFACTURER: 1
+125140001: THEMES: ['Sports', 'NFL Football', 'Oakland Raiders']
+125140001: PRODUCT_TYPE: Women's Necklaces & Pendants
+PRODUCT_TYPE_2 not found in props of code 125140001
+ARTIST not found in props of code 125140001
+OTHER_COUNTRY_PROD_ID not found in props of code 125140001
+scode not found in props of code 125140001
+Product_Types_TREE_fsearch not found in props of code 125140001
+Themes_TREE_fsearch not found in props of code 125140001
+--------- item: 127813001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 127813001
+127813001: title: "I Love My Wolverines" Crystal Pendant Necklace
+127813001: SHORT_NAME: I Love My Wolverines Fan Pendant Necklace
+127813001: shortdesc: I Love My University Of Michigan Wolverines Women's Heart-Shaped Fan Pendant Necklace
+127813001: FEATURE_VALUES: ['For Her', 'Sterling Silver', "Women's", 'For Her - General', 'Crystals', 'For Wife']
+127813001: KEYWORDS: ['Sports', 'College Football', 'Michigan Wolverines', "women's jewelry", "women's", 'Wolverines', 'Colored Crystal']
+127813001: MANUFACTURER: 1
+127813001: THEMES: ['Sports', 'College Sports', 'Michigan Wolverines']
+127813001: PRODUCT_TYPE: Women's Necklaces & Pendants
+PRODUCT_TYPE_2 not found in props of code 127813001
+ARTIST not found in props of code 127813001
+OTHER_COUNTRY_PROD_ID not found in props of code 127813001
+scode not found in props of code 127813001
+Product_Types_TREE_fsearch not found in props of code 127813001
+Themes_TREE_fsearch not found in props of code 127813001
+--------- item: 119987001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 119987001
+119987001: title: Downton Abbey "Gilded Age" Cultured Freshwater Pearl Ring
+119987001: SHORT_NAME: Gilded Age Ring
+119987001: shortdesc: Gilded Age Downton Abbey-Inspired Women's Cultured Freshwater Pearl Ring
+119987001: FEATURE_VALUES: ['For Her', 'Gold', 'Pearls', 'Sterling Silver', 'Test', "Women's", 'For Her - General', 'Statement']
+119987001: KEYWORDS: ['Fashion Jewelry', 'Fine Jewelry', 'Gold', 'Jewelry', 'pearl jewelry', 'Pearls', 'Ring', 'Silver', 'Sterling Silver', "Women's Rings", 'Gold Rings', '18K gold-plated', 'gold jewelry', "women's jewelry", 'Silver Ring', 'Downton Abbey']
+119987001: MANUFACTURER: 1
+119987001: THEMES: ['Movies & Entertainment']
+119987001: PRODUCT_TYPE: Women's Rings
+PRODUCT_TYPE_2 not found in props of code 119987001
+ARTIST not found in props of code 119987001
+OTHER_COUNTRY_PROD_ID not found in props of code 119987001
+scode not found in props of code 119987001
+Product_Types_TREE_fsearch not found in props of code 119987001
+Themes_TREE_fsearch not found in props of code 119987001
+--------- item: 123356001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 123356001
+123356001: title: Betty Boop "Charming Appeal" Charm Bracelet With Crystals
+123356001: SHORT_NAME: Charming Appeal Bracelet
+123356001: shortdesc: Charming Appeal Betty Boop Charm Bracelet
+123356001: FEATURE_VALUES: ['For Her', 'Gold', 'Heart Shaped', "Women's", 'For Her - General']
+123356001: KEYWORDS: ['18 karat gold', '18K gold', 'Betty Boop', 'Bracelet', 'Cartoon Characters', 'Charm bracelet', 'Charms', 'Crystal', 'Engraved', 'Fashion Jewelry', 'Fine Jewelry', 'Gold', 'heart', 'Jewelry', 'Sassy', "Women's Bracelet", '18K gold-plated', "women's jewelry", 'Flirty']
+123356001: MANUFACTURER: 1
+123356001: THEMES: ['Icons', 'Movies & Entertainment', 'Betty Boop']
+123356001: PRODUCT_TYPE: Women's Bracelets
+PRODUCT_TYPE_2 not found in props of code 123356001
+ARTIST not found in props of code 123356001
+OTHER_COUNTRY_PROD_ID not found in props of code 123356001
+scode not found in props of code 123356001
+Product_Types_TREE_fsearch not found in props of code 123356001
+Themes_TREE_fsearch not found in props of code 123356001

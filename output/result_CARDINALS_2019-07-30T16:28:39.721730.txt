@@ -1,0 +1,1112 @@
+---Endeca Only---
+--------- item: 121012001 ------------
+121012001: code: 121012001
+extprdid not found in props of code 121012001
+121012001: title: "The Spirit Of The Season" Illuminated Musical Centerpiece
+121012001: SHORT_NAME: The Spirit Of The Season Table Centerpiece
+Product not found in props of code 121012001
+121012001: shortdesc: The Spirit Of The Season Cardinal Songbird Table Centerpiece
+121012001: FEATURE_VALUES: Catalogue
+121012001: keywords: pine cones
+121012001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121012001
+121012001: OTHER_COUNTRY_PROD_ID: None
+121012001: EMAIL_SUBJECT_TITLE: Christmas Songbird Floral Table Centerpiece
+Product Types: ['Table Centerpieces']
+Themes: ['Always in Bloom', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas', 'Floral']
+--------- item: 126647001 ------------
+126647001: code: 126647001
+extprdid not found in props of code 126647001
+126647001: title: "Love Is A Miracle" Music Box Personalized With Your 2 Names
+126647001: SHORT_NAME: Love Is A Miracle Personalized Music Box
+Product not found in props of code 126647001
+126647001: shortdesc: Love Is A Miracle Personalized Cardinal Music Box
+126647001: FEATURE_VALUES: Personalized
+126647001: keywords: Personalized
+126647001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126647001
+126647001: OTHER_COUNTRY_PROD_ID: None
+126647001: EMAIL_SUBJECT_TITLE: James Hautman Art Personalized Music Box
+Product Types: ['Music Boxes']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 131928001 ------------
+131928001: code: 131928001
+extprdid not found in props of code 131928001
+131928001: title: Bereavement Candle Holder With Cardinal Art
+131928001: SHORT_NAME: Messenger From Heaven Candle Holder
+Product not found in props of code 131928001
+131928001: shortdesc: Messenger From Heaven Candle Holder
+FEATURE_VALUES not found in props of code 131928001
+keywords not found in props of code 131928001
+131928001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 131928001
+131928001: OTHER_COUNTRY_PROD_ID: None
+131928001: EMAIL_SUBJECT_TITLE: Messenger From Heaven Candle Holder
+Product Types: ['Candles & Candle Holders']
+Themes not found in dimensions of code 131928001
+--------- item: 130766001 ------------
+130766001: code: 130766001
+extprdid not found in props of code 130766001
+130766001: title: "Heaven's Beauty" Pendant Necklace With Genuine Garnet Gem
+130766001: SHORT_NAME: Heaven's Beauty Pendant Necklace
+Product not found in props of code 130766001
+130766001: shortdesc: Heaven's Beauty Women's Genuine Garnet Gemstone Pendant Necklace With Fully Sculpted Cardinal
+130766001: FEATURE_VALUES: Women's
+130766001: keywords: Women's Necklace & Pendant
+130766001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130766001
+130766001: OTHER_COUNTRY_PROD_ID: None
+130766001: EMAIL_SUBJECT_TITLE: Cardinal and Garnet Pendant Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Bereavement', 'Cardinals', 'Cardinals', 'Cardinals', 'Floral']
+--------- item: 131072001 ------------
+131072001: code: 131072001
+extprdid not found in props of code 131072001
+131072001: title: Winter's Tiny Treasures Musical Snowglobe
+131072001: SHORT_NAME: Winter's Tiny Treasures Snowglobe
+Product not found in props of code 131072001
+131072001: shortdesc: Winter's Tiny Treasures Snowglobe
+131072001: FEATURE_VALUES: Test
+131072001: keywords: Winter
+131072001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 131072001
+131072001: OTHER_COUNTRY_PROD_ID: None
+131072001: EMAIL_SUBJECT_TITLE: Winter's Tiny Treasures Snowglobe
+Product Types: ['Snowglobes/Water Globes']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 908360001 ------------
+908360001: code: 908360001
+extprdid not found in props of code 908360001
+908360001: title: St. Louis Cardinals 1937 Woody Wagon Sculpture
+908360001: SHORT_NAME: Cruising To Victory Cardinals Woody Wagon Sculpture
+Product not found in props of code 908360001
+908360001: shortdesc: Cruising To Victory St. Louis Cardinals MLB Woody Wagon Sculpture
+908360001: FEATURE_VALUES: New Arrivals Hamilton
+908360001: keywords: Wagon
+908360001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 908360001
+908360001: OTHER_COUNTRY_PROD_ID: None
+908360001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals  Woody Wagon Sculpture
+Product Types: ['Sculptures']
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 129228001 ------------
+129228001: code: 129228001
+extprdid not found in props of code 129228001
+129228001: title: "Nature's Timeless Moments" Clock And Weather Barometer
+129228001: SHORT_NAME: Nature's Timeless Moments Clock
+Product not found in props of code 129228001
+129228001: shortdesc: Nature's Timeless Moments Sculpted Songbird Desktop Clock & Weather Barometer
+129228001: FEATURE_VALUES: Catalogue
+129228001: keywords: Tabletop Clock
+129228001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129228001
+129228001: OTHER_COUNTRY_PROD_ID: None
+129228001: EMAIL_SUBJECT_TITLE: Songbird Desktop Clock and Weather Barometer
+Product Types: ['Tabletop Clocks']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Songbirds']
+--------- item: 121317001 ------------
+121317001: code: 121317001
+extprdid not found in props of code 121317001
+121317001: title: Bradley Jackson "Cardinals In Snow" Illuminated Canvas Print
+121317001: SHORT_NAME: Cardinals In Snow Wall Decor
+Product not found in props of code 121317001
+121317001: shortdesc: Bradley Jackson Cardinals In Snow Illuminated Wall Decor Canvas Print
+FEATURE_VALUES not found in props of code 121317001
+121317001: keywords: Winter
+121317001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121317001
+121317001: OTHER_COUNTRY_PROD_ID: None
+121317001: EMAIL_SUBJECT_TITLE: Cardinal Art Illuminated Wall Decor
+Product Types: ['Wall Décor']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 123429001 ------------
+123429001: code: 123429001
+extprdid not found in props of code 123429001
+123429001: title: Thomas Kinkade Lighted Musical Snowman & Songbird Sculpture
+123429001: SHORT_NAME: Thomas Kinkade A Warm Winter's Glow Sculpture
+Product not found in props of code 123429001
+123429001: shortdesc: Thomas Kinkade A Warm Winter's Glow Snowman Sculpture
+FEATURE_VALUES not found in props of code 123429001
+123429001: keywords: Thomas Kinkade
+123429001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123429001
+123429001: OTHER_COUNTRY_PROD_ID: None
+123429001: EMAIL_SUBJECT_TITLE: Thomas Kinkade Lighted Musical Snowman Sculpture
+Product Types: ['Sculptures']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Christmas', 'Snowmen', 'Songbirds', 'Thomas Kinkade']
+--------- item: 120777001 ------------
+120777001: code: 120777001
+extprdid not found in props of code 120777001
+120777001: title: St. Louis Cardinals Commemorative Chronograph Watch
+120777001: SHORT_NAME: St. Louis Cardinals Men's Collector's Watch
+Product not found in props of code 120777001
+120777001: shortdesc: MLB-Licensed St. Louis Cardinals Men's Collector's Stainless Steel Chronograph Watch
+120777001: FEATURE_VALUES: Men's
+120777001: keywords: Stainless Steel
+120777001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120777001
+120777001: OTHER_COUNTRY_PROD_ID: None
+120777001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Men's Watch
+Product Types: ["Men's Watches"]
+Themes: ['Birthdays', 'St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 115516002 ------------
+115516002: code: 115516002
+extprdid not found in props of code 115516002
+115516002: title: Cardinals Wooden Welcome Sign Personalized With Name
+115516002: SHORT_NAME: St. Louis Cardinals Personalized Welcome Sign
+Product not found in props of code 115516002
+115516002: shortdesc: MLB St. Louis Cardinals Personalized Welcome Sign
+115516002: FEATURE_VALUES: Personalized
+115516002: keywords: St. Louis Cardinals
+115516002: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 115516002
+115516002: OTHER_COUNTRY_PROD_ID: None
+115516002: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Personalized Welcome Sign
+Product Types: ['Welcome Signs']
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 908424001 ------------
+908424001: code: 908424001
+extprdid not found in props of code 908424001
+908424001: title: "Wintery Interlude" Angel Figurine With Sculpted Cardinal
+908424001: SHORT_NAME: Wintery Interlude Figurine
+Product not found in props of code 908424001
+908424001: shortdesc: Wintery Interlude Hand-Painted Angel Figurine
+FEATURE_VALUES not found in props of code 908424001
+908424001: keywords: Christmas Decorations
+908424001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 908424001
+908424001: OTHER_COUNTRY_PROD_ID: None
+908424001: EMAIL_SUBJECT_TITLE: Angel and Cardinal Figurine
+Product Types: ['Figurines']
+Themes: ['Angels', 'Bereavement', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 904781 ------------
+904781: code: 904781
+904781: extprdid: 126772001
+904781: title: St. Louis Cardinals&#153; Zippo&reg; Lighters
+904781: SHORT_NAME: St. Louis Cardinals&#153; Zippo&reg; Lighter Collection
+Product not found in props of code 904781
+904781: shortdesc: St. Louis Cardinals&#153; Zippo&reg; Windproof Lighter Collection
+904781: FEATURE_VALUES: For Husband
+904781: keywords: zippo
+904781: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 904781
+904781: OTHER_COUNTRY_PROD_ID: None
+904781: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Zippo Lighter Collection
+Product Types: ['Lighters']
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 130161001 ------------
+130161001: code: 130161001
+extprdid not found in props of code 130161001
+130161001: title: Cardinals Levitating Football Lights Up And Spins
+130161001: SHORT_NAME: Arizona Cardinals Levitating Football Sculpture
+Product not found in props of code 130161001
+130161001: shortdesc: Arizona Cardinals Levitating NFL Football
+130161001: FEATURE_VALUES: Guaranteed Regardless of Stock Non-Personalized
+130161001: keywords: Sports
+130161001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130161001
+130161001: OTHER_COUNTRY_PROD_ID: None
+130161001: EMAIL_SUBJECT_TITLE: Arizona Cardinals Lighted Levitating Football
+Product Types: ['Sculptures']
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 909463 ------------
+909463: code: 909463
+extprdid not found in props of code 909463
+909463: title: Thomas Kinkade Illuminated Remembrance Lantern Collection
+909463: SHORT_NAME: Forever In My Heart Cardinal Lantern Collection
+Product not found in props of code 909463
+909463: shortdesc: Thomas Kinkade Forever In My Heart Sculpted Cardinal Lantern Collection
+909463: FEATURE_VALUES: New Arrivals Hamilton
+909463: keywords: Thomas Kinkade
+909463: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 909463
+909463: OTHER_COUNTRY_PROD_ID: None
+909463: EMAIL_SUBJECT_TITLE: Thomas Kinkade Illuminated Bereavement Lanterns
+Product Types: ['Figurines']
+Themes: ['Bereavement', 'Cardinals', 'Cardinals', 'Cardinals', 'Thomas Kinkade']
+--------- item: 124341001 ------------
+124341001: code: 124341001
+extprdid not found in props of code 124341001
+124341001: title: James Hautman "Springtime Song" Cardinal Art Wall Clock
+124341001: SHORT_NAME: Springtime Song Wall Clock
+Product not found in props of code 124341001
+124341001: shortdesc: Springtime Song Cardinal And Apple Blossom Wall Clock
+FEATURE_VALUES not found in props of code 124341001
+124341001: keywords: Wall Clock
+124341001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 124341001
+124341001: OTHER_COUNTRY_PROD_ID: None
+124341001: EMAIL_SUBJECT_TITLE: James Hautman Cardinal Art Wall Clock
+Product Types: ['Wall Clocks']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 123940001 ------------
+123940001: code: 123940001
+123940001: extprdid: 123940008, 123940009, 123940010, 123940011, 123940012, 123940013, 123940014, 123940015, 123940016, 123940017, 123940018
+123940001: title: "Nature's Symphony" Canvas Sneakers With Songbird Art
+123940001: SHORT_NAME: Nature's Symphony Women's Shoes
+Product not found in props of code 123940001
+123940001: shortdesc: Nature's Symphony Women's Springtime Art Shoes
+123940001: FEATURE_VALUES: Women's
+123940001: keywords: women's sneakers
+123940001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123940001
+123940001: OTHER_COUNTRY_PROD_ID: None
+123940001: EMAIL_SUBJECT_TITLE: Songbird Art Women's Sneakers
+Product Types: ["Women's Shoes"]
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 124246001 ------------
+124246001: code: 124246001
+extprdid not found in props of code 124246001
+124246001: title: Cardinals For The Love Of The Game Tote Bag With Team Logos
+124246001: SHORT_NAME: For The Love Of The Game Arizona Cardinals Tote Bag
+Product not found in props of code 124246001
+124246001: shortdesc: For The Love Of The Game NFL Arizona Cardinals Patchwork Tote Bag
+124246001: FEATURE_VALUES: Women's
+124246001: keywords: Tote Bag
+124246001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 124246001
+124246001: OTHER_COUNTRY_PROD_ID: None
+124246001: EMAIL_SUBJECT_TITLE: Arizona Cardinals Tote Bag
+Product Types: ['Handbags & Accessories']
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 129066001 ------------
+129066001: code: 129066001
+extprdid not found in props of code 129066001
+129066001: title: James Hautman Sculpted Songbird Lighted Snowglobe Candle Set
+129066001: SHORT_NAME: Merry Messengers Candle Set
+Product not found in props of code 129066001
+129066001: shortdesc: James Hautman Merry Messengers Sculpted Songbird Candle Set
+FEATURE_VALUES not found in props of code 129066001
+129066001: keywords: Snowglobes
+129066001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129066001
+129066001: OTHER_COUNTRY_PROD_ID: None
+129066001: EMAIL_SUBJECT_TITLE: James Hautman Snowglobe Candleholder Set
+Product Types: ['Candles & Candle Holders']
+Themes: ['Bereavement', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 908046001 ------------
+908046001: code: 908046001
+extprdid not found in props of code 908046001
+908046001: title: Jasmine Becket-Griffith Fairy With Cardinal Figurine
+908046001: SHORT_NAME: Captivating Cardinal Figurine
+Product not found in props of code 908046001
+908046001: shortdesc: Jasmine Becket-Griffith Captivating Cardinal Hand-Painted Songbird Fairy Figurine
+908046001: FEATURE_VALUES: New Arrivals Hamilton
+908046001: keywords: Jasmine Becket-Griffith
+908046001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 908046001
+908046001: OTHER_COUNTRY_PROD_ID: None
+908046001: EMAIL_SUBJECT_TITLE: Jasmine Becket-Griffith Fairy Figurine
+Product Types: ['Figurines']
+Themes not found in dimensions of code 908046001
+--------- item: 128303001 ------------
+128303001: code: 128303001
+extprdid not found in props of code 128303001
+128303001: title: Garden Gathering Illuminated Table Centerpiece
+128303001: SHORT_NAME: Garden Gathering Table Centerpiece
+Product not found in props of code 128303001
+128303001: shortdesc: Garden Gathering Table Centerpiece
+128303001: FEATURE_VALUES: Test
+128303001: keywords: Songbirds
+128303001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128303001
+128303001: OTHER_COUNTRY_PROD_ID: None
+128303001: EMAIL_SUBJECT_TITLE: Garden Gathering Table Centerpiece
+Product Types: ['Table Centerpieces']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Hummingbirds', 'Hummingbirds', 'Hummingbirds', 'Songbirds']
+--------- item: 111620033 ------------
+111620033: code: 111620033
+extprdid not found in props of code 111620033
+111620033: title: Personalized "Cardinals Fan" Baby's First Christmas Ornament
+111620033: SHORT_NAME: Arizona Cardinals Ornament
+Product not found in props of code 111620033
+111620033: shortdesc: Arizona Cardinals Personalized Baby's First Christmas Ornament
+111620033: FEATURE_VALUES: Personalized
+111620033: keywords: Ornaments
+111620033: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 111620033
+111620033: OTHER_COUNTRY_PROD_ID: None
+111620033: EMAIL_SUBJECT_TITLE: Arizona Cardinals Ornament
+Product Types: ['Ornaments']
+Themes: ['Arizona Cardinals', 'Arizona Cardinals', 'Christmas']
+--------- item: 122560001 ------------
+122560001: code: 122560001
+extprdid not found in props of code 122560001
+122560001: title: Dona Gelsinger "All Is Calm, All Is Bright" Lighted Wall Art
+122560001: SHORT_NAME: All Is Calm, All Is Bright Wall Decor
+Product not found in props of code 122560001
+122560001: shortdesc: All Is Calm, All Is Bright Illuminated Songbird Wall Decor
+122560001: FEATURE_VALUES: Catalogue
+122560001: keywords: Wreaths
+122560001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122560001
+122560001: OTHER_COUNTRY_PROD_ID: None
+122560001: EMAIL_SUBJECT_TITLE: Dona Gelsinger Cardinal Songbird Lighted Wall Art
+Product Types: ['Wall Décor']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 904646 ------------
+904646: code: 904646
+904646: extprdid: 125662001
+904646: title: "Nature's Glory" Songbird Lighted Lantern Collection
+904646: SHORT_NAME: Nature's Glory Table Centerpiece Collection
+Product not found in props of code 904646
+904646: shortdesc: Always In Bloom Nature's Glory Illuminated Holiday Table Centerpiece Lantern Collection
+904646: FEATURE_VALUES: Collections
+904646: keywords: lanterns
+904646: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 904646
+904646: OTHER_COUNTRY_PROD_ID: None
+904646: EMAIL_SUBJECT_TITLE: Holiday Songbird Illuminated Lantern Collection
+Product Types: ['Table Centerpieces']
+Themes: ['Always in Bloom', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas', 'Floral']
+--------- item: 123578001 ------------
+123578001: code: 123578001
+extprdid not found in props of code 123578001
+123578001: title: Merry Woodland Melodies Lighted Wreath Plays Songbird Sounds
+123578001: SHORT_NAME: Merry Woodland Melodies Wreath
+Product not found in props of code 123578001
+123578001: shortdesc: Merry Woodland Melodies Christmas Wreath
+FEATURE_VALUES not found in props of code 123578001
+123578001: keywords: pine cones
+123578001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123578001
+123578001: OTHER_COUNTRY_PROD_ID: None
+123578001: EMAIL_SUBJECT_TITLE: Illuminated Christmas Wreath with Songbirds
+Product Types: ['Wreaths']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 904429 ------------
+904429: code: 904429
+904429: extprdid: 121754001
+904429: title: "Spring Awakenings" Songbird Wall Decor Sculpture Collection
+904429: SHORT_NAME: Spring Awakenings Wall Decor Collection
+Product not found in props of code 904429
+904429: shortdesc: Garden Birds Spring Awakenings Wall Decor Sculpture Collection
+904429: FEATURE_VALUES: Collections
+904429: keywords: Wall Decor
+904429: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 904429
+904429: OTHER_COUNTRY_PROD_ID: None
+904429: EMAIL_SUBJECT_TITLE: Songbird Wall Decor Sculpture Collection
+Product Types: ['Wall Décor']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 129960001 ------------
+129960001: code: 129960001
+extprdid not found in props of code 129960001
+129960001: title: "Messenger From Heaven" Heirloom Porcelain Collector Plate
+129960001: SHORT_NAME: Messenger From Heaven Collector Plate
+Product not found in props of code 129960001
+129960001: shortdesc: Cardinal Messenger From Heaven Heart-Shaped Heirloom Porcelain Collector Plate
+129960001: FEATURE_VALUES: New Arrivals
+129960001: keywords: Cardinals
+129960001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129960001
+129960001: OTHER_COUNTRY_PROD_ID: None
+129960001: EMAIL_SUBJECT_TITLE: Remembrance Collector Plate with Sculpted Cardinal
+Product Types: ['Collector Plates']
+Themes: ['Bereavement', 'Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 120429001 ------------
+120429001: code: 120429001
+120429001: extprdid: 20429
+120429001: title: "Winter's Beautiful Blessings" Illuminated Tabletop Tree
+120429001: SHORT_NAME: Winter's Beautiful Blessings Tabletop Tree
+Product not found in props of code 120429001
+120429001: shortdesc: Winter's Beautiful Blessings LED-Lighted Christmas Tabletop Tree With Cardinals
+120429001: FEATURE_VALUES: Catalogue
+120429001: keywords: Timer
+120429001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120429001
+120429001: OTHER_COUNTRY_PROD_ID: None
+120429001: EMAIL_SUBJECT_TITLE: Joseph Hautman Cardinal Tabletop Christmas Tree
+Product Types: ['Christmas Trees']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 123907001 ------------
+123907001: code: 123907001
+extprdid not found in props of code 123907001
+123907001: title: St. Louis Cardinals Patchwork Tote Bag With Team Logos
+123907001: SHORT_NAME: St. Louis Cardinals Tote Bag
+Product not found in props of code 123907001
+123907001: shortdesc: St. Louis Cardinals MLB Patchwork Tote Bag With Team Logos
+123907001: FEATURE_VALUES: Women's
+123907001: keywords: twill fabric
+123907001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123907001
+123907001: OTHER_COUNTRY_PROD_ID: None
+123907001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Patchwork Tote Bag
+Product Types: ['Handbags & Accessories']
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 121197015 ------------
+121197015: code: 121197015
+extprdid not found in props of code 121197015
+121197015: title: Arizona Cardinals Five-Piece Decanter And Glasses Set
+121197015: SHORT_NAME: Arizona Cardinals Decanter Set
+Product not found in props of code 121197015
+121197015: shortdesc: Arizona Cardinals NFL Glass Decanter Set
+121197015: FEATURE_VALUES: Guaranteed Regardless of Stock Non-Personalized
+121197015: keywords: decanter set
+121197015: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121197015
+121197015: OTHER_COUNTRY_PROD_ID: None
+121197015: EMAIL_SUBJECT_TITLE: Arizona Cardinals 5-Piece Decanter and Glasses Set
+Product Types: ['Decanter Sets']
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 126633001 ------------
+126633001: code: 126633001
+extprdid not found in props of code 126633001
+126633001: title: Rosemary Millette "Nature's Brilliance" Illuminated Bouquet
+126633001: SHORT_NAME: Nature's Brilliance Table Centerpiece
+Product not found in props of code 126633001
+126633001: shortdesc: Always In Bloom Nature's Brilliance Rosemary Millette Illuminated Table Centerpiece
+FEATURE_VALUES not found in props of code 126633001
+126633001: keywords: Wildlife
+126633001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126633001
+126633001: OTHER_COUNTRY_PROD_ID: None
+126633001: EMAIL_SUBJECT_TITLE: Rosemary Millette Autumn Floral Centerpiece
+Product Types: ['Table Centerpieces']
+Themes: ['Always in Bloom', 'Cardinals', 'Cardinals', 'Cardinals', 'Floral']
+--------- item: 121549001 ------------
+121549001: code: 121549001
+121549001: extprdid: 121549010, 121549011, 121549012, 121549013, 121549014, 121549015, 121549016
+121549001: title: "Nature's Symphony" Women's Songbird Artistic Anorak Jacket
+121549001: SHORT_NAME: Nature's Symphony Women's Jacket
+Product not found in props of code 121549001
+121549001: shortdesc: Nature's Symphony Women's Songbird Anorak Jacket
+121549001: FEATURE_VALUES: Women's
+121549001: keywords: Women's Jackets
+121549001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121549001
+121549001: OTHER_COUNTRY_PROD_ID: None
+121549001: EMAIL_SUBJECT_TITLE: Women's Songbird Artistic Anorak Jacket
+Product Types: ["Women's Jackets"]
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 904992 ------------
+904992: code: 904992
+904992: extprdid: 128270001
+904992: title: "Nature's Sparkling Songbirds" Crystal Sculpture Collection
+904992: SHORT_NAME: Nature's Sparkling Songbirds Sculpture Collection
+Product not found in props of code 904992
+904992: shortdesc: Nature's Sparkling Songbirds Faceted Crystal Sculpture Collection
+904992: FEATURE_VALUES: Collections
+904992: keywords: Songbirds
+904992: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 904992
+904992: OTHER_COUNTRY_PROD_ID: None
+904992: EMAIL_SUBJECT_TITLE: Crystal Songbird Sculpture Collection
+Product Types: ['Sculptures']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 1400908011 ------------
+1400908011: code: 1400908011
+extprdid not found in props of code 1400908011
+1400908011: title: Officially Licensed St. Louis Cardinals Electric Train Set
+1400908011: SHORT_NAME: St. Louis Cardinals Express Train Set
+Product not found in props of code 1400908011
+1400908011: shortdesc: St. Louis Cardinals Express Train Gift Set
+FEATURE_VALUES not found in props of code 1400908011
+1400908011: keywords: Trains
+1400908011: MANUFACTURER: Hawthorne Village
+artist not found in props of code 1400908011
+1400908011: OTHER_COUNTRY_PROD_ID: None
+1400908011: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Express Train Gift Set
+Product Types: ['Trains']
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 904538 ------------
+904538: code: 904538
+904538: extprdid: 124589001
+904538: title: Birds And Blossoms Wine Glass Collection
+904538: SHORT_NAME: Birds And Blossoms Wine Glass Collection
+Product not found in props of code 904538
+904538: shortdesc: Birds And Blossoms Wine Glass Collection: Set Of Two Stem Wine Glasses
+904538: FEATURE_VALUES: Collections
+904538: keywords: barware
+904538: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 904538
+904538: OTHER_COUNTRY_PROD_ID: None
+904538: EMAIL_SUBJECT_TITLE: Hautman Brothers Bird Art Wine Glass Collection
+Product Types: ['Wine Glasses']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Floral']
+--------- item: 131368001 ------------
+131368001: code: 131368001
+extprdid not found in props of code 131368001
+131368001: title: Musical Snowman Snowglobe With Cardinals Lights Up
+131368001: SHORT_NAME: Friends Of The Season Snowglobe
+Product not found in props of code 131368001
+131368001: shortdesc: Friends Of The Season Snowglobe
+131368001: FEATURE_VALUES: Test
+131368001: keywords: Waterglobes
+131368001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 131368001
+131368001: OTHER_COUNTRY_PROD_ID: None
+131368001: EMAIL_SUBJECT_TITLE: Friends Of The Season Snowglobe
+Product Types: ['Snowglobes/Water Globes']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Christmas', 'Snowmen']
+--------- item: 302962001 ------------
+302962001: code: 302962001
+extprdid not found in props of code 302962001
+302962001: title: Karen Vander Logt "Winter Blessings" Musical Santa Doll
+302962001: SHORT_NAME: Winter Blessings Santa Doll
+Product not found in props of code 302962001
+302962001: shortdesc: Karen Vander Logt Winter Blessings Hand-Painted Musical Santa Doll
+302962001: FEATURE_VALUES: Test
+302962001: keywords: Santa Claus
+302962001: MANUFACTURER: The Ashton-Drake Galleries
+artist not found in props of code 302962001
+302962001: OTHER_COUNTRY_PROD_ID: None
+302962001: EMAIL_SUBJECT_TITLE: Musical Santa Doll With Cardinal and Velvet Robe
+Product Types: ['Portrait Dolls']
+Themes: ['Christmas', 'Santa Claus']
+--------- item: 117520001 ------------
+117520001: code: 117520001
+117520001: extprdid: /17520
+117520001: title: Arizona Cardinals Charm Bracelet With Swarovski Crystals
+117520001: SHORT_NAME: Go Cardinals! #1 Fan Charm Bracelet
+Product not found in props of code 117520001
+117520001: shortdesc: NFL Arizona Cardinals Charm Bracelet: Go Cardinals! #1 Fan
+117520001: FEATURE_VALUES: Women's
+117520001: keywords: Sports
+117520001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 117520001
+117520001: OTHER_COUNTRY_PROD_ID: None
+117520001: EMAIL_SUBJECT_TITLE: Arizona Cardinals Fan Charm Bracelet
+Product Types: ["Women's Bracelets"]
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 130191015 ------------
+130191015: code: 130191015
+extprdid not found in props of code 130191015
+130191015: title: Arizona Cardinals Four-Sided Floor Lamp
+130191015: SHORT_NAME: Arizona Cardinals Lamp
+Product not found in props of code 130191015
+130191015: shortdesc: Arizona Cardinals NFL Floor Lamp With Foot Pedal Switch
+FEATURE_VALUES not found in props of code 130191015
+130191015: keywords: Sports
+130191015: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130191015
+130191015: OTHER_COUNTRY_PROD_ID: None
+130191015: EMAIL_SUBJECT_TITLE: Arizona Cardinals Floor Lamp with Team Logos
+Product Types: ['Floor Lamps']
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 130056001 ------------
+130056001: code: 130056001
+extprdid not found in props of code 130056001
+130056001: title: Dona Gelsinger Romantic Illuminated Personalized Centerpiece
+130056001: SHORT_NAME: Forever Together Personalized Table Centerpiece
+Product not found in props of code 130056001
+130056001: shortdesc: Dona Gelsinger Forever Together Personalized Illuminated Table Centerpiece With Crystal Vase
+130056001: FEATURE_VALUES: Personalized
+130056001: keywords: Personalized
+130056001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130056001
+130056001: OTHER_COUNTRY_PROD_ID: None
+130056001: EMAIL_SUBJECT_TITLE: Dona Gelsinger Romantic Lighted Holiday Bouquet
+Product Types: ['Table Centerpieces']
+Themes: ['Always in Bloom', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas', 'Floral']
+--------- item: 906200001 ------------
+906200001: code: 906200001
+extprdid not found in props of code 906200001
+906200001: title: Precious Moments Arizona Cardinals Fan Porcelain Figurine
+906200001: SHORT_NAME: Every Day Is A Touchdown With You Arizona Cardinals Figurine
+Product not found in props of code 906200001
+906200001: shortdesc: Every Day Is A Touchdown With You Collectible Arizona Cardinals Figurine
+906200001: FEATURE_VALUES: Cake Toppers
+906200001: keywords: figurines
+906200001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 906200001
+906200001: OTHER_COUNTRY_PROD_ID: None
+906200001: EMAIL_SUBJECT_TITLE: Arizona Cardinals Precious Moments Figurine
+Product Types: ['Figurines']
+Themes: ['Arizona Cardinals', 'Arizona Cardinals', 'Precious Moments', 'Wedding Day']
+--------- item: 118017001 ------------
+118017001: code: 118017001
+extprdid not found in props of code 118017001
+118017001: title: St. Louis Cardinals Charm Bracelet With Swarovski Crystal
+118017001: SHORT_NAME: Go Cardinals! #1 Fan Charm Bracelet
+Product not found in props of code 118017001
+118017001: shortdesc: MLB St. Louis Charm Bracelet: Go Cardinals! #1 Fan 
+118017001: FEATURE_VALUES: Women's
+118017001: keywords: St. Louis Cardinals
+118017001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 118017001
+118017001: OTHER_COUNTRY_PROD_ID: None
+118017001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Charm Bracelet
+Product Types: ["Women's Bracelets"]
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 922269 ------------
+922269: code: 922269
+922269: extprdid: 129086001
+922269: title: "Twilight Treasures" Illuminated Flameless Candle Collection
+922269: SHORT_NAME: Twilight Treasures Candle Collection
+Product not found in props of code 922269
+922269: shortdesc: Twilight Treasures Illuminated Songbird Candle Collection
+922269: FEATURE_VALUES: Test
+922269: keywords: Songbirds
+922269: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922269
+922269: OTHER_COUNTRY_PROD_ID: None
+922269: EMAIL_SUBJECT_TITLE: Winter Songbirds Flameless Candle Collection
+Product Types: ['Candles & Candle Holders']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Songbirds']
+--------- item: 922328 ------------
+922328: code: 922328
+922328: extprdid: 130446001,130446002,130446003,
+130446004,130446005
+922328: title: James Hautman "Meadow's Edge" Panorama Plate Collection
+922328: SHORT_NAME: Meadow's Edge Collector Plate Collection
+Product not found in props of code 922328
+922328: shortdesc: James Hautman Meadow's Edge Songbird Panorama Collector Plate Collection
+922328: FEATURE_VALUES: Collections
+922328: keywords: Songbirds
+922328: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922328
+922328: OTHER_COUNTRY_PROD_ID: None
+922328: EMAIL_SUBJECT_TITLE: Songbird Panorama Porcelain Plate Collection
+Product Types: ['Collector Plates']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Songbirds']
+--------- item: 909306 ------------
+909306: code: 909306
+extprdid not found in props of code 909306
+909306: title: Thomas Kinkade "Our Love Is Eternal" Figurine Collection
+909306: SHORT_NAME: Our Love Is Eternal By Thomas Kinkade Figurine Collection
+Product not found in props of code 909306
+909306: shortdesc: Our Love Is Eternal By Thomas Kinkade Sculpted Cardinal Figurine Collection
+909306: FEATURE_VALUES: Thomas Kinkade
+909306: keywords: Thomas Kinkade
+909306: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 909306
+909306: OTHER_COUNTRY_PROD_ID: None
+909306: EMAIL_SUBJECT_TITLE: Thomas Kinkade Remembrance Cardinal Figurines
+Product Types: ['Figurines']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Thomas Kinkade']
+--------- item: 125103001 ------------
+125103001: code: 125103001
+extprdid not found in props of code 125103001
+125103001: title: "For The Love Of The Game" Arizona Cardinals Pendant
+125103001: SHORT_NAME: For The Love Of The Game Cardinals Pendant Necklace
+Product not found in props of code 125103001
+125103001: shortdesc: For The Love Of The Game Arizona Cardinals Pride Pendant Necklace
+125103001: FEATURE_VALUES: Women's
+125103001: keywords: women's jewelry
+125103001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 125103001
+125103001: OTHER_COUNTRY_PROD_ID: None
+125103001: EMAIL_SUBJECT_TITLE: Arizona Cardinals Pendant Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 126969002 ------------
+126969002: code: 126969002
+extprdid not found in props of code 126969002
+126969002: title: St. Louis Cardinals 5-Piece Decanter And Glasses Set
+126969002: SHORT_NAME: St. Louis Cardinals Legacy Decanter Set
+Product not found in props of code 126969002
+126969002: shortdesc: St. Louis Cardinals MLB Legacy Decanter Set
+126969002: FEATURE_VALUES: For Husband
+126969002: keywords: decanter set
+126969002: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126969002
+126969002: OTHER_COUNTRY_PROD_ID: None
+126969002: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Decanter and Glasses Set
+Product Types: ['Decanter Sets']
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 120556001 ------------
+120556001: code: 120556001
+extprdid not found in props of code 120556001
+120556001: title: James Hautman "Winter Cardinals" Illuminated Centerpiece
+120556001: SHORT_NAME: Winter Cardinals Table Centerpiece
+Product not found in props of code 120556001
+120556001: shortdesc: Winter Cardinals Crystal Table Centerpiece With Frosted Vase
+FEATURE_VALUES not found in props of code 120556001
+120556001: keywords: pine cones
+120556001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120556001
+120556001: OTHER_COUNTRY_PROD_ID: None
+120556001: EMAIL_SUBJECT_TITLE: James Hautman Cardinal Art Floral Centerpiece
+Product Types: ['Table Centerpieces']
+Themes: ['Always in Bloom', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas', 'Floral']
+--------- item: 119971001 ------------
+119971001: code: 119971001
+extprdid not found in props of code 119971001
+119971001: title: St. Louis Cardinals "Moments Of Greatness" Wall Clock
+119971001: SHORT_NAME: Moments Of Greatness: St. Louis Cardinals Cuckoo Clock
+Product not found in props of code 119971001
+119971001: shortdesc: Cuckoo Clock: Moments Of Greatness St. Louis Cardinals Cuckoo Clock
+FEATURE_VALUES not found in props of code 119971001
+119971001: keywords: Wall Clock
+119971001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119971001
+119971001: OTHER_COUNTRY_PROD_ID: None
+119971001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Cuckoo Clock
+Product Types: ['Cuckoo Clocks']
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 121382001 ------------
+121382001: code: 121382001
+121382001: extprdid: /21382
+121382001: title: James Hautman "Love Birds" Framed Plate With Your Two Names
+121382001: SHORT_NAME: Love Birds Personalized Collector Plate
+Product not found in props of code 121382001
+121382001: shortdesc: Love Birds Personalized Wall-Hanging Collector Plate By Artist James Hautman
+121382001: FEATURE_VALUES: Personalized
+121382001: keywords: Wood Frame
+121382001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121382001
+121382001: OTHER_COUNTRY_PROD_ID: None
+121382001: EMAIL_SUBJECT_TITLE: Cardinal Art Personalized Collector Plate
+Product Types: ['Collector Plates']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 127258001 ------------
+127258001: code: 127258001
+extprdid not found in props of code 127258001
+127258001: title: Hautman Brother's Bird Art Pendant Set With Symbolism Card
+127258001: SHORT_NAME: Gifts Of Nature Pendant Necklace Set
+Product not found in props of code 127258001
+127258001: shortdesc: Gifts Of Nature Inspirational Bird Pendant Necklace Set
+127258001: FEATURE_VALUES: Women's
+127258001: keywords: Women's Pendants
+127258001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127258001
+127258001: OTHER_COUNTRY_PROD_ID: None
+127258001: EMAIL_SUBJECT_TITLE: Hautman Brothers Bird Art Pendant Necklace Set
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Hummingbirds', 'Hummingbirds', 'Hummingbirds', 'Inspirational']
+--------- item: 908004001 ------------
+908004001: code: 908004001
+extprdid not found in props of code 908004001
+908004001: title: Thomas Kinkade Your Spirit Lives Forever In My Heart Lantern
+908004001: SHORT_NAME: Your Spirit Lives Forever In My Heart Lantern
+Product not found in props of code 908004001
+908004001: shortdesc: Thomas Kinkade Your Spirit Lives Forever In My Heart Sculpted Cardinal Lantern
+908004001: FEATURE_VALUES: New Arrivals Hamilton
+908004001: keywords: Winter
+908004001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 908004001
+908004001: OTHER_COUNTRY_PROD_ID: None
+908004001: EMAIL_SUBJECT_TITLE: Thomas Kinkade Sculpted Bereavement Lantern
+Product Types: ['Figurines']
+Themes: ['Bereavement', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas', 'Thomas Kinkade']
+--------- item: 907439001 ------------
+907439001: code: 907439001
+extprdid not found in props of code 907439001
+907439001: title: Precious Moments Your Spirit Lives Forever Angel Figurine
+907439001: SHORT_NAME: Your Spirit Lives Forever In My Heart Figurine
+Product not found in props of code 907439001
+907439001: shortdesc: Precious Moments Even Though We Are Apart, Your Spirit Lives Forever In My Heart Angel Figurine
+FEATURE_VALUES not found in props of code 907439001
+907439001: keywords: angel figurine
+907439001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 907439001
+907439001: OTHER_COUNTRY_PROD_ID: None
+907439001: EMAIL_SUBJECT_TITLE: Remembrance Angel and Snow Globe Figurine
+Product Types: ['Figurines']
+Themes: ['Angels', 'Bereavement', 'Precious Moments']
+--------- item: 127676001 ------------
+127676001: code: 127676001
+extprdid not found in props of code 127676001
+127676001: title: Thomas Kinkade "Treasures Of The Season" Lighted Centerpiece
+127676001: SHORT_NAME: Thomas Kinkade Treasures Of The Season Table Centerpiece
+Product not found in props of code 127676001
+127676001: shortdesc: Thomas Kinkade Treasures Of The Season Always In Bloom Holiday Table Centerpiece
+127676001: FEATURE_VALUES: Catalogue
+127676001: keywords: Thomas Kinkade
+127676001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127676001
+127676001: OTHER_COUNTRY_PROD_ID: None
+127676001: EMAIL_SUBJECT_TITLE: Thomas Kinkade Holiday Floral Centerpiece
+Product Types: ['Table Centerpieces']
+Themes: ['Always in Bloom', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas', 'Floral', 'Thomas Kinkade']
+--------- item: 122261001 ------------
+122261001: code: 122261001
+extprdid not found in props of code 122261001
+122261001: title: Arizona Cardinals Tribute Wall Clock
+122261001: SHORT_NAME: Arizona Cardinals Cuckoo Clock
+Product not found in props of code 122261001
+122261001: shortdesc: NFL-Licensed Arizona Cardinals Wall Cuckoo Clock Featuring Bird With Football Helmet
+FEATURE_VALUES not found in props of code 122261001
+122261001: keywords: Sports Gifts
+122261001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122261001
+122261001: OTHER_COUNTRY_PROD_ID: None
+122261001: EMAIL_SUBJECT_TITLE: Arizona Cardinals Cuckoo Clock
+Product Types: ['Cuckoo Clocks']
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 130060001 ------------
+130060001: code: 130060001
+extprdid not found in props of code 130060001
+130060001: title: Bradley Jackson "Winter Retreat" Illuminated Centerpiece
+130060001: SHORT_NAME: Winter Retreat Table Centerpiece
+Product not found in props of code 130060001
+130060001: shortdesc: Bradley Jackson Winter Retreat Illuminated Table Centerpiece With Crystal Vase
+130060001: FEATURE_VALUES: New Arrivals
+130060001: keywords: Winter
+130060001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130060001
+130060001: OTHER_COUNTRY_PROD_ID: None
+130060001: EMAIL_SUBJECT_TITLE: Bradley Jackson Songbird Art Lighted Centerpiece
+Product Types: ['Table Centerpieces']
+Themes: ['Always in Bloom', 'Cardinals', 'Cardinals', 'Cardinals', 'Christmas', 'Floral']
+--------- item: 122885001 ------------
+122885001: code: 122885001
+extprdid not found in props of code 122885001
+122885001: title: "Cardinal Beauty" Garnet Gemstone Pendant Necklace
+122885001: SHORT_NAME: Cardinal Beauty Pendant Necklace
+Product not found in props of code 122885001
+122885001: shortdesc: Cardinal Beauty Garnet Gemstone Pendant Necklace
+122885001: FEATURE_VALUES: Women's
+122885001: keywords: women's jewelry
+122885001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122885001
+122885001: OTHER_COUNTRY_PROD_ID: None
+122885001: EMAIL_SUBJECT_TITLE: Cardinal Songbird and Garnet Pendant Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Floral']
+--------- item: 119278001 ------------
+119278001: code: 119278001
+extprdid not found in props of code 119278001
+119278001: title: Merry Melodies Lighted Songbird Wreath Plays Holiday Carols
+119278001: SHORT_NAME: Merry Melodies Wreath
+Product not found in props of code 119278001
+119278001: shortdesc: Merry Melodies Lighted Songbird Wreath Plays Medley Of Christmas Carols
+119278001: FEATURE_VALUES: As Advertised
+119278001: keywords: Wreaths
+119278001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119278001
+119278001: OTHER_COUNTRY_PROD_ID: None
+119278001: EMAIL_SUBJECT_TITLE: Illuminated Christmas Wreath With Songbirds
+Product Types: ['Wreaths']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 120766001 ------------
+120766001: code: 120766001
+extprdid not found in props of code 120766001
+120766001: title: "Nature's Harmony" Lighted Singing Songbirds Sculpture
+120766001: SHORT_NAME: Nature's Harmony Sculpture
+Product not found in props of code 120766001
+120766001: shortdesc: Nature's Harmony LED Lighted Musical Songbirds Sculpture
+120766001: FEATURE_VALUES: Catalogue
+120766001: keywords: Winter
+120766001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120766001
+120766001: OTHER_COUNTRY_PROD_ID: None
+120766001: EMAIL_SUBJECT_TITLE: Lifelike Illuminated Singing Songbird Sculpture
+Product Types: ['Sculptures']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 903286 ------------
+903286: code: 903286
+extprdid not found in props of code 903286
+903286: title: James Hautman Songbird Art Hand-Blown Glass Bowl Collection
+903286: SHORT_NAME: Reflections Of The Garden Bowl Collection
+Product not found in props of code 903286
+903286: shortdesc: Hand-Blown Art Glass Bowl Collection: Reflections Of The Garden
+903286: FEATURE_VALUES: Glass
+903286: keywords: Unique Home Decor
+903286: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 903286
+903286: OTHER_COUNTRY_PROD_ID: None
+903286: EMAIL_SUBJECT_TITLE: Songbird Glass Bowl Collection
+Product Types: ['Table Centerpieces']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 124058001 ------------
+124058001: code: 124058001
+extprdid not found in props of code 124058001
+124058001: title: "My Cardinals" Ultimate Fan Women's Wristwatch
+124058001: SHORT_NAME: My Cardinals Women's Watch
+Product not found in props of code 124058001
+124058001: shortdesc: My Arizona Cardinals Ultimate Fan Women's Watch
+124058001: FEATURE_VALUES: Women's
+124058001: keywords: women's jewelry
+124058001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 124058001
+124058001: OTHER_COUNTRY_PROD_ID: None
+124058001: EMAIL_SUBJECT_TITLE: Arizona Cardinals Women's Watch
+Product Types: ["Women's Watches"]
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 120743001 ------------
+120743001: code: 120743001
+extprdid not found in props of code 120743001
+120743001: title: James Hautman "Winter's Frost" LED Luminaries
+120743001: SHORT_NAME: Winter's Frost Candleholder Set
+Product not found in props of code 120743001
+120743001: shortdesc: James Hautman Winter's Frost Songbird Candleholder Set
+FEATURE_VALUES not found in props of code 120743001
+120743001: keywords: Wildlife
+120743001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120743001
+120743001: OTHER_COUNTRY_PROD_ID: None
+120743001: EMAIL_SUBJECT_TITLE: James Hautman Songbird LED Luminary Set
+Product Types: ['Candles & Candle Holders']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 922364 ------------
+922364: code: 922364
+922364: extprdid: 129608001
+922364: title: "The Garden's Birds" Songbird Sculpture Collection
+922364: SHORT_NAME: The Garden's Birds Sculpture Collection
+Product not found in props of code 922364
+922364: shortdesc: The Garden's Birds Hand-Painted Sculpture Collection
+922364: FEATURE_VALUES: New Arrivals
+922364: keywords: Songbirds
+922364: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922364
+922364: OTHER_COUNTRY_PROD_ID: None
+922364: EMAIL_SUBJECT_TITLE: Songbird Bird Bath Sculpture Collection
+Product Types: ['Sculptures']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Songbirds']
+--------- item: 122436001 ------------
+122436001: code: 122436001
+extprdid not found in props of code 122436001
+122436001: title: "My Cardinals" Ultimate Fan Women's Wristwatch
+122436001: SHORT_NAME: My Cardinals Women's Watch
+Product not found in props of code 122436001
+122436001: shortdesc: My St. Louis Cardinals Ultimate Fan Women's Watch
+122436001: FEATURE_VALUES: Women's
+122436001: keywords: women's jewelry
+122436001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122436001
+122436001: OTHER_COUNTRY_PROD_ID: None
+122436001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Women's Watch
+Product Types: ["Women's Watches"]
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 124215001 ------------
+124215001: code: 124215001
+extprdid not found in props of code 124215001
+124215001: title: Cardinals For The Love Of The Game Wallet With Team Logos
+124215001: SHORT_NAME: For The Love Of The Game Arizona Cardinals Wallet
+Product not found in props of code 124215001
+124215001: shortdesc: For The Love Of The Game NFL Arizona Cardinals Patchwork Wallet
+124215001: FEATURE_VALUES: Women's
+124215001: keywords: faux leather
+124215001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 124215001
+124215001: OTHER_COUNTRY_PROD_ID: None
+124215001: EMAIL_SUBJECT_TITLE: Arizona Cardinals Women's Faux Leather Wallet
+Product Types: ['Handbags & Accessories', "Women's Wallets"]
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 128270001 ------------
+128270001: code: 128270001
+extprdid not found in props of code 128270001
+128270001: title: "Crimson King" Faceted Crystal Cardinal Sculpture
+128270001: SHORT_NAME: Crimson King Sculpture
+Product not found in props of code 128270001
+128270001: shortdesc: Crimson King Crystal Cardinal Sculpture
+128270001: FEATURE_VALUES: Catalogue
+128270001: keywords: Cardinals
+128270001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128270001
+128270001: OTHER_COUNTRY_PROD_ID: None
+128270001: EMAIL_SUBJECT_TITLE: Crystal Cardinal Sculpture with Mirror Base
+Product Types: ['Sculptures']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 122313001 ------------
+122313001: code: 122313001
+extprdid not found in props of code 122313001
+122313001: title: "For The Love Of The Game" Cardinals Crystal Pendant
+122313001: SHORT_NAME: For The Love Of The Game Cardinals Pendant Necklace
+Product not found in props of code 122313001
+122313001: shortdesc: For The Love Of The Game St. Louis Cardinals Pendant Necklace
+122313001: FEATURE_VALUES: Women's
+122313001: keywords: women's jewelry
+122313001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122313001
+122313001: OTHER_COUNTRY_PROD_ID: None
+122313001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Pendant Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 909566 ------------
+909566: code: 909566
+extprdid not found in props of code 909566
+909566: title: "Angels Of Comfort And Joy" Figurine Collection
+909566: SHORT_NAME: Angels Of Comfort And Joy Figurine Collection
+Product not found in props of code 909566
+909566: shortdesc: Angels Of Comfort And Joy Hand-Painted Figurine Collection
+909566: FEATURE_VALUES: Collections
+909566: keywords: Collections
+909566: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 909566
+909566: OTHER_COUNTRY_PROD_ID: None
+909566: EMAIL_SUBJECT_TITLE: Angels and Cardinals Figurine Collection
+Product Types: ['Figurines']
+Themes: ['Angels', 'Christmas']
+--------- item: 908403001 ------------
+908403001: code: 908403001
+extprdid not found in props of code 908403001
+908403001: title: Precious Moments Cardinals Porcelain Wedding Figurine
+908403001: SHORT_NAME: Our Love Is A Home Run St. Louis Cardinals Figurine
+Product not found in props of code 908403001
+908403001: shortdesc: Precious Moments Our Love Is A Home Run St. Louis Cardinals Porcelain Figurine
+908403001: FEATURE_VALUES: New Arrivals Hamilton
+908403001: keywords: St. Louis Cardinals
+908403001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 908403001
+908403001: OTHER_COUNTRY_PROD_ID: None
+908403001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Precious Moments Figurine
+Product Types: ['Figurines']
+Themes: ['Precious Moments', 'St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 124452001 ------------
+124452001: code: 124452001
+124452001: extprdid: 124452008, 124452009, 124452010, 124452011, 124452012, 124452013, 124452014, 124452015, 124452016, 124452017, 124452018
+124452001: title: NFL-Licensed Arizona Cardinals Women's Canvas Sneakers
+124452001: SHORT_NAME: I Love The Cardinals Women's Shoes
+Product not found in props of code 124452001
+124452001: shortdesc: I Love The Arizona Cardinals NFL Women's Shoes
+124452001: FEATURE_VALUES: Women's
+124452001: keywords: Women's Shoes
+124452001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 124452001
+124452001: OTHER_COUNTRY_PROD_ID: None
+124452001: EMAIL_SUBJECT_TITLE: Arizona Cardinals Women's Canvas Shoes
+Product Types: ["Women's Shoes"]
+Themes: ['Arizona Cardinals', 'Arizona Cardinals']
+--------- item: 906124001 ------------
+906124001: code: 906124001
+extprdid not found in props of code 906124001
+906124001: title: Precious Moments St. Louis Cardinals Fan Porcelain Figurine
+906124001: SHORT_NAME: Every Day Is A Home Run With You Cardinals Figurine
+Product not found in props of code 906124001
+906124001: shortdesc: MLB-Licensed Precious Moments Every Day Is A Home Run With You St. Louis Cardinals Baseball Figurine
+906124001: FEATURE_VALUES: Cake Toppers
+906124001: keywords: promotion 10045
+906124001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 906124001
+906124001: OTHER_COUNTRY_PROD_ID: None
+906124001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Precious Moments Figurine
+Product Types: ['Figurines']
+Themes: ['Precious Moments', 'St. Louis Cardinals', 'St. Louis Cardinals', 'Wedding Day']
+--------- item: 908050001 ------------
+908050001: code: 908050001
+extprdid not found in props of code 908050001
+908050001: title: You Have My Whole Heart For My Whole Life Songbird Figurine
+908050001: SHORT_NAME: You Have My Whole Heart For My Whole Life Figurine
+Product not found in props of code 908050001
+908050001: shortdesc: You Have My Whole Heart For My Whole Life Hand-Painted Songbird Figurine
+908050001: FEATURE_VALUES: New Arrivals Hamilton
+908050001: keywords: Songbirds
+908050001: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 908050001
+908050001: OTHER_COUNTRY_PROD_ID: None
+908050001: EMAIL_SUBJECT_TITLE: Romantic Cardinal Couple Figurine
+Product Types: ['Figurines']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals']
+--------- item: 904495 ------------
+904495: code: 904495
+904495: extprdid: 122578001
+904495: title: "Winter Wildlife" Illuminated Glass Ornament Collection
+904495: SHORT_NAME: Winter Wildlife Ornament Collection
+Product not found in props of code 904495
+904495: shortdesc: Winter Wildlife Handcrafted Glass Ornament Collection
+904495: FEATURE_VALUES: Collections
+904495: keywords: Winter
+904495: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 904495
+904495: OTHER_COUNTRY_PROD_ID: None
+904495: EMAIL_SUBJECT_TITLE: Hautman Brothers Songbird Art Ornament Collection
+Product Types: ['Ornaments']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Christmas']
+--------- item: 128905001 ------------
+128905001: code: 128905001
+128905001: extprdid: 128905008, 128905009, 128905010, 128905011, 128905012, 128905013, 128905014, 128905015, 128905016, 128905017, 128905018
+128905001: title: James Hautman "Songs Of Spring" Canvas Shoes With Bird Charm
+128905001: SHORT_NAME: Songs Of Spring Women's Shoes
+Product not found in props of code 128905001
+128905001: shortdesc: James Hautman Songs Of Spring Women's Canvas Shoes
+128905001: FEATURE_VALUES: Women's
+128905001: keywords: women's sneakers
+128905001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128905001
+128905001: OTHER_COUNTRY_PROD_ID: None
+128905001: EMAIL_SUBJECT_TITLE: James Hautman Songbird Art Women's Canvas Shoes
+Product Types: ["Women's Shoes"]
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'Songbirds']

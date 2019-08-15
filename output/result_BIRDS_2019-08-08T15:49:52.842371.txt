@@ -1,0 +1,1416 @@
+---Endeca Only---
+--------- item: 910606 ------------
+910606: code: 910606
+910606: extprdid: 1700574001
+
+910606: title: The Complete Proof American Eagle Silver Dollar Collection
+910606: SHORT_NAME: Complete Proof American Eagle Silver Dollar Coin Collection
+Product not found in props of code 910606
+910606: shortdesc: The Complete Proof American Eagle Silver Dollar Coin Collection With Display Box
+910606: FEATURE_VALUES: Silver
+910606: keywords: display box
+910606: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 910606
+910606: OTHER_COUNTRY_PROD_ID: None
+910606: EMAIL_SUBJECT_TITLE: Proof American Eagle Silver Dollar Collection
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 125564001 ------------
+125564001: code: 125564001
+extprdid not found in props of code 125564001
+125564001: title: "USMC Pride" Women's Engraved Earrings With Sculpted Emblem
+125564001: SHORT_NAME: USMC Pride Earrings
+Product not found in props of code 125564001
+125564001: shortdesc: USMC Pride Women's Earrings
+125564001: FEATURE_VALUES: Women's
+125564001: keywords: Women's Earrings
+125564001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 125564001
+125564001: OTHER_COUNTRY_PROD_ID: None
+125564001: EMAIL_SUBJECT_TITLE: USMC Women's Earrings with Sculpted Emblem
+Product Types: ["Women's Earrings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Marines', 'Marines', 'Patriotic']
+--------- item: 119756001 ------------
+119756001: code: 119756001
+119756001: extprdid: 119756007, 119756008, 119756009, 119756010, 119756011, 119756012, 119756013, 119756014, 119756015, 119756016, 119756017, 119756018, 119756019, 119756020, 119756021, 19756
+119756001: title: "Freedom Soars" Engraved Men's Spinning Ring
+119756001: SHORT_NAME: Freedom Soars Ring
+Product not found in props of code 119756001
+119756001: shortdesc: Ring: Freedom Soars Men's Spinning Ring
+119756001: FEATURE_VALUES: Stainless Steel
+119756001: keywords: karat gold
+119756001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119756001
+119756001: OTHER_COUNTRY_PROD_ID: None
+119756001: EMAIL_SUBJECT_TITLE: Patriotic Men's Spinning Ring
+Product Types: ["Men's Rings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 1701563001 ------------
+1701563001: code: 1701563001
+extprdid not found in props of code 1701563001
+1701563001: title: 2017 American Silver Eagle Freedom Coin Set With Display Box
+1701563001: SHORT_NAME: 2017 American Silver Eagle Freedom Limited-Edition Coin Set
+Product not found in props of code 1701563001
+1701563001: shortdesc: The 2017 American Silver Eagle Freedom Limited-Edition Legal Tender Coin Set
+1701563001: FEATURE_VALUES: Silver
+1701563001: keywords: United States
+1701563001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701563001
+1701563001: OTHER_COUNTRY_PROD_ID: None
+1701563001: EMAIL_SUBJECT_TITLE: 2017 American Silver Eagle Freedom Silver Coin Set
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 107795001 ------------
+107795001: code: 107795001
+107795001: extprdid: /7795
+107795001: title: "American Pride" Crystal Heart Pendant With Eagle Art
+107795001: SHORT_NAME: American Pride Crystal Heart Pendant Necklace
+Product not found in props of code 107795001
+107795001: shortdesc: American Pride Crystal Heart Pendant Necklace
+107795001: FEATURE_VALUES: Women's
+107795001: keywords: United States
+107795001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 107795001
+107795001: OTHER_COUNTRY_PROD_ID: None
+107795001: EMAIL_SUBJECT_TITLE: Eagle Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 1701676001 ------------
+1701676001: code: 1701676001
+extprdid not found in props of code 1701676001
+1701676001: title: The First Sunken Relief $5 Indian Head MS-61 NGC Gold Coin
+1701676001: SHORT_NAME: The First Sunken Relief U.S. $5 MS-61 NGC Gold Coin
+Product not found in props of code 1701676001
+1701676001: shortdesc: The First Sunken Relief U.S. $5 Indian Head Half Eagle MS-61 NGC Gold Coin
+FEATURE_VALUES not found in props of code 1701676001
+1701676001: keywords: US Gold Coin
+1701676001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701676001
+1701676001: OTHER_COUNTRY_PROD_ID: None
+1701676001: EMAIL_SUBJECT_TITLE: U.S. $5 Indian Head Gold Coin with Display
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Native American Style']
+--------- item: 1700863001 ------------
+1700863001: code: 1700863001
+1700863001: extprdid: 1700863002, 1700863003, 1700863004, 1700863005, 1700863006, 1700863007, 1700863008, 1700863009, 1700863010, 1700863011, 1700863012, 1700863013, 1700863014, 1700863015, 1700863016
+1700863001: title: The Durante Gold Rush Proof Coin Ring With 24K-Gold Plating
+1700863001: SHORT_NAME: $50 California Gold Rush Coin Ring
+Product not found in props of code 1700863001
+1700863001: shortdesc: $50 California Gold Rush Coin 24K Gold-Plated Ring
+1700863001: FEATURE_VALUES: Men's
+1700863001: keywords: men's jewelry
+1700863001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1700863001
+1700863001: OTHER_COUNTRY_PROD_ID: None
+1700863001: EMAIL_SUBJECT_TITLE: California Gold Rush Coin Ring
+Product Types: ["Men's Rings"]
+Themes: ['Alfred Durante', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 909559 ------------
+909559: code: 909559
+extprdid not found in props of code 909559
+909559: title: Jody Bergsma's "Let Your Spirit Soar" Figurine Collection
+909559: SHORT_NAME: Jody Bergsma's Let Your Spirit Soar Figurine Collection
+Product not found in props of code 909559
+909559: shortdesc: Jody Bergsma's Let Your Spirit Soar Hand-Painted Dreamcatcher Figurine Collection
+909559: FEATURE_VALUES: New Arrivals Hamilton
+909559: keywords: Wildlife
+909559: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 909559
+909559: OTHER_COUNTRY_PROD_ID: None
+909559: EMAIL_SUBJECT_TITLE: Jody Bergma Owl and Dreamcatcher Figurines
+Product Types: ['Figurines']
+Themes: ['Native American Style', 'Owls', 'Owls', 'Owls']
+--------- item: 129709001 ------------
+129709001: code: 129709001
+extprdid not found in props of code 129709001
+129709001: title: "Navy Honor" Eagle Sculpture With Personalized Plaque
+129709001: SHORT_NAME: Navy Honor Personalized Sculpture
+Product not found in props of code 129709001
+129709001: shortdesc: Navy Honor Personalized Eagle Sculpture
+129709001: FEATURE_VALUES: Personalized
+129709001: keywords: United States Navy
+129709001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129709001
+129709001: OTHER_COUNTRY_PROD_ID: None
+129709001: EMAIL_SUBJECT_TITLE: Navy Honor Personalized Eagle Sculpture
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Navy', 'Patriotic']
+--------- item: 129988001 ------------
+129988001: code: 129988001
+extprdid not found in props of code 129988001
+129988001: title: Ted Blaylock "Mighty Waters" Eagle Art Wall Decor
+129988001: SHORT_NAME: Mighty Waters Wall Decor
+Product not found in props of code 129988001
+129988001: shortdesc: Ted Blaylock Mighty Waters Native American-Inspired Dreamcatcher Wall Decor
+FEATURE_VALUES not found in props of code 129988001
+129988001: keywords: Native American
+129988001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129988001
+129988001: OTHER_COUNTRY_PROD_ID: None
+129988001: EMAIL_SUBJECT_TITLE: Ted Blaylock Eagle Dreamcatcher Wall Decor
+Product Types: ['Dreamcatchers', 'Wall Décor']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Native American Style']
+--------- item: 122138001 ------------
+122138001: code: 122138001
+extprdid not found in props of code 122138001
+122138001: title: "You Are Not Forgotten" POW And MIA Tribute Porcelain Stein
+122138001: SHORT_NAME: You Are Not Forgotten Stein
+Product not found in props of code 122138001
+122138001: shortdesc: You Are Not Forgotten POW And MIA Eagle Stein
+122138001: FEATURE_VALUES: For Husband
+122138001: keywords: prisoner of war missing in action
+122138001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122138001
+122138001: OTHER_COUNTRY_PROD_ID: None
+122138001: EMAIL_SUBJECT_TITLE: POW and MIA Porcelain Tribute Stein 
+Product Types: ['Steins', 'Steins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Military', 'Patriotic']
+--------- item: 1400904031 ------------
+1400904031: code: 1400904031
+extprdid not found in props of code 1400904031
+1400904031: title: HO-Scale "POW MIA Express" Illuminated Electric Train Set
+1400904031: SHORT_NAME: POW MIA Express Train Set
+Product not found in props of code 1400904031
+1400904031: shortdesc: POW MIA Express HO-Gauge Train Set
+1400904031: FEATURE_VALUES: Charity Support
+1400904031: keywords: prisoner of war missing in action
+1400904031: MANUFACTURER: Hawthorne Village
+artist not found in props of code 1400904031
+1400904031: OTHER_COUNTRY_PROD_ID: None
+1400904031: EMAIL_SUBJECT_TITLE: POW MIA Train Set
+Product Types: ['Trains']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 129916001 ------------
+129916001: code: 129916001
+129916001: extprdid: 129916011, 129916012, 129916013, 129916014, 129916015
+129916001: title: "Land Of The Free" Men's Hooded Front-Zip Fleece Jacket
+129916001: SHORT_NAME: Land Of The Free Men's Jacket
+Product not found in props of code 129916001
+129916001: shortdesc: Land Of The Free Men's Hooded Front-Zip Fleece Jacket
+129916001: FEATURE_VALUES: Men's
+129916001: keywords: Patriotic
+129916001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129916001
+129916001: OTHER_COUNTRY_PROD_ID: None
+129916001: EMAIL_SUBJECT_TITLE: Patriotic USA Pride Men's Hooded Fleece Jacket
+Product Types: ["Men's Jackets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 114714001 ------------
+114714001: code: 114714001
+114714001: extprdid: 114714011, 114714012, 114714013, 114714014, freedomvarsity
+114714001: title: "Freedom" Varsity-Style Men's Twill Jacket
+114714001: SHORT_NAME: Freedom Men's Jacket
+Product not found in props of code 114714001
+114714001: shortdesc: Men's Jacket: Freedom Men's Jacket
+114714001: FEATURE_VALUES: Men's
+114714001: keywords: Varsity Jacket
+114714001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 114714001
+114714001: OTHER_COUNTRY_PROD_ID: None
+114714001: EMAIL_SUBJECT_TITLE: Freedom Men's Jacket
+Product Types: ["Men's Jackets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 118488001 ------------
+118488001: code: 118488001
+118488001: extprdid: 118488011, 118488012, 118488013, 118488014, vetjacket2
+118488001: title: "Veterans Salute" Men's Jacket With Jody Bergsma Eagle Art
+118488001: SHORT_NAME: Veterans Salute Men's Jacket 
+Product not found in props of code 118488001
+118488001: shortdesc: Jacket: U.S. Military Pride Veterans Salute Men's Jacket
+118488001: FEATURE_VALUES: Men's
+118488001: keywords: mens apparel
+118488001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 118488001
+118488001: OTHER_COUNTRY_PROD_ID: None
+118488001: EMAIL_SUBJECT_TITLE: Eagle Art Veterans Men's Jacket
+Product Types: ["Men's Jackets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Military', 'Patriotic']
+--------- item: 1701776001 ------------
+1701776001: code: 1701776001
+1701776001: extprdid: 1701776002, 1701776003, 1701776004, 1701776005, 1701776006, 1701776007, 1701776008, 1701776009, 1701776010, 1701776011, 1701776012, 1701776013, 1701776014, 1701776015, 170177601
+1701776001: title: The American Silver Eagle Ingot Engraved Ring
+1701776001: SHORT_NAME: The American Silver Eagle Ingot Ring
+Product not found in props of code 1701776001
+1701776001: shortdesc: The American Silver Eagle Ingot Men's Engraved Ring
+1701776001: FEATURE_VALUES: Test
+1701776001: keywords: Patriotic
+1701776001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701776001
+1701776001: OTHER_COUNTRY_PROD_ID: None
+1701776001: EMAIL_SUBJECT_TITLE: American Silver Eagle Ingot Men's Ring
+Product Types: ["Men's Rings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 127654001 ------------
+127654001: code: 127654001
+127654001: extprdid: 12765401, 127654012, 127654013, 127654014, 127654015
+127654001: title: "This We'll Defend" Men's Hoodie With Army Emblem And Motto
+127654001: SHORT_NAME: This We'll Defend Men's Hoodie
+Product not found in props of code 127654001
+127654001: shortdesc: This We'll Defend Men's U.S. Army Thermal Knit-Lined Hoodie
+127654001: FEATURE_VALUES: Men's
+127654001: keywords: men's
+127654001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127654001
+127654001: OTHER_COUNTRY_PROD_ID: None
+127654001: EMAIL_SUBJECT_TITLE: U.S. Army This We'll Defend Men's Hoodie
+Product Types: ["Men's Jackets"]
+Themes: ['Army', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 131669001 ------------
+131669001: code: 131669001
+131669001: extprdid: 131669010, 131669011, 131669012, 131669013, 131669014, 131669015, 131669016
+131669001: title: "Spirit Of America" Patriotic Men's Polo Shirt
+131669001: SHORT_NAME: Spirit Of America Men's Shirt
+Product not found in props of code 131669001
+131669001: shortdesc: Spirit Of America Patriotic Men's Polo Shirt
+131669001: FEATURE_VALUES: Men's
+131669001: keywords: Patriotic
+131669001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 131669001
+131669001: OTHER_COUNTRY_PROD_ID: None
+131669001: EMAIL_SUBJECT_TITLE: American Pride Men's Polyester Polo Shirt
+Product Types not found in dimensions of code 131669001
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 910916 ------------
+910916: code: 910916
+910916: extprdid: 1700170036
+910916: title: The Complete American Eagle Silver Dollar Collection
+910916: SHORT_NAME: Complete American Eagle Silver Dollar Coin Collection
+Product not found in props of code 910916
+910916: shortdesc: Complete American Eagle Silver Dollar Coin Collection
+910916: FEATURE_VALUES: New Arrivals
+910916: keywords: Silver Dollar
+910916: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 910916
+910916: OTHER_COUNTRY_PROD_ID: None
+910916: EMAIL_SUBJECT_TITLE: Complete American Eagle Silver Dollar Collection
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 126478001 ------------
+126478001: code: 126478001
+extprdid not found in props of code 126478001
+126478001: title: Al Agnew "Majestic Flight" Illuminated Eagle Sculpture
+126478001: SHORT_NAME: Majestic Flight Sculpture
+Product not found in props of code 126478001
+126478001: shortdesc: Al Agnew Majestic Flight Illuminated Eagle Sculpture
+126478001: FEATURE_VALUES: Last Chance
+126478001: keywords: resin
+126478001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126478001
+126478001: OTHER_COUNTRY_PROD_ID: None
+126478001: EMAIL_SUBJECT_TITLE: Al Agnew Illuminated Eagle Sculpture
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 116042003 ------------
+116042003: code: 116042003
+116042003: extprdid: 116042007, 116042008, 116042009, 116042010, 116042011, 116042012, 116042013, 116042014, 116042015, 116042016, 116042017, 116042018, 116042019, 116042020, 116042021
+116042003: title: "American Pride" Patriotic Stainless Steel Men's Ring
+116042003: SHORT_NAME: American Pride Ring
+Product not found in props of code 116042003
+116042003: shortdesc: American Pride God Bless America Men's Stainless Steel Ring
+116042003: FEATURE_VALUES: Stainless Steel
+116042003: keywords: men's jewelry
+116042003: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 116042003
+116042003: OTHER_COUNTRY_PROD_ID: None
+116042003: EMAIL_SUBJECT_TITLE: Patriotic Eagle and Flag Men's Ring
+Product Types: ["Men's Rings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 127401001 ------------
+127401001: code: 127401001
+extprdid not found in props of code 127401001
+127401001: title: Thomas Kinkade Native Beauty Sculptural Dreamcatcher Decor
+127401001: SHORT_NAME: Thomas Kinkade Native Beauty Wall Decor
+Product not found in props of code 127401001
+127401001: shortdesc: Thomas Kinkade Native Beauty Sculptural Dreamcatcher Wall Decor
+FEATURE_VALUES not found in props of code 127401001
+127401001: keywords: Wall Decor Art
+127401001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127401001
+127401001: OTHER_COUNTRY_PROD_ID: None
+127401001: EMAIL_SUBJECT_TITLE: Thomas Kinkade Native American Inspired Wall Decor
+Product Types: ['Wall Décor']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Native American Style']
+--------- item: 129409001 ------------
+129409001: code: 129409001
+extprdid not found in props of code 129409001
+129409001: title: Ted Blaylock "Spirit In The Wind" Mystical Maiden Sculpture
+129409001: SHORT_NAME: Spirit In The Wind Sculpture
+Product not found in props of code 129409001
+129409001: shortdesc: Ted Blaylock Spirit In The Wind Hand-Painted Sculpture
+FEATURE_VALUES not found in props of code 129409001
+129409001: keywords: Native American
+129409001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129409001
+129409001: OTHER_COUNTRY_PROD_ID: None
+129409001: EMAIL_SUBJECT_TITLE: Maiden Sculpture with Ted Blaylock Eagle Art
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Native American Style']
+--------- item: 1701543001 ------------
+1701543001: code: 1701543001
+extprdid not found in props of code 1701543001
+1701543001: title: The Last-Ever Original Silver Bullion Eagle Dollar Coin
+1701543001: SHORT_NAME: The Last-Ever Original Silver Eagle Dollar Coin
+Product not found in props of code 1701543001
+1701543001: shortdesc: The Last-Ever Original Silver Bullion Eagle Dollar Coin
+1701543001: FEATURE_VALUES: Silver
+1701543001: keywords: eagle
+1701543001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701543001
+1701543001: OTHER_COUNTRY_PROD_ID: None
+1701543001: EMAIL_SUBJECT_TITLE: Last-Ever 2007 Original Silver Eagle Dollar
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 903166 ------------
+903166: code: 903166
+extprdid not found in props of code 903166
+903166: title: Ted Blaylock Cold-Cast Bronze Eagle Wall Decor Collection
+903166: SHORT_NAME: Majestic Summits Wall Sculpture Collection
+Product not found in props of code 903166
+903166: shortdesc: Cold-Cast Bronze Bald Eagle Wall Sculpture Collection: Majestic Summits
+FEATURE_VALUES not found in props of code 903166
+903166: keywords: Wildlife
+903166: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 903166
+903166: OTHER_COUNTRY_PROD_ID: None
+903166: EMAIL_SUBJECT_TITLE: Bald Eagle Wall Sculpture Collection
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 125461001 ------------
+125461001: code: 125461001
+extprdid not found in props of code 125461001
+125461001: title: USMC Men's Stainless Steel Dress Watch
+125461001: SHORT_NAME: USMC Men's Watch
+Product not found in props of code 125461001
+125461001: shortdesc: USMC Men's Stainless Steel Dress Watch
+125461001: FEATURE_VALUES: Stainless Steel
+125461001: keywords: men's jewelry
+125461001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 125461001
+125461001: OTHER_COUNTRY_PROD_ID: None
+125461001: EMAIL_SUBJECT_TITLE: USMC Men's Watch
+Product Types: ["Men's Watches"]
+Themes: ['Anniversary', 'Birthdays', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Marines', 'Marines', 'Patriotic']
+--------- item: 113750001 ------------
+113750001: code: 113750001
+113750001: extprdid: /13750
+113750001: title: Custom Stainless Steel And Onyx Men's Motorcycle Ring
+113750001: SHORT_NAME: Freedom's Ride Ring
+Product not found in props of code 113750001
+113750001: shortdesc: Freedom's Ride Men's Motorcycle Ring
+113750001: FEATURE_VALUES: Stainless Steel
+113750001: keywords: Stainless Steel
+113750001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 113750001
+113750001: OTHER_COUNTRY_PROD_ID: None
+113750001: EMAIL_SUBJECT_TITLE: Motorcycle Men's Ring.
+Product Types: ["Men's Rings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 127413001 ------------
+127413001: code: 127413001
+extprdid not found in props of code 127413001
+127413001: title: Spirit Of Freedom Patriotic 5-Piece Glasses And Decanter Set
+127413001: SHORT_NAME: Spirit Of Freedom Decanter Set
+Product not found in props of code 127413001
+127413001: shortdesc: Spirit Of Freedom Patriotic Glass Decanter Set
+FEATURE_VALUES not found in props of code 127413001
+127413001: keywords: honor
+127413001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127413001
+127413001: OTHER_COUNTRY_PROD_ID: None
+127413001: EMAIL_SUBJECT_TITLE: Patriotic American Eagle 5-Piece Decanter Set
+Product Types: ['Decanter Sets']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 917268 ------------
+917268: code: 917268
+917268: extprdid: 1400743001
+917268: title: "Sacred Spirits" Native American-Style Village Collection
+917268: SHORT_NAME: Sacred Spirits Village Collection
+Product not found in props of code 917268
+917268: shortdesc: Sacred Spirits Native American-Inspired Village Collection
+917268: FEATURE_VALUES: Collections
+917268: keywords: Villages
+917268: MANUFACTURER: Hawthorne Village
+artist not found in props of code 917268
+917268: OTHER_COUNTRY_PROD_ID: None
+917268: EMAIL_SUBJECT_TITLE: Native American Village
+Product Types: ['Villages']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Native American Style', 'Wolves', 'Wolves', 'Wolves']
+--------- item: 1700825001 ------------
+1700825001: code: 1700825001
+extprdid not found in props of code 1700825001
+1700825001: title: First Strike 2017 American Eagle Silver Dollar and Display
+1700825001: SHORT_NAME: First Strike 2017 American Eagle Silver Dollar Coin
+Product not found in props of code 1700825001
+1700825001: shortdesc: PCGS Graded First Strike 2017 American Eagle Silver Dollar Coin
+1700825001: FEATURE_VALUES: Silver
+1700825001: keywords: Silver Dollar
+1700825001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1700825001
+1700825001: OTHER_COUNTRY_PROD_ID: None
+1700825001: EMAIL_SUBJECT_TITLE: 2017 First Strike American Eagle Silver Dollar
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 107794001 ------------
+107794001: code: 107794001
+107794001: extprdid: 107794007,107794008,107794009,107794010,107794011,107794012,107794013,107794014,107794015,107794016,107794017,107794018,107794019,107794020,107794021, /7794
+107794001: title: The "Veteran's Pride And Brotherhood" Men's Ring
+107794001: SHORT_NAME: The Veteran's Pride And Brotherhood Ring
+Product not found in props of code 107794001
+107794001: shortdesc: The Veteran's Pride And Brotherhood Men's Ring
+107794001: FEATURE_VALUES: Men's
+107794001: keywords: Veteran
+107794001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 107794001
+107794001: OTHER_COUNTRY_PROD_ID: None
+107794001: EMAIL_SUBJECT_TITLE: Veteran's Pride Men's Ring
+Product Types: ["Men's Rings"]
+Themes: ['Birthdays', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 1701519001 ------------
+1701519001: code: 1701519001
+extprdid not found in props of code 1701519001
+1701519001: title: 2017 First Strike American Eagle Silver Dollar And Display
+1701519001: SHORT_NAME: 2017 First Strike Proof American Eagle Silver Dollar Coin
+Product not found in props of code 1701519001
+1701519001: shortdesc: 2017 First Strike Proof American Eagle Silver Dollar Coin With Custom Display Case
+1701519001: FEATURE_VALUES: Silver
+1701519001: keywords: United States
+1701519001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701519001
+1701519001: OTHER_COUNTRY_PROD_ID: None
+1701519001: EMAIL_SUBJECT_TITLE: 2017 First Strike American Eagle Silver Dollar
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 1700564001 ------------
+1700564001: code: 1700564001
+extprdid not found in props of code 1700564001
+1700564001: title: The Reverse Proof American Eagle Silver Dollar With Display
+1700564001: SHORT_NAME: The Reverse Proof American Eagle Silver Dollar Coin
+Product not found in props of code 1700564001
+1700564001: shortdesc: The Reverse Proof 99.5&#37; Silver Bullion American Eagle Silver Dollar Coin
+1700564001: FEATURE_VALUES: Silver
+1700564001: keywords: rare coin
+1700564001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1700564001
+1700564001: OTHER_COUNTRY_PROD_ID: None
+1700564001: EMAIL_SUBJECT_TITLE: Reverse Proof American Eagle Silver Dollar
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 119897001 ------------
+119897001: code: 119897001
+119897001: extprdid: 119897011, 119897012, 119897013, 119897014
+
+119897001: title: "Never Forgotten" Men's Black Hoodie With POW MIA Art Patch
+119897001: SHORT_NAME: Never Forgotten Men's Hoodie
+Product not found in props of code 119897001
+119897001: shortdesc: POW-MIA Tribute Never Forgotten Men's Hoodie
+119897001: FEATURE_VALUES: Men's
+119897001: keywords: zipper hoodie
+119897001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119897001
+119897001: OTHER_COUNTRY_PROD_ID: None
+119897001: EMAIL_SUBJECT_TITLE: Military Remembrance Hoodie
+Product Types: ["Men's Jackets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Military', 'Patriotic']
+--------- item: 120544001 ------------
+120544001: code: 120544001
+extprdid not found in props of code 120544001
+120544001: title: "USMC Semper Fi" Personalized Men's ID Bracelet
+120544001: SHORT_NAME: USMC Semper Fi Personalized Men's Bracelet
+Product not found in props of code 120544001
+120544001: shortdesc: USMC Semper Fi Personalized Men's Braided Black Leather ID Bracelet
+120544001: FEATURE_VALUES: Stainless Steel
+120544001: keywords: silver jewelry
+120544001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120544001
+120544001: OTHER_COUNTRY_PROD_ID: None
+120544001: EMAIL_SUBJECT_TITLE: USMC Men's Monogrammed Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Marines', 'Marines', 'Patriotic']
+--------- item: 922329 ------------
+922329: code: 922329
+922329: extprdid: 129407001
+922329: title: "Gold Standard" Eagle Sculpture Collection
+922329: SHORT_NAME: Gold Standard Eagle Sculpture Collection
+Product not found in props of code 922329
+922329: shortdesc: Golden Eagle Sculpture Collection
+922329: FEATURE_VALUES: Men's
+922329: keywords: Wildlife
+922329: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922329
+922329: OTHER_COUNTRY_PROD_ID: None
+922329: EMAIL_SUBJECT_TITLE: Golden Eagle Sculptures on Bases
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 129528001 ------------
+129528001: code: 129528001
+extprdid not found in props of code 129528001
+129528001: title: Ted Blaylock "Force Of Nature" Illuminated Canvas Print
+129528001: SHORT_NAME: Force Of Nature Wall Decor
+Product not found in props of code 129528001
+129528001: shortdesc: Ted Blaylock Force Of Nature Illuminated Eagle Art Wall Decor
+FEATURE_VALUES not found in props of code 129528001
+129528001: keywords: Framed
+129528001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129528001
+129528001: OTHER_COUNTRY_PROD_ID: None
+129528001: EMAIL_SUBJECT_TITLE: Ted Blaylock Illuminating Canvas Print
+Product Types: ['Wall Décor']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 1700262001 ------------
+1700262001: code: 1700262001
+1700262001: extprdid: /1849watch
+1700262001: title: The 1849 $20 Eagle Proof Watch Plated In 24K Gold
+1700262001: SHORT_NAME: The 1849 $20 Eagle Proof Men's Watch
+Product not found in props of code 1700262001
+1700262001: shortdesc: Men's Watch: The 1849 $20 Eagle Proof Men's Watch
+1700262001: FEATURE_VALUES: Silver
+1700262001: keywords: karat gold
+1700262001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1700262001
+1700262001: OTHER_COUNTRY_PROD_ID: None
+1700262001: EMAIL_SUBJECT_TITLE: $20 Eagle Proof Coin Men's Watch
+Product Types: ["Men's Watches"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 120098001 ------------
+120098001: code: 120098001
+120098001: extprdid: 120098007, 120098008, 120098009, 120098010, 120098011, 120098012, 120098013, 120098014, 120098015, 120098016, 120098017, 120098018, 120098019, 120098020, 120098021
+120098001: title: "Navy Honor" 24K Gold Ion-Plated Engraved Spinning Ring
+120098001: SHORT_NAME: Navy Honor Ring
+Product not found in props of code 120098001
+120098001: shortdesc: Ring: Navy Honor Men's Spinning Ring
+120098001: FEATURE_VALUES: Stainless Steel
+120098001: keywords: silver jewelry
+120098001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120098001
+120098001: OTHER_COUNTRY_PROD_ID: None
+120098001: EMAIL_SUBJECT_TITLE: U.S. Navy Men's Spinning Ring
+Product Types: ["Men's Rings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Navy', 'Patriotic']
+--------- item: 907245 ------------
+907245: code: 907245
+extprdid not found in props of code 907245
+907245: title: September 11th Motorcycle Figurines With Patriotic Art
+907245: SHORT_NAME: United We Stand Bike Figurine Collection 
+Product not found in props of code 907245
+907245: shortdesc: The "United We Stand" Patriotic Bike Figurine Collection
+907245: FEATURE_VALUES: Collections
+907245: keywords: figurines
+907245: MANUFACTURER: The Hamilton Collection
+artist not found in props of code 907245
+907245: OTHER_COUNTRY_PROD_ID: None
+907245: EMAIL_SUBJECT_TITLE: September 11 Motorcycle Figurine
+Product Types: ['Figurines']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 922073 ------------
+922073: code: 922073
+922073: extprdid: 128656001
+922073: title: Strength Of Spirit Figurine Collection
+922073: SHORT_NAME: Strength Of Spirit Figurine Collection
+Product not found in props of code 922073
+922073: shortdesc: Strength Of Spirit Figurine Collection
+922073: FEATURE_VALUES: Test
+922073: keywords: Strength
+922073: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922073
+922073: OTHER_COUNTRY_PROD_ID: None
+922073: EMAIL_SUBJECT_TITLE: Strength Of Spirit Figurine Collection
+Product Types: ['Figurines']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Native American Style']
+--------- item: 117799001 ------------
+117799001: code: 117799001
+extprdid not found in props of code 117799001
+117799001: title: "Ride Hard, Live Free" Welcome Sign Personalized With Name
+117799001: SHORT_NAME: Ride Hard, Live Free Personalized Welcome Sign
+Product not found in props of code 117799001
+117799001: shortdesc: Welcome Sign: Ride Hard, Live Free Personalized Welcome Sign
+117799001: FEATURE_VALUES: Personalized
+117799001: keywords: Welcome sign
+117799001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 117799001
+117799001: OTHER_COUNTRY_PROD_ID: None
+117799001: EMAIL_SUBJECT_TITLE: Ride Hard, Live Free Personalized Welcome Sign
+Product Types: ['Welcome Signs']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 121115001 ------------
+121115001: code: 121115001
+extprdid not found in props of code 121115001
+121115001: title: "Spirit Of The Road" Sculptural Motorcycle Lamp
+121115001: SHORT_NAME: Spirit Of The Road Lamp
+Product not found in props of code 121115001
+121115001: shortdesc: Handcrafted Spirit Of The Road Lamp With Twin Engine Lamp Base
+FEATURE_VALUES not found in props of code 121115001
+121115001: keywords: eagle
+121115001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121115001
+121115001: OTHER_COUNTRY_PROD_ID: None
+121115001: EMAIL_SUBJECT_TITLE: Motorcycle Sculptural Lamp
+Product Types: ['Tabletop Lamps']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 129432001 ------------
+129432001: code: 129432001
+extprdid not found in props of code 129432001
+129432001: title: Ted Blaylock "Mountain Majesty" Sculpted Torchiere Lamp
+129432001: SHORT_NAME: Mountain Majesty Lamp
+Product not found in props of code 129432001
+129432001: shortdesc: Ted Blaylock Mountain Majesty Sculpted Eagle Torchiere Lamp
+FEATURE_VALUES not found in props of code 129432001
+129432001: keywords: Wildlife
+129432001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129432001
+129432001: OTHER_COUNTRY_PROD_ID: None
+129432001: EMAIL_SUBJECT_TITLE: Ted Blaylock Eagle Art Torchiere Lamp
+Product Types: ['Tabletop Lamps']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 116817001 ------------
+116817001: code: 116817001
+116817001: extprdid: /16817
+116817001: title: USMC Eagle, Globe And Anchor Personalized Sculpture
+116817001: SHORT_NAME: Honor, Courage, Commitment Personalized Sculpture
+Product not found in props of code 116817001
+116817001: shortdesc: Personalized Marine Sculpture: Honor, Courage, Commitment
+116817001: FEATURE_VALUES: Personalized
+116817001: keywords: USMC
+116817001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 116817001
+116817001: OTHER_COUNTRY_PROD_ID: None
+116817001: EMAIL_SUBJECT_TITLE: USMC Personalized Sculpture
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Marines', 'Marines', 'Patriotic']
+--------- item: 128230001 ------------
+128230001: code: 128230001
+128230001: extprdid: 128230011, 128230012, 128230013, 128230014, 128230015
+128230001: title: "U.S. Marines" Men's Cotton-Blend Knit Hoodie
+128230001: SHORT_NAME: U.S. Marines Men's Hoodie
+Product not found in props of code 128230001
+128230001: shortdesc: U.S. Marines Men's Zip Up Cotton-Blend Knit Hoodie
+128230001: FEATURE_VALUES: Men's
+128230001: keywords: United States Marine Corps
+128230001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128230001
+128230001: OTHER_COUNTRY_PROD_ID: None
+128230001: EMAIL_SUBJECT_TITLE: USMC Men's Fleece Lined Hoodie
+Product Types: ["Men's Jackets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Marines', 'Marines', 'Patriotic']
+--------- item: 129411001 ------------
+129411001: code: 129411001
+extprdid not found in props of code 129411001
+129411001: title: "Texas Pride" Eagle Sculpture Salutes The Texas Spirit
+129411001: SHORT_NAME: Texas Pride Sculpture
+Product not found in props of code 129411001
+129411001: shortdesc: Texas Pride Eagle Sculpture
+FEATURE_VALUES not found in props of code 129411001
+129411001: keywords: Texas Pride
+129411001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129411001
+129411001: OTHER_COUNTRY_PROD_ID: None
+129411001: EMAIL_SUBJECT_TITLE: Texas Pride Bald Eagle Sculpture
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 125745001 ------------
+125745001: code: 125745001
+125745001: extprdid: 125745007, 125745008, 125745009, 125745010, 125745011, 125745012, 125745013, 125745014, 125745015, 125745016, 125745017, 125745018, 125745019, 125745020, 125745021
+125745001: title: "American Biker" Men's Sterling Silver-Plated Ring
+125745001: SHORT_NAME: American Biker Ring
+Product not found in props of code 125745001
+125745001: shortdesc: American Biker Men's Sterling Silver-Plated Ring
+125745001: FEATURE_VALUES: Sterling Silver
+125745001: keywords: Sterling Silver
+125745001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 125745001
+125745001: OTHER_COUNTRY_PROD_ID: None
+125745001: EMAIL_SUBJECT_TITLE: Patriotic Biker Men's Black Sapphire Ring
+Product Types: ["Men's Rings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 117461001 ------------
+117461001: code: 117461001
+117461001: extprdid: 117461007, 117461008, 117461009, 117461010, 117461011, 117461012, 117461013, 117461014, 117461015, 117461016, 117461017, 117461018, 117461019, 117461020, 117461021, 17461
+117461001: title: "Wings Of Freedom" Patriotic Stainless Steel Men's Ring
+117461001: SHORT_NAME: Wings Of Freedom Ring
+Product not found in props of code 117461001
+117461001: shortdesc: Ring: Wings Of Freedom Stainless Steel Patriotic Eagle Ring
+117461001: FEATURE_VALUES: Stainless Steel
+117461001: keywords: Vietnam Veterans
+117461001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 117461001
+117461001: OTHER_COUNTRY_PROD_ID: None
+117461001: EMAIL_SUBJECT_TITLE: Eagle Stainless Steel Men's Ring
+Product Types: ["Men's Rings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Military', 'Patriotic']
+--------- item: 130118001 ------------
+130118001: code: 130118001
+extprdid not found in props of code 130118001
+130118001: title: Ted Blaylock "Eagle Majesty" Personalized Address Sign
+130118001: SHORT_NAME: Eagle Majesty Personalized Address Sign
+Product not found in props of code 130118001
+130118001: shortdesc: Ted Blaylock Eagle Majesty Personalized Outdoor Address Sign
+130118001: FEATURE_VALUES: Personalized
+130118001: keywords: Personalized
+130118001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130118001
+130118001: OTHER_COUNTRY_PROD_ID: None
+130118001: EMAIL_SUBJECT_TITLE: Ted Blaylock Eagle Art Personalized Address Sign
+Product Types: ['Welcome Signs']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 115217004 ------------
+115217004: code: 115217004
+extprdid not found in props of code 115217004
+115217004: title: "Sedona Sky" Turquoise Earrings With Eagle Feather Design
+115217004: SHORT_NAME: Sedona Sky Earrings
+Product not found in props of code 115217004
+115217004: shortdesc: Sedona Sky Genuine Turquoise Cabochon Women's Hoop Earrings
+115217004: FEATURE_VALUES: Women's
+115217004: keywords: women's jewelry
+115217004: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 115217004
+115217004: OTHER_COUNTRY_PROD_ID: None
+115217004: EMAIL_SUBJECT_TITLE: Turquoise Cabochon Women's Hoop Earrings
+Product Types: ["Women's Earrings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Native American Style']
+--------- item: 922239 ------------
+922239: code: 922239
+922239: extprdid: 128743001
+922239: title: Patriotic Zippo&reg; Lighter Collection With Lighted Display
+922239: SHORT_NAME: Liberty And Justice For All Zippo&reg; Lighter Collection
+Product not found in props of code 922239
+922239: shortdesc: Liberty And Justice For All Zippo&reg; Lighter Collection With Custom Illuminated Display Case
+922239: FEATURE_VALUES: Men's
+922239: keywords: zippo
+922239: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922239
+922239: OTHER_COUNTRY_PROD_ID: None
+922239: EMAIL_SUBJECT_TITLE: Patriotic Zippo Lighter Collection with Display
+Product Types: ['Lighters']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 1701817001 ------------
+1701817001: code: 1701817001
+extprdid not found in props of code 1701817001
+1701817001: title: First Strike 2018 American Eagle Silver Dollar: PR69DCAM
+1701817001: SHORT_NAME: 2018 First Strike Proof American Eagle Silver Dollar Coin
+Product not found in props of code 1701817001
+1701817001: shortdesc: 2018 First Strike Proof American Eagle Silver Dollar Legal Tender Coin With Mahogany-Finish Display Box
+1701817001: FEATURE_VALUES: Silver
+1701817001: keywords: U.S. Currency
+1701817001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701817001
+1701817001: OTHER_COUNTRY_PROD_ID: None
+1701817001: EMAIL_SUBJECT_TITLE: 2018 First Strike American Eagle Silver Dollar
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 129467001 ------------
+129467001: code: 129467001
+extprdid not found in props of code 129467001
+129467001: title: Ted Blaylock "Glory Of Flight" Eagle Art Floor Lamp
+129467001: SHORT_NAME: Glory Of Flight Lamp
+Product not found in props of code 129467001
+129467001: shortdesc: Ted Blaylock Glory Of Flight Eagle Art Floor Lamp
+129467001: FEATURE_VALUES: Catalogue
+129467001: keywords: Lamps
+129467001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129467001
+129467001: OTHER_COUNTRY_PROD_ID: None
+129467001: EMAIL_SUBJECT_TITLE: Ted Blaylock Eagle Art Floor Lamp
+Product Types: ['Floor Lamps']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 1700859001 ------------
+1700859001: code: 1700859001
+extprdid not found in props of code 1700859001
+1700859001: title: Morgan Silver Dollar Eagle Ingot Men's Bracelet
+1700859001: SHORT_NAME: The Morgan Silver Ingot Men's Bracelet
+Product not found in props of code 1700859001
+1700859001: shortdesc: The Morgan Silver Ingot Men's Eagle Bracelet
+1700859001: FEATURE_VALUES: Silver
+1700859001: keywords: silver jewelry
+1700859001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1700859001
+1700859001: OTHER_COUNTRY_PROD_ID: None
+1700859001: EMAIL_SUBJECT_TITLE: Morgan Silver Ingot Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 126824001 ------------
+126824001: code: 126824001
+extprdid not found in props of code 126824001
+126824001: title: F-15 Eagle Jet "Bottom Of The Loop" Metal Print Wall Decor
+126824001: SHORT_NAME: Bottom Of The Loop Wall Decor
+Product not found in props of code 126824001
+126824001: shortdesc: F-15 Eagle Fighter Jet Bottom Of The Loop Gallery Metal Print Wall Decor
+126824001: FEATURE_VALUES: For Husband
+126824001: keywords: brushed metal
+126824001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126824001
+126824001: OTHER_COUNTRY_PROD_ID: None
+126824001: EMAIL_SUBJECT_TITLE: F-15 Eagle Gallery Metal Print Wall Decor
+Product Types: ['Wall Décor']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Military', 'Patriotic']
+--------- item: 116042001 ------------
+116042001: code: 116042001
+116042001: extprdid: /16042
+116042001: title: "American Pride" Pendant With Sculpted Patriotic Motifs
+116042001: SHORT_NAME: American Pride Dog Tag Pendant Necklace
+Product not found in props of code 116042001
+116042001: shortdesc: Dog Tag Pendant Necklace: American Pride
+116042001: FEATURE_VALUES: Stainless Steel
+116042001: keywords: United States
+116042001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 116042001
+116042001: OTHER_COUNTRY_PROD_ID: None
+116042001: EMAIL_SUBJECT_TITLE: American Pride Dog Tag Pendant Necklace
+Product Types: ["Men's Necklaces & Pendants"]
+Themes: ['Birthdays', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 127740001 ------------
+127740001: code: 127740001
+extprdid not found in props of code 127740001
+127740001: title: Ted Blaylock "American Spirit" Illuminated Wall Clock
+127740001: SHORT_NAME: American Spirit Wall Clock
+Product not found in props of code 127740001
+127740001: shortdesc: American Spirit Illuminated Stained-Glass Patriotic Wall Clock
+FEATURE_VALUES not found in props of code 127740001
+127740001: keywords: eagle
+127740001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127740001
+127740001: OTHER_COUNTRY_PROD_ID: None
+127740001: EMAIL_SUBJECT_TITLE: Ted Blaylock Patriotic Stained Glass Wall Clock
+Product Types: ['Wall Clocks']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 129145001 ------------
+129145001: code: 129145001
+extprdid not found in props of code 129145001
+129145001: title: "Moments Of Majesty" Bald Eagle Handcrafted Wall Clock
+129145001: SHORT_NAME: Moments Of Majesty Cuckoo Clock
+Product not found in props of code 129145001
+129145001: shortdesc: Moments Of Majesty Bald Eagle Handcrafted Cuckoo Clock
+FEATURE_VALUES not found in props of code 129145001
+129145001: keywords: Wildlife
+129145001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129145001
+129145001: OTHER_COUNTRY_PROD_ID: None
+129145001: EMAIL_SUBJECT_TITLE: None
+Product Types: ['Cuckoo Clocks']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 922252 ------------
+922252: code: 922252
+922252: extprdid: 129988001
+922252: title: Ted Blaylock "Majestic Wings" Wall Decor Collection
+922252: SHORT_NAME: Majestic Wings Wall Decor Collection
+Product not found in props of code 922252
+922252: shortdesc: Ted Blaylock Majestic Wings Native American-Inspired Dreamcatcher Wall Decor Collection
+922252: FEATURE_VALUES: Collections
+922252: keywords: Ted Blaylock
+922252: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 922252
+922252: OTHER_COUNTRY_PROD_ID: None
+922252: EMAIL_SUBJECT_TITLE: Bald Eagle Dreamcatcher Wall Decor Collection
+Product Types: ['Wall Décor']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Native American Style']
+--------- item: 131771001 ------------
+131771001: code: 131771001
+131771001: extprdid: 131771011, 131771012, 131771013, 131771014, 131771015
+131771001: title: "Home Of The Brave" Patriotic Men's Hoodie
+131771001: SHORT_NAME: Home Of The Brave Men's Hoodie
+Product not found in props of code 131771001
+131771001: shortdesc: Home Of The Brave Men's Hoodie
+131771001: FEATURE_VALUES: Test
+131771001: keywords: United States Navy
+131771001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 131771001
+131771001: OTHER_COUNTRY_PROD_ID: None
+131771001: EMAIL_SUBJECT_TITLE: Home Of The Brave Men's Hoodie
+Product Types: ["Men's Jackets"]
+Themes: ['Air Force', 'Army', 'Coast Guard', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Marines', 'Marines', 'Navy', 'Patriotic']
+--------- item: 121798001 ------------
+121798001: code: 121798001
+extprdid not found in props of code 121798001
+121798001: title: America The Beautiful Lighted Floral And Crystal Centerpiece
+121798001: SHORT_NAME: America The Beautiful Table Centerpiece
+Product not found in props of code 121798001
+121798001: shortdesc: America The Beautiful Lighted Crystal Centerpiece
+FEATURE_VALUES not found in props of code 121798001
+121798001: keywords: eagle
+121798001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121798001
+121798001: OTHER_COUNTRY_PROD_ID: None
+121798001: EMAIL_SUBJECT_TITLE: Patriotic Eagle Art and Floral Centerpiece
+Product Types: ['Table Centerpieces']
+Themes: ['Always in Bloom', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Floral', 'Patriotic']
+--------- item: 1701209001 ------------
+1701209001: code: 1701209001
+extprdid not found in props of code 1701209001
+1701209001: title: 30th Anniversary Silver Eagle Special Edition Coin Set
+1701209001: SHORT_NAME: 30th Anniversary Silver Eagle Coin Set
+Product not found in props of code 1701209001
+1701209001: shortdesc: 30th Anniversary Silver Eagle Bullion Coin Set
+1701209001: FEATURE_VALUES: Silver
+1701209001: keywords: Silver Dollar
+1701209001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701209001
+1701209001: OTHER_COUNTRY_PROD_ID: None
+1701209001: EMAIL_SUBJECT_TITLE: 30th Anniversary Silver Eagle Coin Set
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 129711001 ------------
+129711001: code: 129711001
+extprdid not found in props of code 129711001
+129711001: title: "Air Force Honor" Eagle Sculpture With Personalized Plaque
+129711001: SHORT_NAME: Air Force Honor Personalized Sculpture
+Product not found in props of code 129711001
+129711001: shortdesc: Air Force Honor Personalized Eagle Sculpture
+129711001: FEATURE_VALUES: Personalized
+129711001: keywords: United States Air Force
+129711001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129711001
+129711001: OTHER_COUNTRY_PROD_ID: None
+129711001: EMAIL_SUBJECT_TITLE: Air Force Personalized Eagle Sculpture
+Product Types: ['Sculptures']
+Themes: ['Air Force', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 1701769001 ------------
+1701769001: code: 1701769001
+extprdid not found in props of code 1701769001
+1701769001: title: "First Strike" 2018 American Eagle Silver Dollar Coin
+1701769001: SHORT_NAME: First Strike 2018 American Eagle Silver Dollar Coin
+Product not found in props of code 1701769001
+1701769001: shortdesc: First Strike 2018 American Eagle Silver Dollar Legal Tender Coin
+1701769001: FEATURE_VALUES: Silver
+1701769001: keywords: Silver Dollar
+1701769001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701769001
+1701769001: OTHER_COUNTRY_PROD_ID: None
+1701769001: EMAIL_SUBJECT_TITLE: First Strike American Eagle Silver Dollar Coin
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 910584 ------------
+910584: code: 910584
+910584: extprdid: 1700474001, 1700474004, 1700474005, 1700474006, 1700474008, 1700474009, 
+1700474011, 1700474012, 1700474014, 1700474015, 1700474016, 1700474017, 1700474018, 1700474010, 1700474013, 
+1700474007
+910584: title: The Complete U.S. Indian Head Gold Quarter Eagle Collection
+910584: SHORT_NAME: Complete U.S. Indian Head Gold Quarter Eagle Coin Collection
+Product not found in props of code 910584
+910584: shortdesc: Complete U.S. Indian Head Gold Quarter Eagle Coin Collection With Display Box
+910584: FEATURE_VALUES: Quarter
+910584: keywords: eagle
+910584: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 910584
+910584: OTHER_COUNTRY_PROD_ID: None
+910584: EMAIL_SUBJECT_TITLE: US Indian Head Gold Coin Collection
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Native American Style']
+--------- item: 121174001 ------------
+121174001: code: 121174001
+extprdid not found in props of code 121174001
+121174001: title: "For The Love Of The Game" Auburn Tigers Pendant
+121174001: SHORT_NAME: For The Love Of The Game Auburn Tigers Pendant Necklace
+Product not found in props of code 121174001
+121174001: shortdesc: For The Love Of The Game Auburn University Tigers Women's Pendant Necklace
+121174001: FEATURE_VALUES: Women's
+121174001: keywords: women's jewelry
+121174001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121174001
+121174001: OTHER_COUNTRY_PROD_ID: None
+121174001: EMAIL_SUBJECT_TITLE: Auburn Tigers Pendant Necklace
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Auburn Tigers', 'Auburn Tigers', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Graduation']
+--------- item: 116577001 ------------
+116577001: code: 116577001
+116577001: extprdid: 116577011, 116577012, 116577013, 116577014,/patriotichoodie
+116577001: title: Home Of The Brave Hoodie With Patriotic Eagle Art
+116577001: SHORT_NAME: Home Of The Brave Men's Hoodie
+Product not found in props of code 116577001
+116577001: shortdesc: Men's Hoodie: Home Of The Brave
+116577001: FEATURE_VALUES: Men's
+116577001: keywords: men's jacket
+116577001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 116577001
+116577001: OTHER_COUNTRY_PROD_ID: None
+116577001: EMAIL_SUBJECT_TITLE: Patriotic Men's Hoodie
+Product Types: ["Men's Jackets"]
+Themes: ['Birthdays', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 127754001 ------------
+127754001: code: 127754001
+extprdid not found in props of code 127754001
+127754001: title: St. Louis Cardinals Tribute Cold-Cast Bronze Glove
+127754001: SHORT_NAME: St. Louis Cardinals Glove Sculpture
+Product not found in props of code 127754001
+127754001: shortdesc: St. Louis Cardinals MLB Cold-Cast Bronze Commemorative Glove Sculpture
+127754001: FEATURE_VALUES: Men's
+127754001: keywords: St. Louis Cardinals
+127754001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127754001
+127754001: OTHER_COUNTRY_PROD_ID: None
+127754001: EMAIL_SUBJECT_TITLE: St. Louis Cardinals Baseball Glove Sculpture
+Product Types: ['Sculptures']
+Themes: ['Cardinals', 'Cardinals', 'Cardinals', 'St. Louis Cardinals', 'St. Louis Cardinals']
+--------- item: 129719001 ------------
+129719001: code: 129719001
+extprdid not found in props of code 129719001
+129719001: title: Ted Blaylock "Light Of Freedom" Illuminated Canvas Print
+129719001: SHORT_NAME: Light Of Freedom Wall Decor
+Product not found in props of code 129719001
+129719001: shortdesc: Ted Blaylock Light Of Freedom Illuminated Patriotic Wall Decor
+FEATURE_VALUES not found in props of code 129719001
+129719001: keywords: Patriotic
+129719001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129719001
+129719001: OTHER_COUNTRY_PROD_ID: None
+129719001: EMAIL_SUBJECT_TITLE: Ted Blaylock Eagle Art Illuminated Canvas Print
+Product Types: ['Wall Décor']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 128058001 ------------
+128058001: code: 128058001
+extprdid not found in props of code 128058001
+128058001: title: "Marine Honor" Eagle Sculpture With Personalized Plaque
+128058001: SHORT_NAME: Marine Honor Personalized Sculpture
+Product not found in props of code 128058001
+128058001: shortdesc: Marine Honor Personalized Eagle Sculpture
+128058001: FEATURE_VALUES: Personalized
+128058001: keywords: United States Marine Corps
+128058001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128058001
+128058001: OTHER_COUNTRY_PROD_ID: None
+128058001: EMAIL_SUBJECT_TITLE: U.S. Marine Corps Personalized Eagle Sculpture
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Marines', 'Marines', 'Patriotic']
+--------- item: 130037001 ------------
+130037001: code: 130037001
+extprdid not found in props of code 130037001
+130037001: title: "Freedom Rider" Biker Pride Dog Tag Pendant Necklace
+130037001: SHORT_NAME: Freedom Rider Pendant Necklace
+Product not found in props of code 130037001
+130037001: shortdesc: Freedom Rider Men's Sculpted Stainless Steel Dog Tag Pendant
+130037001: FEATURE_VALUES: Test
+130037001: keywords: Patriotic
+130037001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130037001
+130037001: OTHER_COUNTRY_PROD_ID: None
+130037001: EMAIL_SUBJECT_TITLE: Biker Pride Stainless Steel Dog Tag Necklace
+Product Types: ["Men's Necklaces & Pendants"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 1701559001 ------------
+1701559001: code: 1701559001
+extprdid not found in props of code 1701559001
+1701559001: title: "225 Years Of American Coinage" Silver Tribute Minted Bar
+1701559001: SHORT_NAME: The 225 Years Of American Coinage Silver Tribute Minted Bar
+Product not found in props of code 1701559001
+1701559001: shortdesc: The 225 Years Of American Coinage Silver Tribute Non-Monetary Minted Bar
+1701559001: FEATURE_VALUES: Silver
+1701559001: keywords: United States
+1701559001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701559001
+1701559001: OTHER_COUNTRY_PROD_ID: None
+1701559001: EMAIL_SUBJECT_TITLE: Silver Plated Minted Bar: 225 Years of US Coinage
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 127606001 ------------
+127606001: code: 127606001
+extprdid not found in props of code 127606001
+127606001: title: Coast Guard Pride Hoodie Personalized With Embroidered Name
+127606001: SHORT_NAME: Coast Guard Pride Personalized Men's Hoodie
+Product not found in props of code 127606001
+127606001: shortdesc: U.S. Coast Guard Pride Personalized Men's Knit Hoodie
+127606001: FEATURE_VALUES: Men's
+127606001: keywords: zipper hoodie
+127606001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127606001
+127606001: OTHER_COUNTRY_PROD_ID: None
+127606001: EMAIL_SUBJECT_TITLE: Coast Guard Personalized Men's Hooded Jacket
+Product Types: ["Men's Jackets"]
+Themes: ['Coast Guard', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 128321001 ------------
+128321001: code: 128321001
+extprdid not found in props of code 128321001
+128321001: title: "Mountaintop Majesty" Hand-Painted Eagle Sculpture
+128321001: SHORT_NAME: Mountaintop Majesty Sculpture
+Product not found in props of code 128321001
+128321001: shortdesc: Mountaintop Majesty Hand-Painted Eagle Sculpture
+128321001: FEATURE_VALUES: Men's
+128321001: keywords: Sculpture
+128321001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128321001
+128321001: OTHER_COUNTRY_PROD_ID: None
+128321001: EMAIL_SUBJECT_TITLE: Majestic Eagle Mountaintop Masterpiece Sculpture
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 129203001 ------------
+129203001: code: 129203001
+extprdid not found in props of code 129203001
+129203001: title: "Ride Hard Live Free" Leather Bomber Jacket With Patches
+129203001: SHORT_NAME: Ride Hard Live Free Men's Jacket
+Product not found in props of code 129203001
+129203001: shortdesc: Ride Hard Live Free Men's Leather Bomber Jacket With 8 Patches
+129203001: FEATURE_VALUES: Men's
+129203001: keywords: Patriotic
+129203001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129203001
+129203001: OTHER_COUNTRY_PROD_ID: None
+129203001: EMAIL_SUBJECT_TITLE: Men's Black Leather Motorcycle Jacket
+Product Types: ["Men's Jackets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 1700866001 ------------
+1700866001: code: 1700866001
+1700866001: extprdid: 1700866002, 1700866003, 1700866004, 1700866005, 1700866006, 1700866007, 1700866008, 1700866009, 1700866010, 1700866011, 1700866012, 1700866013, 1700866014, 1700866015, 1700866016
+
+1700866001: title: Durante Brasher Doubloon Coin Ring With 24K-Gold Plating
+1700866001: SHORT_NAME: Alfred Durante Brasher Doubloon Coin Ring
+Product not found in props of code 1700866001
+1700866001: shortdesc: Alfred Durante Brasher Doubloon Proof Eagle Coin Ring
+1700866001: FEATURE_VALUES: Swarovski Crystals
+1700866001: keywords: men's jewelry
+1700866001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1700866001
+1700866001: OTHER_COUNTRY_PROD_ID: None
+1700866001: EMAIL_SUBJECT_TITLE: Alfred Durante Brasher Doubloon Coin Men's Ring
+Product Types: ["Men's Rings"]
+Themes: ['Alfred Durante', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 1700215001 ------------
+1700215001: code: 1700215001
+extprdid not found in props of code 1700215001
+1700215001: title: The 1839 $5 Eagle Proof Engraved Men's Ring
+1700215001: SHORT_NAME: The 1839 $5 Eagle Proof Ring
+Product not found in props of code 1700215001
+1700215001: shortdesc: The 1839 $5 Eagle Proof Men's Ring
+1700215001: FEATURE_VALUES: Men's
+1700215001: keywords: Promotion 10301
+1700215001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1700215001
+1700215001: OTHER_COUNTRY_PROD_ID: None
+1700215001: EMAIL_SUBJECT_TITLE: 1839 $5 Eagle Proof Men's Ring
+Product Types: ["Men's Rings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 129915001 ------------
+129915001: code: 129915001
+extprdid not found in props of code 129915001
+129915001: title: U.S. Veteran Embroidered Front Zip Cotton-Blend Knit Hoodie
+129915001: SHORT_NAME: U.S. Veteran Men's Hoodie
+Product not found in props of code 129915001
+129915001: shortdesc: U.S. Veteran Men's Military Front-Zip Hoodie
+129915001: FEATURE_VALUES: Men's
+129915001: keywords: Wildlife
+129915001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129915001
+129915001: OTHER_COUNTRY_PROD_ID: None
+129915001: EMAIL_SUBJECT_TITLE: Patriotic Veteran's Men's Hoodie
+Product Types: ["Men's Jackets"]
+Themes: ['Air Force', 'Army', 'Coast Guard', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Marines', 'Marines', 'Navy', 'Patriotic']
+--------- item: 917001 ------------
+917001: code: 917001
+917001: extprdid: 1400151001
+917001: title: Ted Blaylock Bald Eagle Art Express Train Collection
+917001: SHORT_NAME: Wings Of Majesty Express Train Collection
+Product not found in props of code 917001
+917001: shortdesc: Wings Of Majesty Express Bald Eagle Art Train Collection
+FEATURE_VALUES not found in props of code 917001
+917001: keywords: Wildlife
+917001: MANUFACTURER: Hawthorne Village
+917001: artist: Ted Blaylock
+917001: OTHER_COUNTRY_PROD_ID: None
+917001: EMAIL_SUBJECT_TITLE: Eagle Train
+Product Types: ['Trains']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 127648001 ------------
+127648001: code: 127648001
+extprdid not found in props of code 127648001
+127648001: title: God Bless America Illuminated Glass Cross Sculpture
+127648001: SHORT_NAME: God Bless America Cross
+Product not found in props of code 127648001
+127648001: shortdesc: God Bless America Illuminated Glass Cross Sculpture
+FEATURE_VALUES not found in props of code 127648001
+127648001: keywords: Patriotic
+127648001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127648001
+127648001: OTHER_COUNTRY_PROD_ID: None
+127648001: EMAIL_SUBJECT_TITLE: Patriotic Illuminated Glass Cross Sculpture
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Inspirational', 'Patriotic']
+--------- item: 129710001 ------------
+129710001: code: 129710001
+extprdid not found in props of code 129710001
+129710001: title: "Army Honor" Eagle Sculpture With Personalized Plaque
+129710001: SHORT_NAME: Army Honor Personalized Sculpture
+Product not found in props of code 129710001
+129710001: shortdesc: Army Honor Personalized Eagle Sculpture
+129710001: FEATURE_VALUES: Personalized
+129710001: keywords: United States Army
+129710001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129710001
+129710001: OTHER_COUNTRY_PROD_ID: None
+129710001: EMAIL_SUBJECT_TITLE: Army Personalized Eagle Sculpture
+Product Types: ['Sculptures']
+Themes: ['Army', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 123439001 ------------
+123439001: code: 123439001
+123439001: extprdid: 123439011,123439012,123439013,123439014
+123439001: title: "God Bless America" Men's Hoodie With Faux Sherpa-Lined Hood
+123439001: SHORT_NAME: God Bless America Men's Hoodie
+Product not found in props of code 123439001
+123439001: shortdesc: God Bless America Men's Navy Patriotic Hoodie
+123439001: FEATURE_VALUES: Men's
+123439001: keywords: men's jacket
+123439001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123439001
+123439001: OTHER_COUNTRY_PROD_ID: None
+123439001: EMAIL_SUBJECT_TITLE: Men's Patriotic Hoodie
+Product Types: ["Men's Jackets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 131156001 ------------
+131156001: code: 131156001
+extprdid not found in props of code 131156001
+131156001: title: Marc Lacourciere Motorcycle Art Illuminated Canvas Print
+131156001: SHORT_NAME: Freedom Of The Open Road Wall Decor
+Product not found in props of code 131156001
+131156001: shortdesc: Marc Lacourciere Freedom Of The Open Road Illuminated Wall Decor
+131156001: FEATURE_VALUES: Test
+131156001: keywords: Patriotic
+131156001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 131156001
+131156001: OTHER_COUNTRY_PROD_ID: None
+131156001: EMAIL_SUBJECT_TITLE: Patriotic Motorcycle Illuminated Canvas Art Print
+Product Types: ['Wall Décor']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 910830 ------------
+910830: code: 910830
+910830: extprdid: 1701534001
+910830: title: Theodore Roosevelt 100th Anniversary Proof Coin Collection
+910830: SHORT_NAME: Theodore Roosevelt 100th Anniversary Proof Coin Collection
+Product not found in props of code 910830
+910830: shortdesc: The Theodore Roosevelt 100th Anniversary 24K Gold-Plated Legacy Proof Coin Collection
+910830: FEATURE_VALUES: Gold
+910830: keywords: Presidential Coins
+910830: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 910830
+910830: OTHER_COUNTRY_PROD_ID: None
+910830: EMAIL_SUBJECT_TITLE: Theodore Roosevelt 100 Anniversary Coin Collection
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 1701571001 ------------
+1701571001: code: 1701571001
+1701571001: extprdid: 1701571002, 1701571003, 1701571004, 1701571005, 1701571006, 1701571007, 1701571008, 1701571009, 1701571010, 1701571011, 1701571012, 1701571013, 1701571014, 1701571015, 1701571016
+1701571001: title: JFK 100th Anniversary Legacy Silver Coin Ring With 24K Gold
+1701571001: SHORT_NAME: The JFK 100th Anniversary Legacy Silver Coin Ring
+Product not found in props of code 1701571001
+1701571001: shortdesc: The JFK 100th Anniversary Legacy Silver Coin Ring With Half Dollar Eagle Reverse Design
+1701571001: FEATURE_VALUES: Sterling Silver
+1701571001: keywords: eagle
+1701571001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701571001
+1701571001: OTHER_COUNTRY_PROD_ID: None
+1701571001: EMAIL_SUBJECT_TITLE: John F Kennedy 100th Anniversary Legacy Coin Ring
+Product Types: ["Men's Rings"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Icons']
+--------- item: 1700981001 ------------
+1700981001: code: 1700981001
+extprdid not found in props of code 1700981001
+1700981001: title: The Walking Liberty 100th Anniversary Silver Coin Set
+1700981001: SHORT_NAME: The Walking Liberty 100th Anniversary Coin Set
+Product not found in props of code 1700981001
+1700981001: shortdesc: The Walking Liberty 100th Anniversary Silver Coin Set
+1700981001: FEATURE_VALUES: Silver
+1700981001: keywords: half dollar coins
+1700981001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1700981001
+1700981001: OTHER_COUNTRY_PROD_ID: None
+1700981001: EMAIL_SUBJECT_TITLE: Walking Liberty 100th Anniversary Silver Coin Set
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 125694001 ------------
+125694001: code: 125694001
+extprdid not found in props of code 125694001
+125694001: title: "Navy Pride" Hoodie Personalized With Embroidered Name
+125694001: SHORT_NAME: Navy Pride Personalized Men's Hoodie
+Product not found in props of code 125694001
+125694001: shortdesc: Navy Pride Personalized Embroidered Men's Knit Hoodie
+125694001: FEATURE_VALUES: Personalized
+125694001: keywords: zippered
+125694001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 125694001
+125694001: OTHER_COUNTRY_PROD_ID: None
+125694001: EMAIL_SUBJECT_TITLE: Navy Personalized Men's Hooded Fleece Jacket
+Product Types: ["Men's Jackets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Navy', 'Patriotic']
+--------- item: 119631001 ------------
+119631001: code: 119631001
+119631001: extprdid: 11963/
+119631001: title: "Free Because Of The Brave" Diamond Pendant Necklace
+119631001: SHORT_NAME: Free Because Of The Brave Diamond Pendant Necklace
+Product not found in props of code 119631001
+119631001: shortdesc: Necklace: Free Because Of The Brave Shield Diamond Pendant Necklace
+119631001: FEATURE_VALUES: Stainless Steel
+119631001: keywords: silver jewelry
+119631001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119631001
+119631001: OTHER_COUNTRY_PROD_ID: None
+119631001: EMAIL_SUBJECT_TITLE: Patriotic Shield Diamond Pendant Necklace
+Product Types: ["Men's Necklaces & Pendants"]
+Themes: ['Army', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Firefighters', 'Firefighters', 'Marines', 'Marines', 'Navy', 'Patriotic', 'Police Officers']
+--------- item: 910519 ------------
+910519: code: 910519
+910519: extprdid: 1700223001
+910519: title: Genuine Silver U.S. American Eagle Coin Collection
+910519: SHORT_NAME: America's Historic Silver Eagle Coin Collection
+Product not found in props of code 910519
+910519: shortdesc: America's Historic Silver Eagle Coin Collection
+910519: FEATURE_VALUES: Silver
+910519: keywords: Silver Coins
+910519: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 910519
+910519: OTHER_COUNTRY_PROD_ID: None
+910519: EMAIL_SUBJECT_TITLE: Silver Eagle Coin Collection
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 1701677001 ------------
+1701677001: code: 1701677001
+extprdid not found in props of code 1701677001
+1701677001: title: $5 Liberty Gold Half Eagle MS-61 NGC Coin
+1701677001: SHORT_NAME: $5 Liberty Gold Half Eagle MS-61 NGC Coin
+Product not found in props of code 1701677001
+1701677001: shortdesc: $5 Liberty 90&#37; Gold Half Eagle MS-61 NGC Coin
+FEATURE_VALUES not found in props of code 1701677001
+1701677001: keywords: United States
+1701677001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701677001
+1701677001: OTHER_COUNTRY_PROD_ID: None
+1701677001: EMAIL_SUBJECT_TITLE: $5 Liberty Gold Half Eagle MS-61 NGC Coin
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 1701978001 ------------
+1701978001: code: 1701978001
+extprdid not found in props of code 1701978001
+1701978001: title: 2019 First Strike American Eagle Silver Dollar And Display
+1701978001: SHORT_NAME: 2019 First Strike American Eagle Silver Dollar Coin
+Product not found in props of code 1701978001
+1701978001: shortdesc: 2019 PCGS Within 30 Days First Strike American Eagle Silver Dollar Coin With Wooden Display Box
+FEATURE_VALUES not found in props of code 1701978001
+1701978001: keywords: Patriotic
+1701978001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701978001
+1701978001: OTHER_COUNTRY_PROD_ID: None
+1701978001: EMAIL_SUBJECT_TITLE: 2019 First Strike American Eagle Silver Dollar
+Product Types: ['Coins']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 104758001 ------------
+104758001: code: 104758001
+104758001: extprdid: /4758
+104758001: title: "Ride Hard, Live Free" Motorcycle Wall Clock
+104758001: SHORT_NAME: Time Of Freedom Cuckoo Clock
+Product not found in props of code 104758001
+104758001: shortdesc: Motorcycle-Themed Collectible Wooden Cuckoo Clock: Time Of Freedom
+104758001: FEATURE_VALUES: For Him - General
+104758001: keywords: coco
+104758001: MANUFACTURER: The Bradford Exchange
+104758001: artist: Marc Lacourciere
+104758001: OTHER_COUNTRY_PROD_ID: None
+104758001: EMAIL_SUBJECT_TITLE: Eagle Cuckoo Clock
+Product Types: ['Cuckoo Clocks']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Motorcycles', 'Patriotic']
+--------- item: 129407001 ------------
+129407001: code: 129407001
+extprdid not found in props of code 129407001
+129407001: title: "Triumphant Treasure" Golden Eagle Sculpture
+129407001: SHORT_NAME: Triumphant Treasure Sculpture
+Product not found in props of code 129407001
+129407001: shortdesc: Triumphant Treasure Golden Eagle Sculpture
+129407001: FEATURE_VALUES: Men's
+129407001: keywords: Wildlife
+129407001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129407001
+129407001: OTHER_COUNTRY_PROD_ID: None
+129407001: EMAIL_SUBJECT_TITLE: Patriotic Golden Eagle Sculpture
+Product Types: ['Sculptures']
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']

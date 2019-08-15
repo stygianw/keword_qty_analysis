@@ -1,0 +1,66 @@
+KEYWORD: YORKIE
+---Solr Only---
+--------- item: 122135050 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 122135050
+122135050: title: Dog Art Crystal Clock With Your Dog's Name: Choose A Breed
+122135050: SHORT_NAME: Favorite Dog Breeds Crystal Heart Personalized Clock
+122135050: shortdesc: Favorite Dog Breeds Crystal Heart Personalized Decorative Clock
+122135050: FEATURE_VALUES: ['Personalized']
+122135050: KEYWORDS: ['Animals', 'Breed', 'Chihuahuas', 'Clocks', 'Dachshunds', 'Dogs', 'Home Decor', 'Personalized', 'Personalized Gifts', 'Pets', 'Pomeranian', 'Pug', 'Shih Tzu', 'Yorkies', 'Linda Picken', 'Tabletop Clock']
+122135050: MANUFACTURER: 1
+122135050: THEMES: ['Animals', 'Chihuahuas', 'Dachshunds', 'Dogs', 'Pets', 'Pomeranians', 'Pugs', 'Schnauzers', 'Shih Tzus']
+122135050: PRODUCT_TYPE: Tabletop Clocks
+PRODUCT_TYPE_2 not found in props of code 122135050
+ARTIST not found in props of code 122135050
+OTHER_COUNTRY_PROD_ID not found in props of code 122135050
+scode not found in props of code 122135050
+122135050: Product_Types_TREE_fsearch: ['Tabletop Clocks']
+122135050: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Chihuahuas', 'Dogs', 'Chihuahuas', 'Animals', 'Dogs', 'Dachshunds', 'Dogs', 'Dachshunds', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets', 'Animals', 'Dogs', 'Pomeranians', 'Dogs', 'Pomeranians', 'Animals', 'Dogs', 'Pugs', 'Dogs', 'Pugs', 'Animals', 'Dogs', 'Schnauzers', 'Dogs', 'Schnauzers', 'Animals', 'Dogs', 'Shih Tzus', 'Dogs', 'Shih Tzus']
+--------- item: 128200001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 128200001
+128200001: title: "Man's Best Friend" Men's Hoodie: Choose Your Breed
+128200001: SHORT_NAME: Man's Best Friend Men's Hoodie
+128200001: shortdesc: Man's Best Friend Men's Cotton-Blend Knit Hoodie
+128200001: FEATURE_VALUES: ['For Him', 'Personalized', "Men's", 'For Him - General']
+128200001: KEYWORDS: ['Boston Terriers', 'Boxers', 'Breed', 'Chihuahuas', 'Cocker Spaniel', 'Dachshunds', 'German Shepherds', 'Golden Retrievers', 'Jack Russells', 'Labrador Retriever', "Men's Jackets", 'Personalized', 'Pomeranian', 'Rottweiler', 'Schnauzer', 'Shih Tzu', 'westies', 'Yorkies', "Men's Hoodie", 'zippered', 'black hoodie', 'pockets', 'Sheltie', 'Husky', 'Pit Bull', 'Doberman']
+128200001: MANUFACTURER: 1
+128200001: THEMES: ['Animals', 'Dogs', 'Pets']
+128200001: PRODUCT_TYPE: Men's Jackets
+PRODUCT_TYPE_2 not found in props of code 128200001
+ARTIST not found in props of code 128200001
+OTHER_COUNTRY_PROD_ID not found in props of code 128200001
+scode not found in props of code 128200001
+128200001: Product_Types_TREE_fsearch: ["Men's Jackets"]
+128200001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets']
+--------- item: 128115001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 128115001
+128115001: title: "Paw Prints On My Heart" Quilted Tote Bag: Choose Your Breed
+128115001: SHORT_NAME: Paw Prints On My Heart Dog Tote Bag
+128115001: shortdesc: Creative Expressions Paw Prints On My Heart Dog Women's Quilted Tote Bag
+FEATURE_VALUES not found in props of code 128115001
+128115001: KEYWORDS: ['Bassett Hound', 'Beagle', 'Bichon Frise', 'Black Labs', 'Boston Terriers', 'Boxers', 'Breed', 'Bulldogs', 'Cavalier King Charles', 'Chihuahuas', 'Chocolate Labs', 'Cocker Spaniel', 'Corgi', 'Dachshunds', 'German Shepherds', 'Golden Retrievers', 'Handbags', 'Jack Russells', 'Maltese', 'Miniature Pinscher', 'Pets', 'Pomeranian', 'Pug', 'Purses', 'Rottweiler', 'Schnauzer', 'Scottie', 'Shih Tzu', 'Shoulder Bag', 'Westie', 'Yellow Labs', 'Yorkies', 'Quilted tote bag', 'Poodle', 'Sheltie', 'Promotion 10160', 'Promotion 10289', 'Husky', 'Promotion 10363']
+128115001: MANUFACTURER: 1
+128115001: THEMES: ['Animals', 'Dogs', 'Pets']
+128115001: PRODUCT_TYPE: Handbags & Accessories
+PRODUCT_TYPE_2 not found in props of code 128115001
+ARTIST not found in props of code 128115001
+OTHER_COUNTRY_PROD_ID not found in props of code 128115001
+scode not found in props of code 128115001
+128115001: Product_Types_TREE_fsearch: ['Handbags & Accessories']
+128115001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Pets']
+--------- item: 109217001 ------------
+EXTERNAL_PRODUCT_IDS not found in props of code 109217001
+109217001: title: "Best In Show" Pendant With Swarovski Crystals
+109217001: SHORT_NAME: Best In Show Crystal Pendant Necklace
+109217001: shortdesc: Best In Show Dog Lovers Crystal Pendant Necklace
+109217001: FEATURE_VALUES: ['Gold', 'Personalized', 'Swarovski Crystals', "Women's"]
+109217001: KEYWORDS: ['24 karat gold', '24K gold', '9217', 'Bichon Frise', 'Dachshunds', 'Dogs', 'Necklace', 'Pendants', 'Pet Lover Gifts', 'Pets', 'Pomeranian', 'Promotion 8075', 'Pug', 'Schnauzer', 'Shih Tzu', 'Sterling Silver', 'Swarovski Crystals', 'Yorkies', 'Yorkshire Terrier', 'Promotion 8130', 'Email Promotion 8138', 'Promotion 8181']
+109217001: MANUFACTURER: 1
+109217001: THEMES: ['Animals', 'Beagles', 'Bichon Frises', 'Black Labs', 'Boston Terriers', 'Boxers', 'Chihuahuas', 'Cocker Spaniels', 'Dachshunds', 'Dogs', 'German Shepherds', 'Golden Retrievers', 'Miniature Pinschers', 'Pomeranians', 'Poodles', 'Pugs', 'Schnauzers', 'Shelties', 'Shih Tzus', 'West Highland Terriers', 'Westies', 'Yellow Labs', 'Yorkshire Terriers', 'Jack Russell Terriers']
+109217001: PRODUCT_TYPE: Women's Necklaces & Pendants
+PRODUCT_TYPE_2 not found in props of code 109217001
+ARTIST not found in props of code 109217001
+OTHER_COUNTRY_PROD_ID not found in props of code 109217001
+scode not found in props of code 109217001
+109217001: Product_Types_TREE_fsearch: ["Women's Necklaces & Pendants"]
+109217001: Themes_TREE_fsearch: ['Animals', 'Animals', 'Dogs', 'Beagles', 'Dogs', 'Beagles', 'Animals', 'Dogs', 'Bichon Frises', 'Dogs', 'Bichon Frises', 'Animals', 'Dogs', 'Black Labs', 'Dogs', 'Black Labs', 'Animals', 'Dogs', 'Boston Terriers', 'Dogs', 'Boston Terriers', 'Animals', 'Dogs', 'Boxers', 'Dogs', 'Boxers', 'Animals', 'Dogs', 'Chihuahuas', 'Dogs', 'Chihuahuas', 'Animals', 'Dogs', 'Cocker Spaniels', 'Dogs', 'Cocker Spaniels', 'Animals', 'Dogs', 'Dachshunds', 'Dogs', 'Dachshunds', 'Animals', 'Dogs', 'Pets', 'Dogs', 'Dogs', 'Animals', 'Dogs', 'German Shepherds', 'Dogs', 'German Shepherds', 'Animals', 'Dogs', 'Golden Retrievers', 'Dogs', 'Golden Retrievers', 'Animals', 'Dogs', 'Miniature Pinschers', 'Dogs', 'Miniature Pinschers', 'Animals', 'Dogs', 'Pomeranians', 'Dogs', 'Pomeranians', 'Animals', 'Dogs', 'Poodles', 'Dogs', 'Poodles', 'Animals', 'Dogs', 'Pugs', 'Dogs', 'Pugs', 'Animals', 'Dogs', 'Schnauzers', 'Dogs', 'Schnauzers', 'Animals', 'Dogs', 'Shelties', 'Dogs', 'Shelties', 'Animals', 'Dogs', 'Shih Tzus', 'Dogs', 'Shih Tzus', 'Animals', 'Dogs', 'West Highland Terriers', 'Dogs', 'West Highland Terriers', 'Animals', 'Dogs', 'Yellow Labs', 'Dogs', 'Yellow Labs', 'Animals', 'Dogs', 'Yorkshire Terriers', 'Dogs', 'Yorkshire Terriers', 'Animals', 'Dogs', 'Jack Russell Terriers']

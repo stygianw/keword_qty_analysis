@@ -1,0 +1,932 @@
+---Endeca Only---
+--------- item: 119055001 ------------
+119055001: code: 119055001
+119055001: extprdid: 19055
+119055001: title: "Navy Pride" Stainless Steel Personalized Men's ID Bracelet
+119055001: SHORT_NAME: Navy Pride Personalized Men's Bracelet
+Product not found in props of code 119055001
+119055001: shortdesc: Bracelet: Navy Pride Personalized Men's Stainless Steel ID Bracelet
+119055001: FEATURE_VALUES: Stainless Steel
+119055001: keywords: United States
+119055001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119055001
+119055001: OTHER_COUNTRY_PROD_ID: None
+119055001: EMAIL_SUBJECT_TITLE: Personalized Navy Men's ID Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Navy', 'Patriotic']
+--------- item: 130840001 ------------
+130840001: code: 130840001
+130840001: extprdid: 130840007, 130840008, 130840009, 
+130840010, 130840011, 130840012, 130840013, 130840014, 130840015, 130840016, 130840017, 130840018, 130840019, 130840020, 130840021
+130840001: title: Corvette: The Legend Men's Bracelet And Ring Set
+130840001: SHORT_NAME: Corvette: The Legend Men's Bracelet And Ring Set
+Product not found in props of code 130840001
+130840001: shortdesc: Corvette: The Legend Men's Bracelet And Ring Set
+130840001: FEATURE_VALUES: Test
+130840001: keywords: Men's Rings
+130840001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130840001
+130840001: OTHER_COUNTRY_PROD_ID: None
+130840001: EMAIL_SUBJECT_TITLE: Corvette: The Legend Men's Bracelet And Ring Set
+Product Types: ["Men's Bracelets", "Men's Rings"]
+Themes not found in dimensions of code 130840001
+--------- item: 119062001 ------------
+119062001: code: 119062001
+extprdid not found in props of code 119062001
+119062001: title: U.S. Army Stainless Steel Personalized Men's ID Bracelet
+119062001: SHORT_NAME: U.S. Army Personalized Men's Bracelet
+Product not found in props of code 119062001
+119062001: shortdesc: Bracelet: Army Personalized Stainless Steel Men's Bracelet
+119062001: FEATURE_VALUES: Stainless Steel
+119062001: keywords: U.S. Armed Forces
+119062001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119062001
+119062001: OTHER_COUNTRY_PROD_ID: None
+119062001: EMAIL_SUBJECT_TITLE: Personalized Army Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Army', 'Patriotic']
+--------- item: 124063001 ------------
+124063001: code: 124063001
+extprdid not found in props of code 124063001
+124063001: title: My Grandson, My Pride, My Joy Personalized Diamond Bracelet
+124063001: SHORT_NAME: My Grandson, My Pride, My Joy Personalized Diamond Bracelet
+Product not found in props of code 124063001
+124063001: shortdesc: My Grandson, My Pride, My Joy Personalized Diamond Leather Bracelet
+124063001: FEATURE_VALUES: Stainless Steel
+124063001: keywords: Stainless Steel
+124063001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 124063001
+124063001: OTHER_COUNTRY_PROD_ID: None
+124063001: EMAIL_SUBJECT_TITLE: Personalized Diamond Bracelet for Grandsons
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 124063001
+--------- item: 121954001 ------------
+121954001: code: 121954001
+extprdid not found in props of code 121954001
+121954001: title: "Corvette: An American Legend" Men's Leather Logo Bracelet
+121954001: SHORT_NAME: Corvette: An American Legend Men's Bracelet
+Product not found in props of code 121954001
+121954001: shortdesc: Corvette: An American Legend Men's Leather And Stainless Steel Bracelet
+121954001: FEATURE_VALUES: Stainless Steel
+121954001: keywords: silver jewelry
+121954001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121954001
+121954001: OTHER_COUNTRY_PROD_ID: None
+121954001: EMAIL_SUBJECT_TITLE: Corvette Men's Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 121954001
+--------- item: 113357001 ------------
+113357001: code: 113357001
+113357001: extprdid: /35700, /13357
+113357001: title: Indianapolis Colts Men's Stainless Steel Bracelet
+113357001: SHORT_NAME: Indianapolis Colts Men's Bracelet
+Product not found in props of code 113357001
+113357001: shortdesc: NFL Indianapolis Colts Men's Stainless Steel Bracelet
+113357001: FEATURE_VALUES: Stainless Steel
+113357001: keywords: Sports
+113357001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 113357001
+113357001: OTHER_COUNTRY_PROD_ID: None
+113357001: EMAIL_SUBJECT_TITLE: Colts Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Indianapolis Colts', 'Indianapolis Colts']
+--------- item: 122617001 ------------
+122617001: code: 122617001
+extprdid not found in props of code 122617001
+122617001: title: "United By Love" Personalized Leather Bracelet For Fathers
+122617001: SHORT_NAME: United By Love Personalized Men's Diamond Bracelet
+Product not found in props of code 122617001
+122617001: shortdesc: United By Love Personalized Men's Diamond Leather Bracelet
+122617001: FEATURE_VALUES: Stainless Steel
+122617001: keywords: silver jewelry
+122617001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122617001
+122617001: OTHER_COUNTRY_PROD_ID: None
+122617001: EMAIL_SUBJECT_TITLE: Personalized Diamond Bracelet for Fathers
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 122617001
+--------- item: 119569001 ------------
+119569001: code: 119569001
+119569001: extprdid: 19569
+119569001: title: "Duty, Honor & Courage" Firefighter Custom-Engraved Bracelet
+119569001: SHORT_NAME: Duty, Honor & Courage Personalized Bracelet
+Product not found in props of code 119569001
+119569001: shortdesc: Bracelet: Duty, Honor & Courage Firefighter's Personalized Stainless Steel Bracelet
+119569001: FEATURE_VALUES: Stainless Steel
+119569001: keywords: Stainless Steel
+119569001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119569001
+119569001: OTHER_COUNTRY_PROD_ID: None
+119569001: EMAIL_SUBJECT_TITLE: Personalized Firefighter Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Firefighters', 'Firefighters']
+--------- item: 116042002 ------------
+116042002: code: 116042002
+extprdid not found in props of code 116042002
+116042002: title: "American Pride" Black Ion-Plated Sculpted Men's Bracelet
+116042002: SHORT_NAME: American Pride Men's Bracelet
+Product not found in props of code 116042002
+116042002: shortdesc: American Pride God Bless America Stainless Steel Men's Bracelet
+116042002: FEATURE_VALUES: Stainless Steel
+116042002: keywords: silver jewelry
+116042002: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 116042002
+116042002: OTHER_COUNTRY_PROD_ID: None
+116042002: EMAIL_SUBJECT_TITLE: Patriotic Eagle And Flag Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 116633001 ------------
+116633001: code: 116633001
+116633001: extprdid: /16633
+116633001: title: Personalized, Engraved Stainless Steel Bracelet For Grandson
+116633001: SHORT_NAME: My Grandson, My Pride, My Joy Personalized Bracelet
+Product not found in props of code 116633001
+116633001: shortdesc: Personalized Bracelet: My Grandson, My Pride, My Joy
+116633001: FEATURE_VALUES: Stainless Steel
+116633001: keywords: promotion 8314
+116633001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 116633001
+116633001: OTHER_COUNTRY_PROD_ID: None
+116633001: EMAIL_SUBJECT_TITLE: Personalized Bracelet for Grandson
+Product Types: ["Men's Bracelets"]
+Themes: ['Birthdays', 'Inspirational']
+--------- item: 120544001 ------------
+120544001: code: 120544001
+extprdid not found in props of code 120544001
+120544001: title: "USMC Semper Fi" Personalized Men's ID Bracelet
+120544001: SHORT_NAME: USMC Semper Fi Personalized Men's Bracelet
+Product not found in props of code 120544001
+120544001: shortdesc: USMC Semper Fi Personalized Men's Braided Black Leather ID Bracelet
+120544001: FEATURE_VALUES: Stainless Steel
+120544001: keywords: silver jewelry
+120544001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120544001
+120544001: OTHER_COUNTRY_PROD_ID: None
+120544001: EMAIL_SUBJECT_TITLE: USMC Men's Monogrammed Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Marines', 'Marines', 'Patriotic']
+--------- item: 119127002 ------------
+119127002: code: 119127002
+119127002: extprdid: 19127
+119127002: title: "Always, My Son" Initials-Engraved Men's Bracelet
+119127002: SHORT_NAME: Always, My Son Personalized Men's Bracelet
+Product not found in props of code 119127002
+119127002: shortdesc: Men's Bracelet: Always, My Son Personalized Men's Bracelet
+119127002: FEATURE_VALUES: Stainless Steel
+119127002: keywords: karat gold
+119127002: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119127002
+119127002: OTHER_COUNTRY_PROD_ID: None
+119127002: EMAIL_SUBJECT_TITLE: Men's Bracelet for Son
+Product Types: ["Men's Bracelets"]
+Themes: ['First Communion', 'Graduation']
+--------- item: 130051001 ------------
+130051001: code: 130051001
+extprdid not found in props of code 130051001
+130051001: title: "Dream Big, My Son" Flex-Chain Bracelet With White Sapphire
+130051001: SHORT_NAME: Dream Big, My Son Men's Bracelet
+Product not found in props of code 130051001
+130051001: shortdesc: Dream Big, My Son Men's Flex-Chain Bracelet With Etched Star & Set With A Genuine White Sapphire
+130051001: FEATURE_VALUES: Test
+130051001: keywords: Men's Bracelet
+130051001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 130051001
+130051001: OTHER_COUNTRY_PROD_ID: None
+130051001: EMAIL_SUBJECT_TITLE: Inspirational Chain and Sapphire Bracelet for Son
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 130051001
+--------- item: 117180001 ------------
+117180001: code: 117180001
+117180001: extprdid: /17180
+117180001: title: Ohio State Buckeyes Men's Stainless Steel Bracelet
+117180001: SHORT_NAME: OSU Buckeyes Men's Bracelet
+Product not found in props of code 117180001
+117180001: shortdesc: Ohio State Buckeyes Stainless Steel Men's Bracelet
+117180001: FEATURE_VALUES: Stainless Steel
+117180001: keywords: Sports
+117180001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 117180001
+117180001: OTHER_COUNTRY_PROD_ID: None
+117180001: EMAIL_SUBJECT_TITLE: Ohio State Buckeyes Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Graduation', 'Ohio State Buckeyes', 'Ohio State Buckeyes']
+--------- item: 126666001 ------------
+126666001: code: 126666001
+extprdid not found in props of code 126666001
+126666001: title: Nature's Healing Strength Men's Copper And Diamond Bracelet
+126666001: SHORT_NAME: Nature's Healing Strength Diamond Bracelet
+Product not found in props of code 126666001
+126666001: shortdesc: Nature's Healing Strength Copper And Diamond Men's Bracelet
+126666001: FEATURE_VALUES: Men's
+126666001: keywords: men's
+126666001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126666001
+126666001: OTHER_COUNTRY_PROD_ID: None
+126666001: EMAIL_SUBJECT_TITLE: Men's Copper and Diamond Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Anniversary', 'Birthdays']
+--------- item: 128225001 ------------
+128225001: code: 128225001
+extprdid not found in props of code 128225001
+128225001: title: "My Son, My Pride, My Joy" Monogrammed Son Bracelet
+128225001: SHORT_NAME: My Son, My Pride, My Joy Personalized Men's Bracelet
+Product not found in props of code 128225001
+128225001: shortdesc: My Son, My Pride, My Joy Personalized Men's Stainless Steel Bracelet
+128225001: FEATURE_VALUES: Test
+128225001: keywords: White Sapphire
+128225001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128225001
+128225001: OTHER_COUNTRY_PROD_ID: None
+128225001: EMAIL_SUBJECT_TITLE: Personalized Men's Monogram Bracelet for Son
+Product Types: ["Men's Bracelets"]
+Themes: ['Birthdays']
+--------- item: 123272001 ------------
+123272001: code: 123272001
+extprdid not found in props of code 123272001
+123272001: title: "Untamed American Spirit" Ford Mustang Leather Bracelet
+123272001: SHORT_NAME: Untamed American Spirit Men's Bracelet
+Product not found in props of code 123272001
+123272001: shortdesc: Untamed American Spirit Men's Ford Mustang Bracelet
+123272001: FEATURE_VALUES: Stainless Steel
+123272001: keywords: men's jewelry
+123272001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123272001
+123272001: OTHER_COUNTRY_PROD_ID: None
+123272001: EMAIL_SUBJECT_TITLE: Ford Mustang Men's Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 123272001
+--------- item: 125762001 ------------
+125762001: code: 125762001
+extprdid not found in props of code 125762001
+125762001: title: "Western Pride" Braided Leather Bracelet With White Topaz
+125762001: SHORT_NAME: Western Pride Bracelet
+Product not found in props of code 125762001
+125762001: shortdesc: Western Pride Leather Bracelet
+125762001: FEATURE_VALUES: Topaz
+125762001: keywords: White Topaz
+125762001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 125762001
+125762001: OTHER_COUNTRY_PROD_ID: None
+125762001: EMAIL_SUBJECT_TITLE: Western Pride Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 125762001
+--------- item: 121238001 ------------
+121238001: code: 121238001
+extprdid not found in props of code 121238001
+121238001: title: U.S. Army Customized Leather And Stainless Steel Bracelet
+121238001: SHORT_NAME: U.S. Army Personalized Men's Bracelet
+Product not found in props of code 121238001
+121238001: shortdesc: U.S. Army Personalized Men's Stainless Steel Leather Bracelet
+121238001: FEATURE_VALUES: Stainless Steel
+121238001: keywords: silver jewelry
+121238001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121238001
+121238001: OTHER_COUNTRY_PROD_ID: None
+121238001: EMAIL_SUBJECT_TITLE: Army Strong Personalized Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Army', 'Patriotic']
+--------- item: 117195001 ------------
+117195001: code: 117195001
+117195001: extprdid: /17195
+117195001: title: Miami Dolphins Men's Stainless Steel Bracelet
+117195001: SHORT_NAME: Miami Dolphins Men's Bracelet
+Product not found in props of code 117195001
+117195001: shortdesc: NFL Miami Dolphins Stainless Steel Men's Bracelet
+117195001: FEATURE_VALUES: Stainless Steel
+117195001: keywords: Sports
+117195001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 117195001
+117195001: OTHER_COUNTRY_PROD_ID: None
+117195001: EMAIL_SUBJECT_TITLE: Miami Dolphins Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Miami Dolphins', 'Miami Dolphins']
+--------- item: 128216001 ------------
+128216001: code: 128216001
+extprdid not found in props of code 128216001
+128216001: title: "Strength Of Faith" Black Sapphire Bracelet For Son
+128216001: SHORT_NAME: Strength Of Faith Men's Bracelet
+Product not found in props of code 128216001
+128216001: shortdesc: Strength Of Faith Men's Religious Stainless Steel Bracelet Etched With A Diamond-Shaped Cross & Set With A Genuine Black Sapphire
+128216001: FEATURE_VALUES: Test
+128216001: keywords: Religious
+128216001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 128216001
+128216001: OTHER_COUNTRY_PROD_ID: None
+128216001: EMAIL_SUBJECT_TITLE: Inspirational Stainless Steel Bracelet for Son
+Product Types: ["Men's Bracelets"]
+Themes: ['Inspirational', 'Religious']
+--------- item: 117201001 ------------
+117201001: code: 117201001
+117201001: extprdid: /17201
+117201001: title: Baltimore Ravens Men's Stainless Steel Bracelet
+117201001: SHORT_NAME: Baltimore Ravens Men's Bracelet
+Product not found in props of code 117201001
+117201001: shortdesc: NFL Baltimore Ravens Stainless Steel Men's Bracelet
+117201001: FEATURE_VALUES: Stainless Steel
+117201001: keywords: Sports
+117201001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 117201001
+117201001: OTHER_COUNTRY_PROD_ID: None
+117201001: EMAIL_SUBJECT_TITLE: Baltimore Ravens Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Baltimore Ravens', 'Baltimore Ravens']
+--------- item: 125737001 ------------
+125737001: code: 125737001
+extprdid not found in props of code 125737001
+125737001: title: The Triumph Of St. Michael Stainless Steel Leather Bracelet
+125737001: SHORT_NAME: The Triumph Of St. Michael Bracelet
+Product not found in props of code 125737001
+125737001: shortdesc: The Triumph Of St. Michael Stainless Steel Leather Bracelet
+125737001: FEATURE_VALUES: Stainless Steel
+125737001: keywords: men's jewelry
+125737001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 125737001
+125737001: OTHER_COUNTRY_PROD_ID: None
+125737001: EMAIL_SUBJECT_TITLE: St. Michael Religious Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Religious']
+--------- item: 121020001 ------------
+121020001: code: 121020001
+extprdid not found in props of code 121020001
+121020001: title: "Power Of Faith" Men's Engraved Copper And Diamond Bracelet
+121020001: SHORT_NAME: Power Of Faith Men's Diamond Bracelet
+Product not found in props of code 121020001
+121020001: shortdesc: Power Of Faith Men's Copper Healing Diamond Bracelet
+121020001: FEATURE_VALUES: Sterling Silver
+121020001: keywords: men's jewelry
+121020001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121020001
+121020001: OTHER_COUNTRY_PROD_ID: None
+121020001: EMAIL_SUBJECT_TITLE: Men's Religious Copper and Diamond Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Religious', 'Wedding Day']
+--------- item: 120527001 ------------
+120527001: code: 120527001
+120527001: extprdid: 20527
+120527001: title: "Protection And Strength For My Grandson" Religious Bracelet
+120527001: SHORT_NAME: Protection And Strength For My Grandson Men's Bracelet
+Product not found in props of code 120527001
+120527001: shortdesc: Bracelet: Protection And Strength For My Grandson Men's Leather And Steel Bracelet
+120527001: FEATURE_VALUES: Stainless Steel
+120527001: keywords: graduation gifts
+120527001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120527001
+120527001: OTHER_COUNTRY_PROD_ID: None
+120527001: EMAIL_SUBJECT_TITLE: Religious Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Birthdays', 'First Communion', 'Graduation']
+--------- item: 125005001 ------------
+125005001: code: 125005001
+extprdid not found in props of code 125005001
+125005001: title: Dallas Cowboys Personalized Diamond ID Bracelet
+125005001: SHORT_NAME: Cowboys Diamond Personalized Bracelet
+Product not found in props of code 125005001
+125005001: shortdesc: Cowboys Diamond Personalized Stainless Steel Bracelet
+125005001: FEATURE_VALUES: Personalized
+125005001: keywords: men's jewelry
+125005001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 125005001
+125005001: OTHER_COUNTRY_PROD_ID: None
+125005001: EMAIL_SUBJECT_TITLE: Dallas Cowboys Personalized Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Dallas Cowboys', 'Dallas Cowboys']
+--------- item: 120641003 ------------
+120641003: code: 120641003
+extprdid not found in props of code 120641003
+120641003: title: Choose Your Finish: Men's Chain Necklace And Bracelet Set
+120641003: SHORT_NAME: The Connoisseur Necklace And Bracelet Set
+Product not found in props of code 120641003
+120641003: shortdesc: The Connoisseur Men's Chain Necklace And Bracelet Set
+120641003: FEATURE_VALUES: Sets
+120641003: keywords: Promotion 10279
+120641003: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120641003
+120641003: OTHER_COUNTRY_PROD_ID: None
+120641003: EMAIL_SUBJECT_TITLE: Men's Necklace and Bracelet Set: Choice of Finish
+Product Types: ["Men's Necklaces & Pendants"]
+Themes not found in dimensions of code 120641003
+--------- item: 116991001 ------------
+116991001: code: 116991001
+116991001: extprdid: 16991
+116991001: title: "Protection And Strength For My Son" Religious Bracelet
+116991001: SHORT_NAME: Protection And Strength For My Son Men's Bracelet
+Product not found in props of code 116991001
+116991001: shortdesc: Bracelet: Protection And Strength For My Son Leather And Steel Cross Men's Bracelet
+116991001: FEATURE_VALUES: Stainless Steel
+116991001: keywords: Stainless Steel
+116991001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 116991001
+116991001: OTHER_COUNTRY_PROD_ID: None
+116991001: EMAIL_SUBJECT_TITLE: Religious Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['First Communion', 'Graduation']
+--------- item: 113552003 ------------
+113552003: code: 113552003
+extprdid not found in props of code 113552003
+113552003: title: "Forge Your Own Path, My Son" Engraved Stainless Bracelet
+113552003: SHORT_NAME: Forge Your Own Path, My Son Bracelet
+Product not found in props of code 113552003
+113552003: shortdesc: Men's Bracelet: Forge Your Own Path, My Son Bracelet
+113552003: FEATURE_VALUES: Stainless Steel
+113552003: keywords: graduation gifts
+113552003: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 113552003
+113552003: OTHER_COUNTRY_PROD_ID: None
+113552003: EMAIL_SUBJECT_TITLE: Men's Stainless Steel Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Graduation', 'Inspirational']
+--------- item: 118868001 ------------
+118868001: code: 118868001
+extprdid not found in props of code 118868001
+118868001: title: "Optimum" Men's Titanium Magnetic Monogrammed Bracelet
+118868001: SHORT_NAME: Optimum Personalized Men's Bracelet
+Product not found in props of code 118868001
+118868001: shortdesc: Optimum Personalized Men's Titanium Magnetic ID Bracelet
+118868001: FEATURE_VALUES: Personalized
+118868001: keywords: silver jewelry
+118868001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 118868001
+118868001: OTHER_COUNTRY_PROD_ID: None
+118868001: EMAIL_SUBJECT_TITLE: Personalized Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Wedding Day']
+--------- item: 121265001 ------------
+121265001: code: 121265001
+extprdid not found in props of code 121265001
+121265001: title: "Spirit Of The Wilderness" Men's Bracelet With Wolf Art
+121265001: SHORT_NAME: Spirit Of The Wilderness Men's Bracelet
+Product not found in props of code 121265001
+121265001: shortdesc: Spirit Of The Wilderness Howling Wolf Men's Leather Bracelet With Magnetic Clasp
+121265001: FEATURE_VALUES: Stainless Steel
+121265001: keywords: silver jewelry
+121265001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121265001
+121265001: OTHER_COUNTRY_PROD_ID: None
+121265001: EMAIL_SUBJECT_TITLE: Wolf Art Leather and Steel Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Wolves', 'Wolves', 'Wolves']
+--------- item: 123332001 ------------
+123332001: code: 123332001
+extprdid not found in props of code 123332001
+123332001: title: Personalized Medical Alert Stainless Steel Men's Bracelet
+123332001: SHORT_NAME: Medical Alert Personalized Men's Bracelet
+Product not found in props of code 123332001
+123332001: shortdesc: Medical Alert Personalized Stainless Steel Men's Bracelet
+123332001: FEATURE_VALUES: Stainless Steel
+123332001: keywords: men's jewelry
+123332001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123332001
+123332001: OTHER_COUNTRY_PROD_ID: None
+123332001: EMAIL_SUBJECT_TITLE: Personalized Medical Alert Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 123332001
+--------- item: 121233001 ------------
+121233001: code: 121233001
+extprdid not found in props of code 121233001
+121233001: title: U.S. Navy Men's Leather Bracelet Personalized With Initials
+121233001: SHORT_NAME: U.S. Navy Personalized Men's Bracelet
+Product not found in props of code 121233001
+121233001: shortdesc: U.S. Navy Personalized Men's Leather ID Bracelet
+121233001: FEATURE_VALUES: Stainless Steel
+121233001: keywords: silver jewelry
+121233001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121233001
+121233001: OTHER_COUNTRY_PROD_ID: None
+121233001: EMAIL_SUBJECT_TITLE: Personalized Navy Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Navy', 'Patriotic']
+--------- item: 120768001 ------------
+120768001: code: 120768001
+120768001: extprdid: 20768
+120768001: title: "Foundation Of Faith" Men's Sapphire Bracelet
+120768001: SHORT_NAME: Foundation Of Faith Men's Bracelet
+Product not found in props of code 120768001
+120768001: shortdesc: Bracelet: Foundation Of Faith Stainless Steel & Leather Braided Cross Men's Bracelet
+120768001: FEATURE_VALUES: Stainless Steel
+120768001: keywords: Stainless Steel
+120768001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120768001
+120768001: OTHER_COUNTRY_PROD_ID: None
+120768001: EMAIL_SUBJECT_TITLE: Christian Cross Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Religious', 'Wedding Day']
+--------- item: 120427001 ------------
+120427001: code: 120427001
+extprdid not found in props of code 120427001
+120427001: title: "Dressed To Thrill" Stainless Steel Diamond Men's Bracelet
+120427001: SHORT_NAME: Dressed To Thrill Diamond Men's Bracelet
+Product not found in props of code 120427001
+120427001: shortdesc: Bracelet: Dressed To Thrill Diamond Men's Bracelet
+120427001: FEATURE_VALUES: Stainless Steel
+120427001: keywords: men's jewelry
+120427001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120427001
+120427001: OTHER_COUNTRY_PROD_ID: None
+120427001: EMAIL_SUBJECT_TITLE: Stainless Steel Diamond Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Anniversary', 'Birthdays', 'Wedding Day']
+--------- item: 124237001 ------------
+124237001: code: 124237001
+extprdid not found in props of code 124237001
+124237001: title: U.S. Coast Guard Customized Leather and Steel Men's Bracelet
+124237001: SHORT_NAME: U.S. Coast Guard Personalized Men's Bracelet
+Product not found in props of code 124237001
+124237001: shortdesc: U.S. Coast Guard Personalized Men's Magnetic Clasp Leather Bracelet
+124237001: FEATURE_VALUES: Stainless Steel
+124237001: keywords: men's jewelry
+124237001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 124237001
+124237001: OTHER_COUNTRY_PROD_ID: None
+124237001: EMAIL_SUBJECT_TITLE: US Coast Guard Personalized Men's Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Coast Guard', 'Patriotic']
+--------- item: 111979002 ------------
+111979002: code: 111979002
+111979002: extprdid: 119792
+111979002: title: Thomas Kinkade "Colors Of Venice" Art-Glass Beaded Necklace
+111979002: SHORT_NAME: Thomas Kinkade Colors Of Venice Necklace
+Product not found in props of code 111979002
+111979002: shortdesc: Necklace: Thomas Kinkade Colors Of Venice Murano-Style Glass Necklace
+111979002: FEATURE_VALUES: Women's
+111979002: keywords: beads
+111979002: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 111979002
+111979002: OTHER_COUNTRY_PROD_ID: None
+111979002: EMAIL_SUBJECT_TITLE: Thomas Kinkade Art Glass Bracelet
+Product Types: ["Women's Necklaces & Pendants"]
+Themes: ['Thomas Kinkade']
+--------- item: 119986002 ------------
+119986002: code: 119986002
+extprdid not found in props of code 119986002
+119986002: title: Tiger's Eye Engraved Men's Bracelet Ion Plated With 24K Gold
+119986002: SHORT_NAME: Tiger's Eye Men's Bracelet
+Product not found in props of code 119986002
+119986002: shortdesc: Unleash The Power Of The Tiger's Eye Men's Bracelet
+119986002: FEATURE_VALUES: Stainless Steel
+119986002: keywords: men's jewelry
+119986002: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 119986002
+119986002: OTHER_COUNTRY_PROD_ID: None
+119986002: EMAIL_SUBJECT_TITLE: Tiger's Eye Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 119986002
+--------- item: 126855001 ------------
+126855001: code: 126855001
+extprdid not found in props of code 126855001
+126855001: title: "Strength For My Son" Personalized Stainless Steel Bracelet
+126855001: SHORT_NAME: Strength For My Son Personalized Men's Bracelet
+Product not found in props of code 126855001
+126855001: shortdesc: Strength For My Son Personalized Stainless Steel Men's Bracelet
+126855001: FEATURE_VALUES: Stainless Steel
+126855001: keywords: Strength
+126855001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126855001
+126855001: OTHER_COUNTRY_PROD_ID: None
+126855001: EMAIL_SUBJECT_TITLE: Personalized Men's Bracelet for Sons
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 126855001
+--------- item: 122607001 ------------
+122607001: code: 122607001
+extprdid not found in props of code 122607001
+122607001: title: Dear Father Diamond Bracelet Etched With Loved Ones' Names
+122607001: SHORT_NAME: Today, Tomorrow, Always Father Personalized Diamond Bracelet
+Product not found in props of code 122607001
+122607001: shortdesc: Today, Tomorrow And Always Dear Father Personalized Diamond Stainless Steel Bracelet
+122607001: FEATURE_VALUES: Stainless Steel
+122607001: keywords: men's jewelry
+122607001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122607001
+122607001: OTHER_COUNTRY_PROD_ID: None
+122607001: EMAIL_SUBJECT_TITLE: Personalized Diamond Bracelet for Father
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 122607001
+--------- item: 124957001 ------------
+124957001: code: 124957001
+extprdid not found in props of code 124957001
+124957001: title: Men's Leather Bracelet Personalized With Monogram: Choose Your Design
+124957001: SHORT_NAME: Personalized Men's Bracelet
+Product not found in props of code 124957001
+124957001: shortdesc: Personalized Men's Leather Bracelet
+124957001: FEATURE_VALUES: Personalized
+124957001: keywords: men's jewelry
+124957001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 124957001
+124957001: OTHER_COUNTRY_PROD_ID: None
+124957001: EMAIL_SUBJECT_TITLE: Personalized Men's Leather Bracelet for Wedding
+Product Types: ["Men's Bracelets"]
+Themes: ['Groom', 'Wedding Day', 'Wedding Party', 'Weddings & Engagements']
+--------- item: 114332001 ------------
+114332001: code: 114332001
+114332001: extprdid: /33200, /14332
+114332001: title: Pittsburgh Steelers Men's Stainless Steel Bracelet
+114332001: SHORT_NAME: Pittsburgh Steelers Men's Bracelet
+Product not found in props of code 114332001
+114332001: shortdesc: NFL Pittsburgh Steelers Men's Stainless Steel Bracelet
+114332001: FEATURE_VALUES: Swarovski Crystals
+114332001: keywords: Steelers
+114332001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 114332001
+114332001: OTHER_COUNTRY_PROD_ID: None
+114332001: EMAIL_SUBJECT_TITLE: Pittsburgh Steelers Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Pittsburgh Steelers', 'Pittsburgh Steelers']
+--------- item: 122452001 ------------
+122452001: code: 122452001
+extprdid not found in props of code 122452001
+122452001: title: Always My Son Diamond Bracelet Etched With Name & Sentiment
+122452001: SHORT_NAME: Today, Tomorrow, Always My Son Personalized Diamond Bracelet
+Product not found in props of code 122452001
+122452001: shortdesc: Today, Tomorrow And Always My Son Personalized Diamond Stainless Steel Bracelet
+122452001: FEATURE_VALUES: Stainless Steel
+122452001: keywords: men's jewelry
+122452001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122452001
+122452001: OTHER_COUNTRY_PROD_ID: None
+122452001: EMAIL_SUBJECT_TITLE: Personalized Diamond Bracelet for Son
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 122452001
+--------- item: 120304001 ------------
+120304001: code: 120304001
+120304001: extprdid: 20304
+120304001: title: "Personal Statement" Monogrammed Black Sapphire Bracelet
+120304001: SHORT_NAME: Personal Statement Personalized Men's Bracelet
+Product not found in props of code 120304001
+120304001: shortdesc: Bracelet: Personal Statement Personalized Men's Braided Bracelet
+120304001: FEATURE_VALUES: Stainless Steel
+120304001: keywords: Stainless Steel
+120304001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 120304001
+120304001: OTHER_COUNTRY_PROD_ID: None
+120304001: EMAIL_SUBJECT_TITLE: Personalized Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Groom', 'Wedding Day']
+--------- item: 116917001 ------------
+116917001: code: 116917001
+116917001: extprdid: /16917
+116917001: title: Wisconsin Badgers Men's Stainless Steel Bracelet
+116917001: SHORT_NAME: Wisconsin Badgers Men's Bracelet
+Product not found in props of code 116917001
+116917001: shortdesc: Wisconsin Badgers Stainless Steel Men's Bracelet
+116917001: FEATURE_VALUES: Stainless Steel
+116917001: keywords: Wisconsin Badgers
+116917001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 116917001
+116917001: OTHER_COUNTRY_PROD_ID: None
+116917001: EMAIL_SUBJECT_TITLE: Wisconsin Badgers Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Graduation', 'Wisconsin Badgers', 'Wisconsin Badgers']
+--------- item: 121534001 ------------
+121534001: code: 121534001
+extprdid not found in props of code 121534001
+121534001: title: "Ride The Wind" Leather Bracelet With Sculpted Motorcycle
+121534001: SHORT_NAME: Ride The Wind Men's Bracelet
+Product not found in props of code 121534001
+121534001: shortdesc: Ride The Wind Men's Leather And Stainless Steel Bracelet
+121534001: FEATURE_VALUES: Stainless Steel
+121534001: keywords: Stainless Steel
+121534001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121534001
+121534001: OTHER_COUNTRY_PROD_ID: None
+121534001: EMAIL_SUBJECT_TITLE: Men's Leather Motorcycle Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Motorcycles']
+--------- item: 122216001 ------------
+122216001: code: 122216001
+extprdid not found in props of code 122216001
+122216001: title: My Son, My Pride, My Joy Personalized Leather Men's Bracelet
+122216001: SHORT_NAME: My Son, My Pride, My Joy Personalized Men's Bracelet
+Product not found in props of code 122216001
+122216001: shortdesc: My Son, My Pride, My Joy Personalized Leather And Stainless Steel Bracelet
+122216001: FEATURE_VALUES: Stainless Steel
+122216001: keywords: silver jewelry
+122216001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122216001
+122216001: OTHER_COUNTRY_PROD_ID: None
+122216001: EMAIL_SUBJECT_TITLE: Personalized Men's Bracelet for Sons
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 122216001
+--------- item: 117191001 ------------
+117191001: code: 117191001
+117191001: extprdid: /17191
+117191001: title: Denver Broncos Men's Stainless Steel Bracelet
+117191001: SHORT_NAME: Denver Broncos Men's Bracelet
+Product not found in props of code 117191001
+117191001: shortdesc: NFL Denver Broncos Stainless Steel Men's Bracelet
+117191001: FEATURE_VALUES: Stainless Steel
+117191001: keywords: Sports
+117191001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 117191001
+117191001: OTHER_COUNTRY_PROD_ID: None
+117191001: EMAIL_SUBJECT_TITLE: Denver Broncos Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Denver Broncos', 'Denver Broncos']
+--------- item: 124815001 ------------
+124815001: code: 124815001
+extprdid not found in props of code 124815001
+124815001: title: "Master Of The Sky" Sculpted Eagle Men's Leather Bracelet
+124815001: SHORT_NAME: Master Of The Sky Men's Bracelet
+Product not found in props of code 124815001
+124815001: shortdesc: Master Of The Sky Men's Sculpted Eagle Bracelet
+124815001: FEATURE_VALUES: Sterling Silver
+124815001: keywords: men's jewelry
+124815001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 124815001
+124815001: OTHER_COUNTRY_PROD_ID: None
+124815001: EMAIL_SUBJECT_TITLE: Sculpted Eagle Men's Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 1700859001 ------------
+1700859001: code: 1700859001
+extprdid not found in props of code 1700859001
+1700859001: title: Morgan Silver Dollar Eagle Ingot Men's Bracelet
+1700859001: SHORT_NAME: The Morgan Silver Ingot Men's Bracelet
+Product not found in props of code 1700859001
+1700859001: shortdesc: The Morgan Silver Ingot Men's Eagle Bracelet
+1700859001: FEATURE_VALUES: Silver
+1700859001: keywords: silver jewelry
+1700859001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1700859001
+1700859001: OTHER_COUNTRY_PROD_ID: None
+1700859001: EMAIL_SUBJECT_TITLE: Morgan Silver Ingot Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles']
+--------- item: 122316001 ------------
+122316001: code: 122316001
+extprdid not found in props of code 122316001
+122316001: title: "Reach For The Stars" Meteorite Men's Bracelet For Son
+122316001: SHORT_NAME: Reach For The Stars Men's Bracelet
+Product not found in props of code 122316001
+122316001: shortdesc: Reach For The Stars Men's Stainless Steel Meteorite Bracelet
+122316001: FEATURE_VALUES: Stainless Steel
+122316001: keywords: silver jewelry
+122316001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122316001
+122316001: OTHER_COUNTRY_PROD_ID: None
+122316001: EMAIL_SUBJECT_TITLE: Meteorite Men's Bracelet for Son
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 122316001
+--------- item: 1701307001 ------------
+1701307001: code: 1701307001
+extprdid not found in props of code 1701307001
+1701307001: title: The Genuine Copper Penny Men's Stainless Steel Bracelet
+1701307001: SHORT_NAME: The Genuine Copper Penny Men's Bracelet
+Product not found in props of code 1701307001
+1701307001: shortdesc: The Genuine Copper Penny Men’s Stainless Steel Bracelet 
+1701307001: FEATURE_VALUES: Men's
+1701307001: keywords: copper bracelet
+1701307001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701307001
+1701307001: OTHER_COUNTRY_PROD_ID: None
+1701307001: EMAIL_SUBJECT_TITLE: Genuine Copper Penny Stainless Steel Bracelet
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 1701307001
+--------- item: 127073001 ------------
+127073001: code: 127073001
+extprdid not found in props of code 127073001
+127073001: title: "Indian Motorcycle Legacy" Men's Leather Logo Bracelet
+127073001: SHORT_NAME: Indian Motorcycle Legacy Men's Bracelet
+Product not found in props of code 127073001
+127073001: shortdesc: Indian Motorcycle Legacy Men's Leather Bracelet
+127073001: FEATURE_VALUES: Stainless Steel
+127073001: keywords: Stainless Steel
+127073001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 127073001
+127073001: OTHER_COUNTRY_PROD_ID: None
+127073001: EMAIL_SUBJECT_TITLE: Indian Motorcycle Men's Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Motorcycles']
+--------- item: 111247001 ------------
+111247001: code: 111247001
+111247001: extprdid: /11247
+111247001: title: Personalized, Engraved Stainless Steel Bracelet For Son
+111247001: SHORT_NAME: My Son, My Pride, My Joy Personalized Men's Bracelet
+Product not found in props of code 111247001
+111247001: shortdesc: My Son, My Pride, My Joy Personalized Men's Stainless Steel Bracelet
+111247001: FEATURE_VALUES: Stainless Steel
+111247001: keywords: promotion 8314
+111247001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 111247001
+111247001: OTHER_COUNTRY_PROD_ID: None
+111247001: EMAIL_SUBJECT_TITLE: Personalized ID Bracelet for Son
+Product Types: ["Men's Bracelets"]
+Themes: ['Birthdays']
+--------- item: 1701324001 ------------
+1701324001: code: 1701324001
+extprdid not found in props of code 1701324001
+1701324001: title: The Genuine Steel Penny Men's Stainless Steel Bracelet
+1701324001: SHORT_NAME: The Genuine Steel Penny Men's Bracelet
+Product not found in props of code 1701324001
+1701324001: shortdesc: The Genuine WWII Steel Penny Men’s Stainless Steel Bracelet
+1701324001: FEATURE_VALUES: Stainless Steel
+1701324001: keywords: WWII currency
+1701324001: MANUFACTURER: Bradford Authenticated
+artist not found in props of code 1701324001
+1701324001: OTHER_COUNTRY_PROD_ID: None
+1701324001: EMAIL_SUBJECT_TITLE: Genuine Steel Penny Men's Stainless Steel Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Patriotic']
+--------- item: 123699001 ------------
+123699001: code: 123699001
+extprdid not found in props of code 123699001
+123699001: title: "In The Line Of Duty" Firefighter Men's Leather Bracelet
+123699001: SHORT_NAME: In The Line Of Duty Men's Bracelet
+Product not found in props of code 123699001
+123699001: shortdesc: In The Line Of Duty Firefighter Men's Leather Bracelet
+123699001: FEATURE_VALUES: Stainless Steel
+123699001: keywords: men's jewelry
+123699001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123699001
+123699001: OTHER_COUNTRY_PROD_ID: None
+123699001: EMAIL_SUBJECT_TITLE: Firefighter Maltese Cross Men's Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Firefighters', 'Firefighters']
+--------- item: 122612001 ------------
+122612001: code: 122612001
+extprdid not found in props of code 122612001
+122612001: title: Always My Love Diamond Men's Bracelet Etched With Sentiment
+122612001: SHORT_NAME: Today, Tomorrow And Always My Love Diamond Bracelet
+Product not found in props of code 122612001
+122612001: shortdesc: Today, Tomorrow And Always My Love Diamond Stainless Steel Bracelet
+122612001: FEATURE_VALUES: Stainless Steel
+122612001: keywords: men's jewelry
+122612001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 122612001
+122612001: OTHER_COUNTRY_PROD_ID: None
+122612001: EMAIL_SUBJECT_TITLE: Romantic Personalized Diamond Bracelet for Him
+Product Types: ["Men's Bracelets"]
+Themes: ['Anniversary', 'Groom', 'Wedding Day']
+--------- item: 126854001 ------------
+126854001: code: 126854001
+extprdid not found in props of code 126854001
+126854001: title: "Strength For My Grandson" Personalized Men's Bracelet
+126854001: SHORT_NAME: Strength For My Grandson Personalized Men's Bracelet
+Product not found in props of code 126854001
+126854001: shortdesc: Strength For My Grandson Personalized Stainless Steel Men's Bracelet
+126854001: FEATURE_VALUES: Stainless Steel
+126854001: keywords: Strength
+126854001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 126854001
+126854001: OTHER_COUNTRY_PROD_ID: None
+126854001: EMAIL_SUBJECT_TITLE: Personalized Men's Bracelet for Grandsons
+Product Types: ["Men's Bracelets"]
+Themes: ['Birthdays']
+--------- item: 121166001 ------------
+121166001: code: 121166001
+extprdid not found in props of code 121166001
+121166001: title: Star-Spangled Banner Men's Leather Bracelet With Engraving
+121166001: SHORT_NAME: Star-Spangled Banner Men's Bracelet
+Product not found in props of code 121166001
+121166001: shortdesc: Stainless Steel Star-Spangled Banner Men's Leather Bracelet
+121166001: FEATURE_VALUES: Stainless Steel
+121166001: keywords: silver jewelry
+121166001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121166001
+121166001: OTHER_COUNTRY_PROD_ID: None
+121166001: EMAIL_SUBJECT_TITLE: Star-Spangled Banner Men's Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Eagles', 'Patriotic']
+--------- item: 129551001 ------------
+129551001: code: 129551001
+extprdid not found in props of code 129551001
+129551001: title: "I Love You" Sound Wave Design Leather Bracelet For Son
+129551001: SHORT_NAME: Son, Always Remember I Love You Men's Bracelet
+Product not found in props of code 129551001
+129551001: shortdesc: Son, Always Remember I Love You Etched Sound Waves Men's Stainless Steel Bracelet With Genuine Woven Black Leather Band
+129551001: FEATURE_VALUES: Test
+129551001: keywords: Men's Bracelet
+129551001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 129551001
+129551001: OTHER_COUNTRY_PROD_ID: None
+129551001: EMAIL_SUBJECT_TITLE: Sound Wave Steel and Leather Bracelet for Son
+Product Types: ["Men's Bracelets"]
+Themes not found in dimensions of code 129551001
+--------- item: 121329001 ------------
+121329001: code: 121329001
+extprdid not found in props of code 121329001
+121329001: title: Air Force Personalized Men's Braided Leather ID Bracelet
+121329001: SHORT_NAME: Air Force Personalized Men's Bracelet
+Product not found in props of code 121329001
+121329001: shortdesc: Air Force Personalized Men's Braided Black Leather ID Bracelet
+121329001: FEATURE_VALUES: Stainless Steel
+121329001: keywords: silver jewelry
+121329001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 121329001
+121329001: OTHER_COUNTRY_PROD_ID: None
+121329001: EMAIL_SUBJECT_TITLE: Air Force Personalized Men's Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Military', 'Patriotic']
+--------- item: 123535001 ------------
+123535001: code: 123535001
+extprdid not found in props of code 123535001
+123535001: title: "In The Line Of Duty" Police Officer Leather Bracelet
+123535001: SHORT_NAME: In The Line Of Duty Bracelet
+Product not found in props of code 123535001
+123535001: shortdesc: In The Line Of Duty Leather And Stainless Steel Bracelet
+123535001: FEATURE_VALUES: Stainless Steel
+123535001: keywords: men's jewelry
+123535001: MANUFACTURER: The Bradford Exchange
+artist not found in props of code 123535001
+123535001: OTHER_COUNTRY_PROD_ID: None
+123535001: EMAIL_SUBJECT_TITLE: Police Officer Men's Leather Bracelet
+Product Types: ["Men's Bracelets"]
+Themes: ['Police Officers']
