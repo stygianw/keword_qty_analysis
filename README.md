@@ -28,6 +28,9 @@ python compare_keyword_qtys.py
 SEARCH_WORDS = ['FIGURINES']
 ```
 2. Run **find_differences_by_word.py** script.
+```
+python find_differences_by_word.py
+```
 3. The script will generate an output file with name **result_FIGURINES_2019-08-12T15:10:06.859998.txt**. The endeca-only items will be listed under ---Endeca only--- header. The same is for solr-only items.
 
 ```
@@ -65,12 +68,12 @@ Product Types: ['Figurines']
 Themes: ['Cats', 'Cats', 'Cats']
 ```
 
-# Changing Solr or Endeca queries
+## Changing Solr or Endeca queries
 
 **solr_endeca_queries.py** script contains logic which forms Solr and Endeca queries. 
 Keywords will be automatically put to Solr and Endeca queries.
 
-####solr
+#### solr
 Solr query is static, so just take it from Solr log.
 Solr query is formed by _create_solr_url function. It will use the SOLR_QUERY constant and _create_solr_q_param function to form a query.
 ```python
@@ -81,7 +84,7 @@ def _create_solr_url(search_word):
     return "{}&{}".format(SOLR_QUERY, _create_solr_q_param(search_word))
 ```
 
-####Endeca
+#### Endeca
 
 Endeca query is set on line 14 of **solr_endeca_queries.py** module:
 
